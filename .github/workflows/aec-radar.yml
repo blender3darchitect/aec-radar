@@ -1,0 +1,44 @@
+name: AEC Radar
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every 6 hours (UTC), at minute 17
+  workflow_dispatch:          # "Run workflow" button for manual runs
+
+permissions:
+  contents: write   # commit state/ back to the repo
+  pages: write      # publish the feed
+  id-token: write   # required by deploy-pages
+
+concurrency:
+  group: aec-radar
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Search and build feed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 radar.py
+
+      - name: Save state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state
+          git diff --cached --quiet || git commit -m "radar: update state"
+          git push
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+      - id: deploy
+        uses: actions/deploy-pages@v4
