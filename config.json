@@ -1,0 +1,75 @@
+{
+  "feed": {
+    "title": "AEC Radar: new CAD/BIM repos",
+    "site_url": "https://blender3darchitect.github.io/aec-radar/",
+    "max_items": 200
+  },
+  "window_days": 3,
+  "min_score": 5,
+
+  "github": {
+    "queries": [
+      "sketchup",
+      "revit",
+      "autocad",
+      "archicad",
+      "rhino3d",
+      "\"rhino\" 3d modeling",
+      "bim",
+      "ifc",
+      "\"web cad\"",
+      "\"browser cad\"",
+      "cad threejs",
+      "\"floor plan\" editor",
+      "\"parametric cad\"",
+      "topic:cad",
+      "topic:bim",
+      "topic:ifc",
+      "\"vibe coded\" 3d"
+    ],
+    "rising": {
+      "window_days": 30,
+      "min_stars": 25,
+      "queries": ["cad", "bim", "ifc", "sketchup", "revit"]
+    },
+    "max_root_checks": 40
+  },
+
+  "gitlab": {
+    "enabled": true,
+    "terms": ["cad", "bim", "ifc", "sketchup", "revit"]
+  },
+
+  "codeberg": {
+    "enabled": true,
+    "terms": ["cad", "bim", "ifc", "sketchup", "revit"]
+  },
+
+  "scoring": {
+    "brand_terms": ["sketchup", "revit", "autocad", "archicad", "rhino", "rhino3d", "vectorworks",
+                    "fusion 360", "onshape", "solidworks", "freecad", "grasshopper", "bricscad", "microstation"],
+    "format_terms": ["ifc", "dxf", "dwg", "step", "brep", "b-rep", "opencascade", "occt", "web-ifc",
+                     "ifcopenshell", "replicad", "thatopen", "manifold"],
+    "domain_terms": ["cad", "bim", "aec", "floor plan", "floorplan", "architect", "architectural", "building",
+                     "parametric", "modeler", "modeller", "3d modeling", "3d modelling", "drafting"],
+    "topic_terms": ["cad", "bim", "ifc", "aec", "sketchup", "revit", "autocad", "3d-modeling", "cad-software",
+                    "threejs", "three-js", "webgl", "webgpu", "opencascade", "parametric-design",
+                    "computational-design", "floor-plan"],
+    "clone_terms": ["clone", "alternative", "sketchup-style", "revit-style", "autocad-style", "archicad-style",
+                    "rhino-style", "onshape-style", "in the spirit of", "clean-room", "push/pull", "push-pull",
+                    "push pull", "open-source cad", "open source cad", "open-source bim", "open source bim",
+                    "bim authoring", "bim modeller", "bim modeler"],
+    "web_terms": ["browser", "browser-based", "web-based", "in the browser", "wasm", "webassembly", "webgpu",
+                  "webgl", "threejs", "three.js", "pwa", "no install"],
+    "ai_terms": ["vibe coded", "vibe-coded", "vibe coding", "vibe-coding", "claude code", "claude-code",
+                 "built with claude", "made with claude", "made with cursor", "built with cursor", "cursor ai",
+                 "codex", "lovable", "bolt.new", "v0.dev", "windsurf", "ai-generated", "ai generated"],
+    "ai_files": ["CLAUDE.md", "AGENTS.md", "GEMINI.md", ".cursorrules", ".cursor", ".windsurfrules", ".claude"],
+    "negative_terms": ["homework", "assignment", "tutorial", "course", "exercise", "practice", "portfolio",
+                       "bootcamp", "learning", "test"],
+    "spam_terms": ["pre-activated", "preactivated", "activated", "activator", "crack", "cracked", "keygen",
+                   "serial key", "license key", "full version", "full edition", "standalone setup",
+                   "free download", "ready-to-run", "ready to run", "portable edition", "repack",
+                   "full desktop edition", "setup guide", "install steps", "pre-installed", "lifetime license"]
+  }
+}
