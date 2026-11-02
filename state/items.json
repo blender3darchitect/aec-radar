@@ -1,5 +1,183 @@
 [
  {
+  "id": "gh:gronskideveloper/blender-to-glb-pipeline",
+  "source": "GitHub",
+  "name": "GronskiDeveloper/blender-to-glb-pipeline",
+  "owner": "GronskiDeveloper",
+  "url": "https://github.com/GronskiDeveloper/blender-to-glb-pipeline",
+  "description": "Clean .glb out of Blender/CAD for the web, plus a dependency-free Node checker that flags the usual mistakes.",
+  "homepage": "",
+  "stars": 0,
+  "language": "JavaScript",
+  "topics": [
+   "3d",
+   "blender",
+   "glb",
+   "gltf",
+   "nodejs",
+   "optimization",
+   "pipeline",
+   "threejs",
+   "webgl"
+  ],
+  "created_at": "2026-10-31T19:23:29Z",
+  "pushed_at": "2026-10-31T19:23:35Z",
+  "query": "cad threejs",
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "WEB",
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [
+   "CLAUDE.md"
+  ],
+  "found_at": "2026-11-02T23:28:50Z"
+ },
+ {
+  "id": "gh:dkshyrion/wohnung-3d-planner",
+  "source": "GitHub",
+  "name": "dksHyrion/wohnung-3d-planner",
+  "owner": "dksHyrion",
+  "url": "https://github.com/dksHyrion/wohnung-3d-planner",
+  "description": "Precision 2D/3D Architectural Floorplan & Furniture Placement Simulator (1 Unit = 1 cm, OBB/SAT Collision Engine, DIN 18040 Ergonomics, Scaled 1:50 SVG Export)",
+  "homepage": "",
+  "stars": 1,
+  "language": "TypeScript",
+  "topics": [
+   "architecture",
+   "cad",
+   "floorplan",
+   "interior-design",
+   "react-three-fiber",
+   "threejs",
+   "typescript"
+  ],
+  "created_at": "2026-10-30T15:46:57Z",
+  "pushed_at": "2026-10-31T10:22:56Z",
+  "query": "cad threejs",
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "WEB",
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [
+   "AGENTS.md",
+   "CLAUDE.md"
+  ],
+  "found_at": "2026-11-02T23:28:50Z"
+ },
+ {
+  "id": "gh:osaxma/napkin2factory",
+  "source": "GitHub",
+  "name": "osaxma/napkin2factory",
+  "owner": "osaxma",
+  "url": "https://github.com/osaxma/napkin2factory",
+  "description": "Turn an idea into a manufacturable design. Agentic, git-native, bring-your-own-AI. BOM, CAD, drawings, manuals — and engineering changes that sync everything.",
+  "homepage": "",
+  "stars": 1,
+  "language": "Python",
+  "topics": [
+   "ai-agents",
+   "bom",
+   "cad",
+   "design",
+   "hardware",
+   "manufacturing"
+  ],
+  "created_at": "2026-10-30T07:08:36Z",
+  "pushed_at": "2026-11-02T12:30:54Z",
+  "query": "topic:cad",
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [
+   "AGENTS.md"
+  ],
+  "found_at": "2026-11-02T23:28:50Z"
+ },
+ {
+  "id": "gh:jiangshirong/freeship-26",
+  "source": "GitHub",
+  "name": "jiangshirong/FreeShip-26",
+  "owner": "jiangshirong",
+  "url": "https://github.com/jiangshirong/FreeShip-26",
+  "description": "A modernized fork of FREE!ship Plus in Lazarus — hull design, hydrostatics and linesplan with a new StudioLight UI, 5–17.6× faster rendering, 17 upstream fixes and 7 UI languages. | FreeShip_26 船体设计与静水力工作台",
+  "homepage": "",
+  "stars": 0,
+  "language": "Pascal",
+  "topics": [
+   "cad",
+   "desktop-app",
+   "freepascal",
+   "freeship",
+   "gplv3",
+   "hull-design",
+   "hydrostatics",
+   "lazarus",
+   "linesplan",
+   "naval-architecture",
+   "object-pascal",
+   "performance",
+   "ship-design",
+   "ui-redesign",
+   "windows"
+  ],
+  "created_at": "2026-11-01T16:21:00Z",
+  "pushed_at": "2026-11-01T16:24:39Z",
+  "query": "topic:cad",
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [
+   "AGENTS.md"
+  ],
+  "found_at": "2026-11-02T23:28:50Z"
+ },
+ {
+  "id": "gh:xiv-gate/revit-blender-bridge",
+  "source": "GitHub",
+  "name": "XIV-gate/revit-blender-bridge",
+  "owner": "XIV-gate",
+  "url": "https://github.com/XIV-gate/revit-blender-bridge",
+  "description": "AGR Revit Bridge — локальный импорт Revit в Blender: выбор элементов, редактируемые инстансы, материалы и превью слоёв. XIVgate.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "architecture",
+   "bim",
+   "blender",
+   "revit",
+   "xivgate"
+  ],
+  "created_at": "2026-10-30T12:22:03Z",
+  "pushed_at": "2026-10-30T19:51:10Z",
+  "query": "topic:bim",
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC",
+   "AI"
+  ],
+  "matched": [
+   "revit"
+  ],
+  "ai_files": [
+   "AGENTS.md"
+  ],
+  "found_at": "2026-11-02T23:28:50Z"
+ },
+ {
   "id": "gh:tangency-labs/solidcraft",
   "source": "GitHub",
   "name": "tangency-labs/solidcraft",
