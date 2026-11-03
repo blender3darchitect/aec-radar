@@ -1,5 +1,250 @@
 [
  {
+  "id": "gh:ajsjsc/ajs-pdf-editor",
+  "source": "GitHub",
+  "name": "ajsjsc/ajs-pdf-editor",
+  "owner": "ajsjsc",
+  "url": "https://github.com/ajsjsc/ajs-pdf-editor",
+  "description": "AJS PDF Editor – bản sửa đổi của PdfCraft (MIT OR Apache-2.0) do AJS phân phối kèm plugin AutoCAD. Based on PdfCraft by the ArtCraft team and the PdfCraft contributors.",
+  "homepage": "https://lisp.vn",
+  "stars": 0,
+  "language": "Rust",
+  "topics": [],
+  "created_at": "2026-11-03T03:15:25Z",
+  "pushed_at": "2026-11-03T03:32:54Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "DEMO",
+   "AEC",
+   "AI"
+  ],
+  "matched": [
+   "autocad"
+  ],
+  "ai_files": [
+   "AGENTS.md",
+   "CLAUDE.md"
+  ],
+  "found_at": "2026-11-03T06:42:50Z"
+ },
+ {
+  "id": "gh:felipetorog/igen-website",
+  "source": "GitHub",
+  "name": "FelipeToroG/iGen-Website",
+  "owner": "FelipeToroG",
+  "url": "https://github.com/FelipeToroG/iGen-Website",
+  "description": "Official website for iGen CAD CAM Designers: dedicated remote CAD drafting, CNC programming and slab layout/nesting for stone and countertop fabricators. Static HTML/CSS/JS with an embedded AI assistant.",
+  "homepage": "https://felipetorog.github.io/iGen-Website/",
+  "stars": 0,
+  "language": "HTML",
+  "topics": [
+   "botpres",
+   "cad",
+   "cnc",
+   "countertops",
+   "github-pages",
+   "stone-fabrication"
+  ],
+  "created_at": "2026-11-02T12:17:27Z",
+  "pushed_at": "2026-11-03T03:20:27Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "DEMO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T06:42:50Z"
+ },
+ {
+  "id": "gh:andidewanto/quick-dimension",
+  "source": "GitHub",
+  "name": "andidewanto/quick-dimension",
+  "owner": "andidewanto",
+  "url": "https://github.com/andidewanto/quick-dimension",
+  "description": "Quick Dimension – free SketchUp extension: click any object or face to show its dimensions on screen. Three modes, export to image. Download, tutorial and support.",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [],
+  "created_at": "2026-11-03T04:56:30Z",
+  "pushed_at": "2026-11-03T04:57:54Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC",
+   "SKETCHUP"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T06:42:50Z"
+ },
+ {
+  "id": "gh:sunmy6664-commits/solidworks-ansys-topology-optimization-mcp",
+  "source": "GitHub",
+  "name": "sunmy6664-commits/Solidworks-Ansys-Topology-Optimization-MCP",
+  "owner": "sunmy6664-commits",
+  "url": "https://github.com/sunmy6664-commits/Solidworks-Ansys-Topology-Optimization-MCP",
+  "description": "Two MCP servers that let AI agents drive SolidWorks and ANSYS Mechanical in a closed loop: parametric CAD edit → simulation → optimization → next design point. 111+56 tools, zero-config assembly joints, read-back verification, works fully offline with local LLMs.",
+  "homepage": "",
+  "stars": 1,
+  "language": "Python",
+  "topics": [
+   "ansys-mechanical",
+   "cad",
+   "cae",
+   "model-context-protocol",
+   "solidworks",
+   "topology-optimization"
+  ],
+  "created_at": "2026-11-03T03:25:29Z",
+  "pushed_at": "2026-11-03T03:45:49Z",
+  "query": "\"parametric cad\"",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "solidworks"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T06:42:50Z"
+ },
+ {
+  "id": "gh:andless-tech/quic-pro-v2-mechanical",
+  "source": "GitHub",
+  "name": "andless-tech/quic-pro-v2-mechanical",
+  "owner": "andless-tech",
+  "url": "https://github.com/andless-tech/quic-pro-v2-mechanical",
+  "description": "Quic Pro V2 mechanical CAD sources: SolidWorks assembly, enclosure, camera gimbal and reference models.",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [
+   "cad",
+   "hardware",
+   "mechanical-design",
+   "solidworks"
+  ],
+  "created_at": "2026-11-03T03:44:42Z",
+  "pushed_at": "2026-11-03T03:53:14Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "solidworks"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T06:42:50Z"
+ },
+ {
+  "id": "gh:bryanrafaelbueno/wheel_optimizer",
+  "source": "GitHub",
+  "name": "bryanrafaelbueno/wheel_optimizer",
+  "owner": "bryanrafaelbueno",
+  "url": "https://github.com/bryanrafaelbueno/wheel_optimizer",
+  "description": "Parametric wheel optimization for STEM Racing: Fusion 360 CAD, Gmsh + CalculiX validation, local dashboard.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "cad",
+   "calculix",
+   "fusion360",
+   "gmsh",
+   "optimization",
+   "pareto",
+   "python",
+   "stem-racing"
+  ],
+  "created_at": "2026-11-03T03:35:10Z",
+  "pushed_at": "2026-11-03T03:35:20Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "fusion 360"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T06:42:50Z"
+ },
+ {
+  "id": "gh:trailcurrentoss/trailcurrentgodwit",
+  "source": "GitHub",
+  "name": "trailcurrentoss/TrailCurrentGodwit",
+  "owner": "trailcurrentoss",
+  "url": "https://github.com/trailcurrentoss/TrailCurrentGodwit",
+  "description": "The repository for source code, cad files and assets related to the Gotwit module from TrailCurrent",
+  "homepage": "",
+  "stars": 57,
+  "language": "QML",
+  "topics": [],
+  "created_at": "2026-10-24T21:41:55Z",
+  "pushed_at": "2026-11-03T02:42:52Z",
+  "query": "cad",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "RISING"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T06:42:50Z"
+ },
+ {
+  "id": "gh:remianton/ingetrazo-mac-trackpad-navigation",
+  "source": "GitHub",
+  "name": "RemiAnton/ingetrazo-mac-trackpad-navigation",
+  "owner": "RemiAnton",
+  "url": "https://github.com/RemiAnton/ingetrazo-mac-trackpad-navigation",
+  "description": "Blender style viewport navigation for MAC users",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-11-03T05:30:45Z",
+  "pushed_at": "2026-11-03T06:06:06Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T06:42:50Z"
+ },
+ {
   "id": "gh:vicc3d/ingetrazo-blender",
   "source": "GitHub",
   "name": "vicc3d/ingetrazo-blender",
@@ -156,7 +401,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 9,
+  "score": 8,
   "flags": [
    "DEMO",
    "AEC",
@@ -501,7 +746,7 @@
   "always_publish": true,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "AEC",
    "INGETRAZO"
@@ -757,7 +1002,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "AI"
@@ -1240,7 +1485,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -1273,7 +1518,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -1807,7 +2052,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "BLENDER"
   ],
@@ -1841,7 +2086,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "BLENDER"
   ],
@@ -4473,7 +4718,7 @@
   "pushed_at": "2026-11-01T03:14:46Z",
   "query": "cad threejs",
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "DEMO",
    "WEB"
@@ -6242,7 +6487,7 @@
   "pushed_at": "2026-11-01T02:38:09Z",
   "query": "autocad",
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
