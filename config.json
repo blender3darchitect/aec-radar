@@ -2,8 +2,14 @@
   "feed": {
     "title": "AEC Radar: new CAD/BIM repos",
     "site_url": "https://blender3darchitect.github.io/aec-radar/",
-    "max_items": 200
+    "max_items": 400
   },
+  "feeds": [
+    {"file": "feed.xml", "title": "AEC Radar: clones & CAD/BIM apps", "exclude_tags": ["INGETRAZO", "BLENDER", "SKETCHUP"], "keep_tags": ["CLONE"]},
+    {"file": "addons.xml", "title": "AEC Radar: add-ons (IngeTrazo, Blender, SketchUp)", "include_tags": ["INGETRAZO", "BLENDER", "SKETCHUP"], "exclude_tags": ["CLONE"]}
+  ],
+  "addon_words": ["addon", "add-on", "addons", "add-ons", "extension", "extensions", "plugin", "plugins",
+                  "plug-in", "ruby", "bridge", "importer", "exporter", "import", "export", "toolbar"],
   "window_days": 3,
   "min_score": 5,
 
@@ -35,6 +41,36 @@
     "max_root_checks": 40
   },
 
+  "ecosystems": [
+    {
+      "tag": "INGETRAZO",
+      "terms": ["ingetrazo"],
+      "queries": ["ingetrazo"],
+      "window_days": 60,
+      "max_pages": 3,
+      "bonus": 4,
+      "always_relevant": true,
+      "always_publish": true
+    },
+    {
+      "tag": "BLENDER",
+      "terms": ["blender"],
+      "requires_addon_words": true,
+      "min_score": 3,
+      "queries": ["blender addon", "blender add-on", "blender extension", "blender plugin",
+                  "topic:blender-addon", "topic:blender-extension"],
+      "bonus": 2
+    },
+    {
+      "tag": "SKETCHUP",
+      "terms": ["sketchup"],
+      "requires_addon_words": true,
+      "min_score": 3,
+      "queries": ["sketchup extension", "sketchup plugin", "sketchup ruby", "topic:sketchup-extension"],
+      "bonus": 2
+    }
+  ],
+
   "gitlab": {
     "enabled": true,
     "terms": ["cad", "bim", "ifc", "sketchup", "revit"]
@@ -50,8 +86,10 @@
                     "fusion 360", "onshape", "solidworks", "freecad", "grasshopper", "bricscad", "microstation"],
     "format_terms": ["ifc", "dxf", "dwg", "step", "brep", "b-rep", "opencascade", "occt", "web-ifc",
                      "ifcopenshell", "replicad", "thatopen", "manifold"],
-    "domain_terms": ["cad", "bim", "aec", "floor plan", "floorplan", "architect", "architectural", "building",
-                     "parametric", "modeler", "modeller", "3d modeling", "3d modelling", "drafting"],
+    "domain_terms": ["architecture", "cad", "bim", "aec", "floor plan", "floorplan", "architect", "architectural", "building",
+                     "parametric", "modeler", "modeller", "3d modeling", "3d modelling", "drafting",
+                     "archviz", "arch-viz", "interior design", "furniture", "stairs", "staircase", "roof",
+                     "facade", "façade", "walls", "terrain", "site plan", "house", "rooms", "dimensions"],
     "topic_terms": ["cad", "bim", "ifc", "aec", "sketchup", "revit", "autocad", "3d-modeling", "cad-software",
                     "threejs", "three-js", "webgl", "webgpu", "opencascade", "parametric-design",
                     "computational-design", "floor-plan"],
@@ -61,6 +99,9 @@
                     "bim authoring", "bim modeller", "bim modeler"],
     "web_terms": ["browser", "browser-based", "web-based", "in the browser", "wasm", "webassembly", "webgpu",
                   "webgl", "threejs", "three.js", "pwa", "no install"],
+    "interop_terms": ["bridge", "importer", "exporter", "import/export", "node editor", "node-based",
+                      "grasshopper-style", "live link", "live-link", "round-trip", "interop",
+                      "interoperability", "converter", "connector", "sync"],
     "ai_terms": ["vibe coded", "vibe-coded", "vibe coding", "vibe-coding", "claude code", "claude-code",
                  "built with claude", "made with claude", "made with cursor", "built with cursor", "cursor ai",
                  "codex", "lovable", "bolt.new", "v0.dev", "windsurf", "ai-generated", "ai generated"],
