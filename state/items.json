@@ -1,5 +1,3223 @@
 [
  {
+  "id": "gh:vicc3d/ingetrazo-blender",
+  "source": "GitHub",
+  "name": "vicc3d/ingetrazo-blender",
+  "owner": "vicc3d",
+  "url": "https://github.com/vicc3d/ingetrazo-blender",
+  "description": "Import IngeTrazo (.igz) models into Blender 5 with their groups, components, materials and cameras, reload them live, and send edited UVs back to IngeTrazo.",
+  "homepage": "https://3dvic.com",
+  "stars": 16,
+  "language": "Python",
+  "topics": [
+   "3d-modeling",
+   "architecture",
+   "blender",
+   "blender-addon",
+   "ingetrazo"
+  ],
+  "created_at": "2026-09-30T02:19:18Z",
+  "pushed_at": "2026-10-25T03:39:23Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 13,
+  "flags": [
+   "DEMO",
+   "INGETRAZO",
+   "BLENDER"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:ingelibre/ingetrazo-extensions",
+  "source": "GitHub",
+  "name": "ingelibre/ingetrazo-extensions",
+  "owner": "ingelibre",
+  "url": "https://github.com/ingelibre/ingetrazo-extensions",
+  "description": "Catalog of community extensions for IngeTrazo — shown at ingetrazo.com/extensiones",
+  "homepage": "https://ingetrazo.com/extensiones",
+  "stars": 11,
+  "language": "Python",
+  "topics": [
+   "cad",
+   "extensions",
+   "ingetrazo"
+  ],
+  "created_at": "2026-10-02T15:07:24Z",
+  "pushed_at": "2026-11-01T18:44:08Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 12,
+  "flags": [
+   "DEMO",
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:em-rezende/ingetrazo-igz-toolbars",
+  "source": "GitHub",
+  "name": "em-rezende/Ingetrazo-igz-toolbars",
+  "owner": "em-rezende",
+  "url": "https://github.com/em-rezende/Ingetrazo-igz-toolbars",
+  "description": "Two IngeTrazo toolbars inspired by SketchUp: display styles (8 buttons) and shadows (sliders + toggle). GPL-3.0-or-later.",
+  "homepage": "",
+  "stars": 4,
+  "language": "Python",
+  "topics": [
+   "bim",
+   "blender-addon",
+   "ingelibre",
+   "ingetrazo",
+   "pyside6",
+   "python",
+   "qt",
+   "shadows",
+   "sketchup",
+   "toolbar"
+  ],
+  "created_at": "2026-10-01T02:14:38Z",
+  "pushed_at": "2026-10-08T15:44:20Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 12,
+  "flags": [
+   "AEC",
+   "INGETRAZO",
+   "BLENDER",
+   "SKETCHUP"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:dg71/ingetrazoweb-demo",
+  "source": "GitHub",
+  "name": "dg71/ingetrazoweb-demo",
+  "owner": "dg71",
+  "url": "https://github.com/dg71/ingetrazoweb-demo",
+  "description": "Live demo: IngeTrazo Web, a free 3D modeller with Push/Pull in the browser (GitHub Pages)",
+  "homepage": "https://dg71.github.io/ingetrazoweb-demo/",
+  "stars": 0,
+  "language": "HTML",
+  "topics": [],
+  "created_at": "2026-10-18T12:27:11Z",
+  "pushed_at": "2026-10-19T04:22:36Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 11,
+  "flags": [
+   "DEMO",
+   "CLONE",
+   "WEB",
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:nilove2018/cad-master-solidworks",
+  "source": "GitHub",
+  "name": "Nilove2018/cad-master-solidworks",
+  "owner": "Nilove2018",
+  "url": "https://github.com/Nilove2018/cad-master-solidworks",
+  "description": "CAD Master: Claude Code inside SOLIDWORKS. Describe a part, approve the plan, watch it get built and checked.",
+  "homepage": "https://github.com/Nilove2018/solidworks-api-skill",
+  "stars": 0,
+  "language": "C#",
+  "topics": [
+   "ai",
+   "automation",
+   "cad",
+   "claude-code",
+   "mechanical-engineering",
+   "solidworks",
+   "solidworks-addin"
+  ],
+  "created_at": "2026-10-31T21:58:39Z",
+  "pushed_at": "2026-11-01T06:33:58Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 9,
+  "flags": [
+   "DEMO",
+   "AEC",
+   "AI"
+  ],
+  "matched": [
+   "solidworks"
+  ],
+  "ai_files": [
+   "CLAUDE.md"
+  ],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:equipexq/archxq-it-lite",
+  "source": "GitHub",
+  "name": "equipexq/archxq-it-lite",
+  "owner": "equipexq",
+  "url": "https://github.com/equipexq/archxq-it-lite",
+  "description": "Architecture by phases for IngeTrazo — free Lite edition: terrain, excavations, walls, columns",
+  "homepage": "https://www.xq.com.br/archxq-it",
+  "stars": 3,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-04T16:27:11Z",
+  "pushed_at": "2026-11-02T14:04:02Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 9,
+  "flags": [
+   "DEMO",
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:leonardonardiko/tecnospace3d",
+  "source": "GitHub",
+  "name": "LeonardoNardiko/TecnoSpace3D",
+  "owner": "LeonardoNardiko",
+  "url": "https://github.com/LeonardoNardiko/TecnoSpace3D",
+  "description": "Zero-driver 125Hz Multi-CAD 6DoF bridge for legacy 3Dconnexion SpaceBall 5000 USB on Windows 10/11 (SOLIDWORKS, Inventor, Solid Edge, AutoCAD, FreeCAD & Blender)",
+  "homepage": "",
+  "stars": 0,
+  "language": "C#",
+  "topics": [
+   "3dconnexion",
+   "6dof",
+   "autocad",
+   "autodesk-inventor",
+   "blender",
+   "cad",
+   "freecad",
+   "hid",
+   "solid-edge",
+   "solidworks",
+   "spaceball-5000",
+   "spacemouse"
+  ],
+  "created_at": "2026-10-31T13:31:02Z",
+  "pushed_at": "2026-10-31T13:31:15Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "AEC",
+   "INTEROP",
+   "BLENDER"
+  ],
+  "matched": [
+   "autocad",
+   "solidworks",
+   "freecad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:nicolasmarc/ingetrazo-step",
+  "source": "GitHub",
+  "name": "nicolasmarc/ingetrazo-step",
+  "owner": "nicolasmarc",
+  "url": "https://github.com/nicolasmarc/ingetrazo-step",
+  "description": "STEP (.stp) export for IngeTrazo: closed solids, recognised cylinders, optional simplification.",
+  "homepage": "",
+  "stars": 2,
+  "language": "Python",
+  "topics": [
+   "cad",
+   "export",
+   "extension",
+   "ingetrazo",
+   "step"
+  ],
+  "created_at": "2026-10-17T17:25:43Z",
+  "pushed_at": "2026-10-31T23:42:31Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "AEC",
+   "INGETRAZO"
+  ],
+  "matched": [
+   "step"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:vicc3d/contexto-ingetrazo",
+  "source": "GitHub",
+  "name": "vicc3d/contexto-ingetrazo",
+  "owner": "vicc3d",
+  "url": "https://github.com/vicc3d/contexto-ingetrazo",
+  "description": "The city around your IngeTrazo project, from OpenStreetMap: buildings at their height, streets, green areas, water, trees and land use.",
+  "homepage": "https://ingetrazo.com/extensiones",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "3d-buildings",
+   "architecture",
+   "ingetrazo",
+   "ingetrazo-extension",
+   "openstreetmap",
+   "osm",
+   "overpass-api",
+   "python",
+   "urban-context"
+  ],
+  "created_at": "2026-10-30T04:04:17Z",
+  "pushed_at": "2026-10-30T04:04:46Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:vicc3d/croquis-ingetrazo",
+  "source": "GitHub",
+  "name": "vicc3d/croquis-ingetrazo",
+  "owner": "vicc3d",
+  "url": "https://github.com/vicc3d/croquis-ingetrazo",
+  "description": "Croquis for IngeTrazo: the view as an architect's freehand sketch. Ink, marker, watercolour, hatching, high contrast; PNG, layered SVG, PDF.",
+  "homepage": "https://ingetrazo.com/extensiones",
+  "stars": 2,
+  "language": "Python",
+  "topics": [
+   "architecture",
+   "freehand",
+   "ingetrazo",
+   "ingetrazo-extension",
+   "non-photorealistic-rendering",
+   "npr",
+   "python",
+   "sketch",
+   "watercolor"
+  ],
+  "created_at": "2026-10-20T23:20:27Z",
+  "pushed_at": "2026-10-25T00:38:34Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:nicolasmarc/ingetrazo-motion",
+  "source": "GitHub",
+  "name": "nicolasmarc/ingetrazo-motion",
+  "owner": "nicolasmarc",
+  "url": "https://github.com/nicolasmarc/ingetrazo-motion",
+  "description": "Mechanisms for IngeTrazo: joints, motors, dynamics, shocks, collisions, video — Mécanismes pour IngeTrazo",
+  "homepage": "",
+  "stars": 1,
+  "language": "Python",
+  "topics": [
+   "cad",
+   "collision-detection",
+   "furniture",
+   "gears",
+   "ingetrazo",
+   "ingetrazo-extension",
+   "kinematics",
+   "mechanical-engineering",
+   "mechanism",
+   "multibody-dynamics",
+   "numpy",
+   "pyside6",
+   "python",
+   "rigid-body-dynamics",
+   "step",
+   "woodworking"
+  ],
+  "created_at": "2026-10-23T22:27:37Z",
+  "pushed_at": "2026-10-23T22:42:19Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "AEC",
+   "INGETRAZO"
+  ],
+  "matched": [
+   "step"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:paulodinis/floorplan-to-3d-house",
+  "source": "GitHub",
+  "name": "paulodinis/floorplan-to-3d-house",
+  "owner": "paulodinis",
+  "url": "https://github.com/paulodinis/floorplan-to-3d-house",
+  "description": "Claude plugin: house plan (PDF/DXF) -> 2D approval plan -> interactive 3D (1-2 storeys) -> GLB/DXF, elevations, sun report, Blender video",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "architecture",
+   "blender",
+   "claude-plugin",
+   "claude-skill",
+   "dxf",
+   "floor-plan",
+   "three-js",
+   "threejs"
+  ],
+  "created_at": "2026-11-01T11:01:18Z",
+  "pushed_at": "2026-11-02T23:50:33Z",
+  "query": "blender plugin",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "AEC",
+   "WEB",
+   "BLENDER"
+  ],
+  "matched": [
+   "dxf"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:nihalpharis-byte/revit-sketchup-bridge",
+  "source": "GitHub",
+  "name": "nihalpharis-byte/revit-sketchup-bridge",
+  "owner": "nihalpharis-byte",
+  "url": "https://github.com/nihalpharis-byte/revit-sketchup-bridge",
+  "description": "Direct Revit–SketchUp model bridge: tracked element transfer, native wall edits, and reloadable reference geometry. Prototype v0.3.1.",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [],
+  "created_at": "2026-11-02T08:55:28Z",
+  "pushed_at": "2026-11-02T08:55:30Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "AEC",
+   "INTEROP",
+   "SKETCHUP"
+  ],
+  "matched": [
+   "sketchup",
+   "revit"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:seghier/ingetrazonodeeditor",
+  "source": "GitHub",
+  "name": "seghier/IngeTrazoNodeEditor",
+  "owner": "seghier",
+  "url": "https://github.com/seghier/IngeTrazoNodeEditor",
+  "description": "IngeTrazo NodeEditor for parametric design",
+  "homepage": "",
+  "stars": 7,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-02T10:42:06Z",
+  "pushed_at": "2026-11-01T17:22:29Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:buildsmart888/go-shx-stroke-text",
+  "source": "GitHub",
+  "name": "buildsmart888/go-shx-stroke-text",
+  "owner": "buildsmart888",
+  "url": "https://github.com/buildsmart888/go-shx-stroke-text",
+  "description": "Native SHX/SHP stroke text extension for IngeTrazo. Editable vector text in Model and Sheet Composer, with Thai Unicode/CP874 support and DXF export.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-11-01T05:33:38Z",
+  "pushed_at": "2026-11-01T06:19:52Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "AEC",
+   "INGETRAZO"
+  ],
+  "matched": [
+   "dxf"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:hamzah1985/ingetrazo-twinmotion-sync",
+  "source": "GitHub",
+  "name": "hamzah1985/ingetrazo-twinmotion-sync",
+  "owner": "hamzah1985",
+  "url": "https://github.com/hamzah1985/ingetrazo-twinmotion-sync",
+  "description": "Experimental IngeTrazo → Twinmotion Direct Link connector for geometry, materials and camera sync. Source, setup guidance, tests and community contributions.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-29T03:28:08Z",
+  "pushed_at": "2026-10-29T03:32:24Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "INTEROP",
+   "INGETRAZO",
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [
+   "AGENTS.md"
+  ],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:em-rezende/ingetrazo-igz-geotiff-import",
+  "source": "GitHub",
+  "name": "em-rezende/Ingetrazo-igz-geotiff-import",
+  "owner": "em-rezende",
+  "url": "https://github.com/em-rezende/Ingetrazo-igz-geotiff-import",
+  "description": "GeoTIFF import and GIS toolkit for IngeTrazo: georeferenced orthophotos, coordinate labels, UTM reprojection, grids, cropping and map-tile capture.",
+  "homepage": "https://github.com/ingelibre/ingetrazo",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "geotiff",
+   "gis",
+   "ingetrazo",
+   "pyside6",
+   "python"
+  ],
+  "created_at": "2026-10-28T01:23:18Z",
+  "pushed_at": "2026-10-28T02:40:48Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "DEMO",
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:julius-b-mueller/tapetum",
+  "source": "GitHub",
+  "name": "julius-b-mueller/tapetum",
+  "owner": "julius-b-mueller",
+  "url": "https://github.com/julius-b-mueller/tapetum",
+  "description": "3D Visualizer to work seamlessly with BlinerKitten and IngeTrazo",
+  "homepage": "http://tapetum.org/",
+  "stars": 0,
+  "language": "Rust",
+  "topics": [],
+  "created_at": "2026-10-21T20:28:01Z",
+  "pushed_at": "2026-10-25T13:49:42Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "DEMO",
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:smokey7428/ingetrazo-addons",
+  "source": "GitHub",
+  "name": "smokey7428/ingetrazo-addons",
+  "owner": "smokey7428",
+  "url": "https://github.com/smokey7428/ingetrazo-addons",
+  "description": "IngeTrazo add-ons: IFC data editing, and walls with doors and windows",
+  "homepage": "",
+  "stars": 1,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-18T12:45:12Z",
+  "pushed_at": "2026-10-20T18:59:53Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "AEC",
+   "INGETRAZO",
+   "AI"
+  ],
+  "matched": [
+   "ifc"
+  ],
+  "ai_files": [
+   "AGENTS.md"
+  ],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:em-rezende/ingetrazo-igz-sunpath",
+  "source": "GitHub",
+  "name": "em-rezende/Ingetrazo-igz-sunpath",
+  "owner": "em-rezende",
+  "url": "https://github.com/em-rezende/Ingetrazo-igz-sunpath",
+  "description": "Sun Path toolbar for IngeTrazo: shadows, 3D sun vector, solar dome, location and PNG export",
+  "homepage": "",
+  "stars": 1,
+  "language": "Python",
+  "topics": [
+   "cad",
+   "ingetrazo",
+   "pyside6",
+   "solar-analysis"
+  ],
+  "created_at": "2026-10-18T12:29:10Z",
+  "pushed_at": "2026-10-18T12:45:20Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:em-rezende/ingetrazo-igz-modify-3d",
+  "source": "GitHub",
+  "name": "em-rezende/Ingetrazo-igz-modify-3d",
+  "owner": "em-rezende",
+  "url": "https://github.com/em-rezende/Ingetrazo-igz-modify-3d",
+  "description": "3D Modifiers toolbar plugin for IngeTrazo - Mirror, Scale, Rotate, Align, Array and Polar Array tools built with PySide6.",
+  "homepage": "",
+  "stars": 1,
+  "language": "Python",
+  "topics": [
+   "3d",
+   "align",
+   "array",
+   "cad",
+   "gplv3",
+   "ingetrazo",
+   "mirror",
+   "plugin",
+   "pyside6",
+   "python",
+   "qt",
+   "rotate",
+   "scale"
+  ],
+  "created_at": "2026-10-02T15:29:35Z",
+  "pushed_at": "2026-10-06T12:18:02Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:glenn-de-backer/blender-step-importer",
+  "source": "GitHub",
+  "name": "glenn-de-backer/blender-step-importer",
+  "owner": "glenn-de-backer",
+  "url": "https://github.com/glenn-de-backer/blender-step-importer",
+  "description": "Blender add-on for importing STEP assemblies with part names, colors, hierarchy, and adaptive meshing.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "blender",
+   "blender-addon",
+   "blender-extension",
+   "import",
+   "step"
+  ],
+  "created_at": "2026-11-02T13:58:45Z",
+  "pushed_at": "2026-11-02T14:17:18Z",
+  "query": "blender add-on",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "AEC",
+   "INTEROP",
+   "BLENDER"
+  ],
+  "matched": [
+   "step"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:rt3norio/featurescript-skill",
+  "source": "GitHub",
+  "name": "rt3norio/featurescript-skill",
+  "owner": "rt3norio",
+  "url": "https://github.com/rt3norio/featurescript-skill",
+  "description": "Claude Code skill for Onshape FeatureScript: condensed guide + build script that turns the official FsDoc (guide, language ref, full Standard Library) into greppable markdown",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "cad",
+   "claude-code",
+   "claude-skill",
+   "featurescript",
+   "onshape"
+  ],
+  "created_at": "2026-11-01T03:04:23Z",
+  "pushed_at": "2026-11-01T04:11:48Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "AI"
+  ],
+  "matched": [
+   "onshape"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:eddy-99/eddys-3d-plugins-ingetrazo",
+  "source": "GitHub",
+  "name": "eddy-99/eddys-3d-plugins-ingetrazo",
+  "owner": "eddy-99",
+  "url": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
+  "description": "3D plugins for IngeTrazo: bricks, roof tiles, windows, doors, planking, fences, gutters, pipes, chimney wrap and more - for model railway buildings and 3D printing",
+  "homepage": "",
+  "stars": 2,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-30T11:46:47Z",
+  "pushed_at": "2026-11-02T11:15:14Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:aymenart/trim_fillet",
+  "source": "GitHub",
+  "name": "aymenart/trim_fillet",
+  "owner": "aymenart",
+  "url": "https://github.com/aymenart/trim_fillet",
+  "description": "Professional CAD Trim, Fillet (Arc Corner), and Chamfer (Bevel) tools for IngeTrazo.",
+  "homepage": "",
+  "stars": 1,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-22T06:39:31Z",
+  "pushed_at": "2026-11-01T09:44:57Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:nicolasmarc/ingetrazo-subdiv",
+  "source": "GitHub",
+  "name": "nicolasmarc/ingetrazo-subdiv",
+  "owner": "nicolasmarc",
+  "url": "https://github.com/nicolasmarc/ingetrazo-subdiv",
+  "description": "SubD (Catmull-Clark) modelling tools for IngeTrazo: cage editing, creases, one-click Finish to a solid. Free and open source (GPL-3.0).",
+  "homepage": "",
+  "stars": 2,
+  "language": "Python",
+  "topics": [
+   "3d-modeling",
+   "catmull-clark",
+   "extension",
+   "gpl-3",
+   "ingetrazo",
+   "python",
+   "subdivision"
+  ],
+  "created_at": "2026-10-11T13:08:43Z",
+  "pushed_at": "2026-10-30T20:41:21Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:aashishzharbade-arch/ingetrazo-extensions",
+  "source": "GitHub",
+  "name": "aashishzharbade-arch/ingetrazo-extensions",
+  "owner": "aashishzharbade-arch",
+  "url": "https://github.com/aashishzharbade-arch/ingetrazo-extensions",
+  "description": "My extensions for IngeTrazo ( The open-source 3D modeler for architecture, engineering and design.)",
+  "homepage": "",
+  "stars": 5,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-02T18:50:09Z",
+  "pushed_at": "2026-10-29T14:57:49Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:mtak35/cad2ingetrazo",
+  "source": "GitHub",
+  "name": "mtak35/cad2ingetrazo",
+  "owner": "mtak35",
+  "url": "https://github.com/mtak35/cad2ingetrazo",
+  "description": "CAD floor plans (DWG/DXF) to an editable BIM model in IngeTrazo, level by level.",
+  "homepage": "",
+  "stars": 3,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-08T06:51:01Z",
+  "pushed_at": "2026-10-29T13:57:20Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "INGETRAZO"
+  ],
+  "matched": [
+   "dxf",
+   "dwg"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:mariuseng-dot/ingetrazo-ifc-import",
+  "source": "GitHub",
+  "name": "mariuseng-dot/IngeTrazo-IFC-Import",
+  "owner": "mariuseng-dot",
+  "url": "https://github.com/mariuseng-dot/IngeTrazo-IFC-Import",
+  "description": "extension foe basic import of ifc models",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-26T20:40:00Z",
+  "pushed_at": "2026-10-28T15:09:41Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "INGETRAZO"
+  ],
+  "matched": [
+   "ifc"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:hamzah1985/ingetrazo-d5-sync",
+  "source": "GitHub",
+  "name": "hamzah1985/ingetrazo-d5-sync",
+  "owner": "hamzah1985",
+  "url": "https://github.com/hamzah1985/ingetrazo-d5-sync",
+  "description": "Experimental IngeTrazo to D5 Render sync plugin. Source, installer and tests; pull requests welcome.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-28T03:29:45Z",
+  "pushed_at": "2026-10-28T09:56:12Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "INTEROP",
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:saoru71/ingetrazo-lite-bridge",
+  "source": "GitHub",
+  "name": "Saoru71/ingetrazo-lite-bridge",
+  "owner": "Saoru71",
+  "url": "https://github.com/Saoru71/ingetrazo-lite-bridge",
+  "description": "Lite Bridge for IngeTrazo: capture the viewport and redraw it with Stable Diffusion 1.5 through ComfyUI (free demo). GPL-3.0-or-later.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-26T01:32:23Z",
+  "pushed_at": "2026-10-27T12:40:56Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "INTEROP",
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:lelopes05/opentrace-bim",
+  "source": "GitHub",
+  "name": "lelopes05/opentrace-bim",
+  "owner": "lelopes05",
+  "url": "https://github.com/lelopes05/opentrace-bim",
+  "description": "Parametric architecture and BIM tools for IngeTrazo — curved and editable walls, slabs, beams, columns, complex profiles, levels, hosted openings, and direct parametric editing using native IngeTrazo workflows.",
+  "homepage": "",
+  "stars": 13,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-04T15:04:11Z",
+  "pushed_at": "2026-10-25T12:54:46Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:9g6smzc8fv-dot/ingetrazo-sheet-metal-angles",
+  "source": "GitHub",
+  "name": "9g6smzc8fv-dot/ingetrazo-sheet-metal-angles",
+  "owner": "9g6smzc8fv-dot",
+  "url": "https://github.com/9g6smzc8fv-dot/ingetrazo-sheet-metal-angles",
+  "description": "Sheet-metal pans, flanges and returns for IngeTrazo, with adjustable bend angles, flat patterns and DXF export.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-19T16:08:30Z",
+  "pushed_at": "2026-10-19T16:54:51Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "INGETRAZO"
+  ],
+  "matched": [
+   "dxf"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:hag00nz/ingetrazo-step-import-extension",
+  "source": "GitHub",
+  "name": "HAg00nz/IngeTrazo-STEP-import-extension",
+  "owner": "HAg00nz",
+  "url": "https://github.com/HAg00nz/IngeTrazo-STEP-import-extension",
+  "description": "Extension to be able to import step files",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-15T04:48:41Z",
+  "pushed_at": "2026-10-15T05:10:50Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "INGETRAZO"
+  ],
+  "matched": [
+   "step"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:thomasloockx/modlumi-kitchenmaker",
+  "source": "GitHub",
+  "name": "thomasloockx/modlumi-kitchenmaker",
+  "owner": "thomasloockx",
+  "url": "https://github.com/thomasloockx/modlumi-kitchenmaker",
+  "description": "Parametric kitchen cabinets for Modlumi, ported from IngeTrazo KitchenMaker V.2 for SketchUp (GPL-3.0)",
+  "homepage": "",
+  "stars": 1,
+  "language": "JavaScript",
+  "topics": [],
+  "created_at": "2026-10-12T14:08:06Z",
+  "pushed_at": "2026-10-13T04:46:17Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "INGETRAZO"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:cekuhnen/blenderstep",
+  "source": "GitHub",
+  "name": "cekuhnen/BlenderSTEP",
+  "owner": "cekuhnen",
+  "url": "https://github.com/cekuhnen/BlenderSTEP",
+  "description": "BlenderSTEP is a pure STEP import add-on for Blender: import STEP bodies, mesh them for display, bake to a plain mesh.",
+  "homepage": "",
+  "stars": 13,
+  "language": "",
+  "topics": [],
+  "created_at": "2026-11-01T00:33:20Z",
+  "pushed_at": "2026-11-01T18:10:24Z",
+  "query": "blender add-on",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "BLENDER"
+  ],
+  "matched": [
+   "step"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:boybrisk1993/thuvien-plugins",
+  "source": "GitHub",
+  "name": "boybrisk1993/thuvien-plugins",
+  "owner": "boybrisk1993",
+  "url": "https://github.com/boybrisk1993/thuvien-plugins",
+  "description": "Plugin cho Revit, AutoCAD, SketchUp - thuvien.space",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [],
+  "created_at": "2026-11-01T20:44:28Z",
+  "pushed_at": "2026-11-01T20:44:29Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC",
+   "SKETCHUP"
+  ],
+  "matched": [
+   "sketchup",
+   "revit",
+   "autocad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:altintx/insulin-vial-rack",
+  "source": "GitHub",
+  "name": "altintx/insulin-vial-rack",
+  "owner": "altintx",
+  "url": "https://github.com/altintx/insulin-vial-rack",
+  "description": "Using your butter drawer more efficiently. Generate a rack for holding vials. This is Ruby code for use in Sketchup's Ruby Console.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Ruby",
+  "topics": [],
+  "created_at": "2026-11-01T17:27:38Z",
+  "pushed_at": "2026-11-01T17:40:35Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC",
+   "SKETCHUP"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:intgral-ai/open-skyfall",
+  "source": "GitHub",
+  "name": "intgral-ai/open-skyfall",
+  "owner": "intgral-ai",
+  "url": "https://github.com/intgral-ai/open-skyfall",
+  "description": "Skill-first CAD reconstruction with LLMs, smlibpy and a lightweight STEP viewer. Independent research prototype.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "agent-skills",
+   "cad",
+   "mechanical-design",
+   "reverse-engineering",
+   "smlibpy",
+   "step",
+   "text-to-cad"
+  ],
+  "created_at": "2026-11-02T23:31:55Z",
+  "pushed_at": "2026-11-02T23:40:39Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "step"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:w5656-gif/drawing-to-solid-falsified",
+  "source": "GitHub",
+  "name": "W5656-GIF/drawing-to-solid-falsified",
+  "owner": "W5656-GIF",
+  "url": "https://github.com/W5656-GIF/drawing-to-solid-falsified",
+  "description": "用 11 个真实机械零件证伪 2D→3D 大模型流水线：精度能到 1%，直通率只有 73%。九道校核闸门 + 对照试验。LLM · CAD · SolidWorks · hallucination",
+  "homepage": "",
+  "stars": 1,
+  "language": "",
+  "topics": [
+   "cad",
+   "hallucination",
+   "llm",
+   "mechanical-engineering",
+   "reverse-engineering",
+   "solidworks",
+   "verification"
+  ],
+  "created_at": "2026-11-01T06:00:57Z",
+  "pushed_at": "2026-11-01T06:04:16Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "solidworks"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:rt3norio/onshape-pegboard-pegs",
+  "source": "GitHub",
+  "name": "rt3norio/onshape-pegboard-pegs",
+  "owner": "rt3norio",
+  "url": "https://github.com/rt3norio/onshape-pegboard-pegs",
+  "description": "Onshape FeatureScript custom feature that adds standard imperial pegboard pegs (1 in x 1 1/2 in grid) to any flat face. Published in Onshape, printed and verified.",
+  "homepage": "",
+  "stars": 0,
+  "language": "F#",
+  "topics": [
+   "3d-printing",
+   "cad",
+   "featurescript",
+   "onshape",
+   "pegboard"
+  ],
+  "created_at": "2026-11-01T04:10:18Z",
+  "pushed_at": "2026-11-01T04:10:23Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "onshape"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:marcosnett/loopsubd-trazo",
+  "source": "GitHub",
+  "name": "marcosnett/LoopsubD-trazo",
+  "owner": "marcosnett",
+  "url": "https://github.com/marcosnett/LoopsubD-trazo",
+  "description": "LoopsubD surface subdivision extension for IngeTrazo",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-11-02T10:29:52Z",
+  "pushed_at": "2026-11-02T12:11:40Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:priit123/ingetrazo-v-menu",
+  "source": "GitHub",
+  "name": "priit123/ingetrazo-v-menu",
+  "owner": "priit123",
+  "url": "https://github.com/priit123/ingetrazo-v-menu",
+  "description": "IngeTrazo radial menu plugin",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-28T17:57:18Z",
+  "pushed_at": "2026-11-02T05:21:50Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:chantran22/cadsketcher_ingetrazo",
+  "source": "GitHub",
+  "name": "chantran22/CADsketcher_Ingetrazo",
+  "owner": "chantran22",
+  "url": "https://github.com/chantran22/CADsketcher_Ingetrazo",
+  "description": "A plugin for Ingetrazo to draw in precision shape and can be editable & reupdate when changing inner sketch",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-23T10:39:40Z",
+  "pushed_at": "2026-11-02T03:02:39Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:pet84/energysketch",
+  "source": "GitHub",
+  "name": "pet84/EnergySketch",
+  "owner": "pet84",
+  "url": "https://github.com/pet84/EnergySketch",
+  "description": "Otevřený 3D modelář pro energetické specialisty. Upravená verze IngeTrazo s ArchControl, českým prostředím a CSV exporty. GPL-3.0-or-later.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-18T23:50:42Z",
+  "pushed_at": "2026-11-01T14:18:04Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:pesi3d/ingetrazo-topology",
+  "source": "GitHub",
+  "name": "PESI3D/ingetrazo-topology",
+  "owner": "PESI3D",
+  "url": "https://github.com/PESI3D/ingetrazo-topology",
+  "description": "Terrain from contour lines or points for IngeTrazo - smooth grid or Delaunay TIN, altitude editor, line clean-up, skirt, live preview.",
+  "homepage": "",
+  "stars": 4,
+  "language": "Python",
+  "topics": [
+   "contour-lines",
+   "ingetrazo",
+   "plugin",
+   "terrain"
+  ],
+  "created_at": "2026-10-03T21:50:05Z",
+  "pushed_at": "2026-10-26T12:39:45Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:mrkim-pixel/architecture-ingetrazo-updates",
+  "source": "GitHub",
+  "name": "Mrkim-pixel/architecture-ingetrazo-updates",
+  "owner": "Mrkim-pixel",
+  "url": "https://github.com/Mrkim-pixel/architecture-ingetrazo-updates",
+  "description": "건축설계 IngeTrazo · 한국어 CAD 및 Windows 자동 업데이트 배포",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [],
+  "created_at": "2026-10-26T11:12:53Z",
+  "pushed_at": "2026-10-26T11:32:27Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:kagehak/ingetrazo-extensions",
+  "source": "GitHub",
+  "name": "kagehak/ingetrazo-extensions",
+  "owner": "kagehak",
+  "url": "https://github.com/kagehak/ingetrazo-extensions",
+  "description": "Extensions, plugins, and custom scripts for IngeTrazo — the open-source 3D CAD software for architecture and engineering.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-05T18:50:09Z",
+  "pushed_at": "2026-10-25T08:08:15Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:pesi3d/ingetrazo-quadrify",
+  "source": "GitHub",
+  "name": "PESI3D/ingetrazo-quadrify",
+  "owner": "PESI3D",
+  "url": "https://github.com/PESI3D/ingetrazo-quadrify",
+  "description": "Quadrify: turn triangles into quads and rebuild terrain as a grid of quads. Plugin for IngeTrazo.",
+  "homepage": "",
+  "stars": 4,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-04T22:21:26Z",
+  "pushed_at": "2026-10-19T14:10:40Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:pesi3d/ingetrazo-roof-tiles",
+  "source": "GitHub",
+  "name": "PESI3D/ingetrazo-roof-tiles",
+  "owner": "PESI3D",
+  "url": "https://github.com/PESI3D/ingetrazo-roof-tiles",
+  "description": "Roof Tiles for IngeTrazo: build roofs on any footprint (20 shapes) and cover them with real 3D roof tiles - verge tiles, ridge tiles, hip and ridge ends.",
+  "homepage": "",
+  "stars": 2,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-08T21:42:09Z",
+  "pushed_at": "2026-10-19T13:54:29Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:pesi3d/ingetrazo-grading",
+  "source": "GitHub",
+  "name": "PESI3D/ingetrazo-grading",
+  "owner": "PESI3D",
+  "url": "https://github.com/PESI3D/ingetrazo-grading",
+  "description": "Grading for IngeTrazo - fill the open ground between edges with smooth, organic terrain",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-05T10:20:20Z",
+  "pushed_at": "2026-10-19T13:54:23Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:dns-0/igz_steel",
+  "source": "GitHub",
+  "name": "dns-0/igz_steel",
+  "owner": "dns-0",
+  "url": "https://github.com/dns-0/igz_steel",
+  "description": "AISC structural steel members for IngeTrazo: place, stretch, edit, BIM tag, layers and bill of materials",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-13T19:35:57Z",
+  "pushed_at": "2026-10-14T14:59:20Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:supere989/ingetrazo-rust",
+  "source": "GitHub",
+  "name": "supere989/ingetrazo-rust",
+  "owner": "supere989",
+  "url": "https://github.com/supere989/ingetrazo-rust",
+  "description": "Native Rust port of IngeTrazo, a 3D architectural and CAD modeler. GPL-3.0-or-later.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Rust",
+  "topics": [],
+  "created_at": "2026-10-10T00:17:25Z",
+  "pushed_at": "2026-10-13T00:56:53Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:jurdeczkarichard-sketch/angle-dimension",
+  "source": "GitHub",
+  "name": "jurdeczkarichard-sketch/angle-dimension",
+  "owner": "jurdeczkarichard-sketch",
+  "url": "https://github.com/jurdeczkarichard-sketch/angle-dimension",
+  "description": "Angle Dimension - an extension for IngeTrazo that adds permanent, labelled angle dimensions to drawings.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-10T06:31:53Z",
+  "pushed_at": "2026-10-10T06:39:07Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:archimades27/ingetrazo-pointcloud-splat",
+  "source": "GitHub",
+  "name": "archimades27/ingetrazo-pointcloud-splat",
+  "owner": "archimades27",
+  "url": "https://github.com/archimades27/ingetrazo-pointcloud-splat",
+  "description": "Point Cloud & 3D Gaussian Splatting extension for IngeTrazo (LiDAR, Photogrammetry, Scan-to-BIM & Splats)",
+  "homepage": "",
+  "stars": 1,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-08T00:33:49Z",
+  "pushed_at": "2026-10-08T01:22:22Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:hrisek/ingefloor",
+  "source": "GitHub",
+  "name": "hrisek/IngeFloor",
+  "owner": "hrisek",
+  "url": "https://github.com/hrisek/IngeFloor",
+  "description": "Parametric generator of wood  floor patterns for IngeTrazo software",
+  "homepage": "",
+  "stars": 1,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-05T09:32:09Z",
+  "pushed_at": "2026-10-05T20:07:48Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:wrc86/ja-lineastyle-ingetrazo",
+  "source": "GitHub",
+  "name": "wrc86/ja-lineastyle-ingetrazo",
+  "owner": "wrc86",
+  "url": "https://github.com/wrc86/ja-lineastyle-ingetrazo",
+  "description": "Líneas 3D con color, grosor y seis estilos para IngeTrazo. Julio Angulo · GPL-3.0-or-later.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "architecture",
+   "extensions",
+   "ingetrazo",
+   "python"
+  ],
+  "created_at": "2026-10-04T00:22:10Z",
+  "pushed_at": "2026-10-04T13:00:52Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:wrc86/ja-sun-ingetrazo",
+  "source": "GitHub",
+  "name": "wrc86/ja-sun-ingetrazo",
+  "owner": "wrc86",
+  "url": "https://github.com/wrc86/ja-sun-ingetrazo",
+  "description": "Sol, sombras y recorrido solar para IngeTrazo. Julio Angulo · GPL-3.0-or-later.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "architecture",
+   "extensions",
+   "ingetrazo",
+   "python"
+  ],
+  "created_at": "2026-10-04T00:22:30Z",
+  "pushed_at": "2026-10-04T00:22:39Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:wrc86/ja-tree-ingetrazo",
+  "source": "GitHub",
+  "name": "wrc86/ja-tree-ingetrazo",
+  "owner": "wrc86",
+  "url": "https://github.com/wrc86/ja-tree-ingetrazo",
+  "description": "Explorador de grupos, componentes y secciones para IngeTrazo. Julio Angulo · GPL-3.0-or-later.",
+  "homepage": "",
+  "stars": 1,
+  "language": "Python",
+  "topics": [
+   "architecture",
+   "extensions",
+   "ingetrazo",
+   "python"
+  ],
+  "created_at": "2026-10-04T00:22:20Z",
+  "pushed_at": "2026-10-04T00:22:29Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:wrc86/ja-units-ingetrazo",
+  "source": "GitHub",
+  "name": "wrc86/ja-units-ingetrazo",
+  "owner": "wrc86",
+  "url": "https://github.com/wrc86/ja-units-ingetrazo",
+  "description": "Unidades, precisión y presets para IngeTrazo. Julio Angulo · GPL-3.0-or-later.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "architecture",
+   "extensions",
+   "ingetrazo",
+   "python"
+  ],
+  "created_at": "2026-10-04T00:21:59Z",
+  "pushed_at": "2026-10-04T00:22:08Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:jutzugc/maya-workflow-kit-deploy-guide",
+  "source": "GitHub",
+  "name": "JUTZUGC/maya-workflow-kit-deploy-guide",
+  "owner": "JUTZUGC",
+  "url": "https://github.com/JUTZUGC/maya-workflow-kit-deploy-guide",
+  "description": "Maya Workflow Kit 一键安装｜把 Maya 的操作习惯搬进 Blender｜Blender 5.2｜第三方一键部署方案",
+  "homepage": "",
+  "stars": 1,
+  "language": "JavaScript",
+  "topics": [
+   "3d-modeling",
+   "addon",
+   "blender",
+   "maya",
+   "maya-workflow-kit",
+   "workflow"
+  ],
+  "created_at": "2026-10-31T00:15:47Z",
+  "pushed_at": "2026-11-01T02:48:27Z",
+  "query": "blender addon",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "BLENDER"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:caraveo/caveman",
+  "source": "GitHub",
+  "name": "Caraveo/caveman",
+  "owner": "Caraveo",
+  "url": "https://github.com/Caraveo/caveman",
+  "description": "A Blender extension to build mesh primitives quickly with Claude (requires an API key)",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "3d-modeling",
+   "anthropic",
+   "blender",
+   "blender-addon",
+   "blender-extension",
+   "claude",
+   "procedural-modeling",
+   "python"
+  ],
+  "created_at": "2026-11-01T05:07:47Z",
+  "pushed_at": "2026-11-01T05:37:43Z",
+  "query": "blender extension",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "BLENDER"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:nkkylr2017/aim-studio",
+  "source": "GitHub",
+  "name": "nkkylr2017/aim-studio",
+  "owner": "nkkylr2017",
+  "url": "https://github.com/nkkylr2017/aim-studio",
+  "description": "AIM Studio — local-first web UI for the Mujassam AI SketchUp extension",
+  "homepage": "",
+  "stars": 0,
+  "language": "HTML",
+  "topics": [],
+  "created_at": "2026-10-31T12:23:54Z",
+  "pushed_at": "2026-10-31T13:40:43Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "AEC",
+   "SKETCHUP"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:nicolasmarc/ingetrazo-print3d",
+  "source": "GitHub",
+  "name": "nicolasmarc/ingetrazo-print3d",
+  "owner": "nicolasmarc",
+  "url": "https://github.com/nicolasmarc/ingetrazo-print3d",
+  "description": "3D printing extension for IngeTrazo: printability checks, best orientation, hole repair, clean STL import, gyroid infill under a skin, 3MF/STL export. Extension IngeTrazo pour l'impression 3D.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "3d-printing",
+   "3mf",
+   "additive-manufacturing",
+   "gyroid",
+   "ingetrazo",
+   "ingetrazo-extension",
+   "lattice",
+   "mesh-repair",
+   "python",
+   "stl"
+  ],
+  "created_at": "2026-10-31T23:12:04Z",
+  "pushed_at": "2026-11-01T00:01:44Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:sparky-os/ingetrazo-stereo-view",
+  "source": "GitHub",
+  "name": "Sparky-OS/ingetrazo-stereo-view",
+  "owner": "Sparky-OS",
+  "url": "https://github.com/Sparky-OS/ingetrazo-stereo-view",
+  "description": "A stereo 3D view for IngeTrazo, as an extension: one model, two eye cameras, full side by side to Stereo KWin. Part of Sparky Stereo OS.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-31T18:55:08Z",
+  "pushed_at": "2026-10-31T18:55:13Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:pedroe200/ingetrazo-toolkeeper",
+  "source": "GitHub",
+  "name": "PedroE200/ingetrazo-toolkeeper",
+  "owner": "PedroE200",
+  "url": "https://github.com/PedroE200/ingetrazo-toolkeeper",
+  "description": "Toolkeeper: gestor de barras de herramientas para IngeTrazo",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-30T19:47:18Z",
+  "pushed_at": "2026-10-30T20:03:46Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:nicolasmarc/ingetrazo-ply3ds",
+  "source": "GitHub",
+  "name": "nicolasmarc/ingetrazo-ply3ds",
+  "owner": "nicolasmarc",
+  "url": "https://github.com/nicolasmarc/ingetrazo-ply3ds",
+  "description": "IngeTrazo extension: export PLY / 3DS with one surface group per material, for acoustic tools such as I-Simpa (ingelibre/ingetrazo#102)",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-29T21:30:06Z",
+  "pushed_at": "2026-10-29T21:40:28Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:em-rezende/ingetrazo-igz-scenes",
+  "source": "GitHub",
+  "name": "em-rezende/Ingetrazo-igz-scenes",
+  "owner": "em-rezende",
+  "url": "https://github.com/em-rezende/Ingetrazo-igz-scenes",
+  "description": "Ark-Z Scenes - IngeTrazo extension: manage camera scenes, play animations and export to PNG/MP4.",
+  "homepage": "",
+  "stars": 2,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-07T22:03:03Z",
+  "pushed_at": "2026-10-29T19:18:22Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:arksamuelgarcia/marcar_centro",
+  "source": "GitHub",
+  "name": "ArkSamuelGarcia/Marcar_Centro",
+  "owner": "ArkSamuelGarcia",
+  "url": "https://github.com/ArkSamuelGarcia/Marcar_Centro",
+  "description": "Extensión para IngeTrazo: Marca de Centro Proporcional en Cruz (+) Genera dos líneas perpendiculares en forma de cruz (+) en el centro exacto del arco o círculo seleccionado.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-26T02:00:46Z",
+  "pushed_at": "2026-10-29T18:11:01Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:ronaldogalves/cutlist-ingetrazo",
+  "source": "GitHub",
+  "name": "ronaldogalves/cutlist-ingetrazo",
+  "owner": "ronaldogalves",
+  "url": "https://github.com/ronaldogalves/cutlist-ingetrazo",
+  "description": "Cut List for IngeTrazo",
+  "homepage": "",
+  "stars": 1,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-07T11:12:24Z",
+  "pushed_at": "2026-10-29T17:03:03Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:blazzteruy/visor-ingetrazo",
+  "source": "GitHub",
+  "name": "blazzteruy/visor-ingetrazo",
+  "owner": "blazzteruy",
+  "url": "https://github.com/blazzteruy/visor-ingetrazo",
+  "description": "Visor online archivos ingetrazo",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [],
+  "created_at": "2026-10-27T17:56:48Z",
+  "pushed_at": "2026-10-27T17:56:50Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:prida-takon/ingetrazo-to-html",
+  "source": "GitHub",
+  "name": "PRIDA-TAKON/ingetrazo-to-html",
+  "owner": "PRIDA-TAKON",
+  "url": "https://github.com/PRIDA-TAKON/ingetrazo-to-html",
+  "description": "extention for export to html",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-27T07:41:13Z",
+  "pushed_at": "2026-10-27T11:39:21Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:mtndata23-ui/factory-studio",
+  "source": "GitHub",
+  "name": "mtndata23-ui/factory-studio",
+  "owner": "mtndata23-ui",
+  "url": "https://github.com/mtndata23-ui/factory-studio",
+  "description": "Factory Studio - a Rust rewrite and extension of IngeTrazo (ingelibre/ingetrazo), GPL-3.0-or-later",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [],
+  "created_at": "2026-10-27T11:29:56Z",
+  "pushed_at": "2026-10-27T11:30:38Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:buildsmart888/go-factory-generator",
+  "source": "GitHub",
+  "name": "buildsmart888/go-factory-generator",
+  "owner": "buildsmart888",
+  "url": "https://github.com/buildsmart888/go-factory-generator",
+  "description": "arametric steel factory and warehouse generator for IngeTrazo with sections, components, layers, colors and quantity takeoff.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-23T15:14:34Z",
+  "pushed_at": "2026-10-26T12:03:54Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:cdblue999/ingetrazo-rtx-extensions",
+  "source": "GitHub",
+  "name": "cdblue999/ingetrazo-rtx-extensions",
+  "owner": "cdblue999",
+  "url": "https://github.com/cdblue999/ingetrazo-rtx-extensions",
+  "description": "CUDA-optimized IngeTrazo extensions for RTX 3060",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-25T10:44:06Z",
+  "pushed_at": "2026-10-25T12:36:23Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:cdblue999/ingetrazo-rtx",
+  "source": "GitHub",
+  "name": "cdblue999/ingetrazo-rtx",
+  "owner": "cdblue999",
+  "url": "https://github.com/cdblue999/ingetrazo-rtx",
+  "description": "Nvidia RTX & optimizations for IngeTrazo",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [],
+  "created_at": "2026-10-25T09:15:05Z",
+  "pushed_at": "2026-10-25T09:15:07Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:cdblue999/ingetrazo",
+  "source": "GitHub",
+  "name": "cdblue999/ingetrazo",
+  "owner": "cdblue999",
+  "url": "https://github.com/cdblue999/ingetrazo",
+  "description": "IngeTrazo fork with RTX 3060 + Phenom II optimizations (IngeTrazo-RTX build)",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [],
+  "created_at": "2026-10-24T10:31:54Z",
+  "pushed_at": "2026-10-24T10:31:56Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:mtak35/terraroad",
+  "source": "GitHub",
+  "name": "mtak35/TerraRoad",
+  "owner": "mtak35",
+  "url": "https://github.com/mtak35/TerraRoad",
+  "description": "TerraRoad road-design extension for IngeTrazo: roads, junctions, roundabouts, curbs, sidewalks, markings and map tracing. Development preview; GPL-3.0-or-later.",
+  "homepage": "",
+  "stars": 1,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-23T13:19:10Z",
+  "pushed_at": "2026-10-24T05:24:44Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:aymenart/lines_connect_ingetrazo",
+  "source": "GitHub",
+  "name": "aymenart/lines_connect_ingetrazo",
+  "owner": "aymenart",
+  "url": "https://github.com/aymenart/lines_connect_ingetrazo",
+  "description": "Plugin for IngeTrazo software",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-22T03:26:25Z",
+  "pushed_at": "2026-10-22T05:12:23Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:dns-0/igz_pdf3d",
+  "source": "GitHub",
+  "name": "dns-0/igz_pdf3d",
+  "owner": "dns-0",
+  "url": "https://github.com/dns-0/igz_pdf3d",
+  "description": "3D PDF export for IngeTrazo (U3D, pure Python)",
+  "homepage": "",
+  "stars": 4,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-14T19:24:09Z",
+  "pushed_at": "2026-10-20T19:11:52Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:42craft3d-oss/ingetrazo-loop-cut",
+  "source": "GitHub",
+  "name": "42craft3d-oss/ingetrazo-loop-cut",
+  "owner": "42craft3d-oss",
+  "url": "https://github.com/42craft3d-oss/ingetrazo-loop-cut",
+  "description": "Loop Cut para IngeTrazo: anillos de aristas con vista previa en mallas cerradas.",
+  "homepage": "",
+  "stars": 1,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-02T18:46:34Z",
+  "pushed_at": "2026-10-20T08:49:09Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:tomlai-git/ingetrazo-plugins",
+  "source": "GitHub",
+  "name": "tomlai-git/Ingetrazo-Plugins",
+  "owner": "tomlai-git",
+  "url": "https://github.com/tomlai-git/Ingetrazo-Plugins",
+  "description": "Developing extensions for Ingetrazo",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-09T07:09:02Z",
+  "pushed_at": "2026-10-20T02:26:36Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:jorgemrp/ingescan",
+  "source": "GitHub",
+  "name": "Jorgemrp/IngeScan",
+  "owner": "Jorgemrp",
+  "url": "https://github.com/Jorgemrp/IngeScan",
+  "description": "Free plugin for IngeTrazo, to allow working with Cloud Points easy",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-19T23:39:02Z",
+  "pushed_at": "2026-10-19T23:41:08Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:lucasosantos/faci3d",
+  "source": "GitHub",
+  "name": "lucasosantos/Faci3D",
+  "owner": "lucasosantos",
+  "url": "https://github.com/lucasosantos/Faci3D",
+  "description": "modelador 3D libre para impressão 3D, baseado no IngeTrazo",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-13T15:09:44Z",
+  "pushed_at": "2026-10-19T23:30:19Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:42craft3d-oss/ingetrazo-automacao",
+  "source": "GitHub",
+  "name": "42craft3d-oss/ingetrazo-automacao",
+  "owner": "42craft3d-oss",
+  "url": "https://github.com/42craft3d-oss/ingetrazo-automacao",
+  "description": "Automação linear e rotacional de componentes para o IngeTrazo.",
+  "homepage": "",
+  "stars": 1,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-19T02:43:24Z",
+  "pushed_at": "2026-10-19T21:06:25Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:pesi3d/ingetrazo-weld",
+  "source": "GitHub",
+  "name": "PESI3D/ingetrazo-weld",
+  "owner": "PESI3D",
+  "url": "https://github.com/PESI3D/ingetrazo-weld",
+  "description": "Weld: join loose edges into curves and close small gaps. Plugin for IngeTrazo.",
+  "homepage": "",
+  "stars": 3,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-04T22:16:23Z",
+  "pushed_at": "2026-10-19T14:10:38Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:pesi3d/ingetrazo-plan-import",
+  "source": "GitHub",
+  "name": "PESI3D/ingetrazo-plan-import",
+  "owner": "PESI3D",
+  "url": "https://github.com/PESI3D/ingetrazo-plan-import",
+  "description": "Plan Import for IngeTrazo — floor plans and whole plan sets from vector PDFs at scale: stacked storeys, upright elevations/sections, auto crop, reference point, levels and layers. Live preview.",
+  "homepage": "",
+  "stars": 3,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-14T20:36:55Z",
+  "pushed_at": "2026-10-19T13:55:11Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:pesi3d/ingetrazo-array",
+  "source": "GitHub",
+  "name": "PESI3D/ingetrazo-array",
+  "owner": "PESI3D",
+  "url": "https://github.com/PESI3D/ingetrazo-array",
+  "description": "Array tool for IngeTrazo – copies in 1D/2D/3D with move, rotate and scale per copy, like the 3ds Max Array dialog.",
+  "homepage": "",
+  "stars": 2,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-03T11:53:08Z",
+  "pushed_at": "2026-10-19T13:55:05Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:pesi3d/ingetrazo-proxies",
+  "source": "GitHub",
+  "name": "PESI3D/ingetrazo-proxies",
+  "owner": "PESI3D",
+  "url": "https://github.com/PESI3D/ingetrazo-proxies",
+  "description": "Proxies for IngeTrazo: swap heavy objects for light proxies (box, convex hull, vertex cloud, reduced original); originals saved as .igz and swapped back with one click.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-14T20:26:47Z",
+  "pushed_at": "2026-10-19T13:54:32Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:pesi3d/ingetrazo-path-select",
+  "source": "GitHub",
+  "name": "PESI3D/ingetrazo-path-select",
+  "owner": "PESI3D",
+  "url": "https://github.com/PESI3D/ingetrazo-path-select",
+  "description": "Path Select for IngeTrazo: click along a contour, the shortest way along the edges is selected",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-05T10:22:55Z",
+  "pushed_at": "2026-10-19T13:54:25Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:pesi3d/ingetrazo-membrane",
+  "source": "GitHub",
+  "name": "PESI3D/ingetrazo-membrane",
+  "owner": "PESI3D",
+  "url": "https://github.com/PESI3D/ingetrazo-membrane",
+  "description": "Membrane: tensile minimal surfaces (tents, sails, pressurised cushions) from a loop of edges. Plugin for IngeTrazo.",
+  "homepage": "",
+  "stars": 2,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-04T22:22:55Z",
+  "pushed_at": "2026-10-19T13:54:21Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:cdblue999/visuite",
+  "source": "GitHub",
+  "name": "cdblue999/visuite",
+  "owner": "cdblue999",
+  "url": "https://github.com/cdblue999/visuite",
+  "description": "vi-suite for IngeTrazo",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-18T07:45:58Z",
+  "pushed_at": "2026-10-18T08:25:41Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:prida-takon/debim-ingetrazo",
+  "source": "GitHub",
+  "name": "PRIDA-TAKON/debim-ingetrazo",
+  "owner": "PRIDA-TAKON",
+  "url": "https://github.com/PRIDA-TAKON/debim-ingetrazo",
+  "description": "extention debim for ingetrazo",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-17T08:57:27Z",
+  "pushed_at": "2026-10-18T05:02:33Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:kristianzimmermann69-sys/ingetrazo-deutsch",
+  "source": "GitHub",
+  "name": "kristianzimmermann69-sys/IngeTrazo-Deutsch",
+  "owner": "kristianzimmermann69-sys",
+  "url": "https://github.com/kristianzimmermann69-sys/IngeTrazo-Deutsch",
+  "description": "Inoffizielle deutsche Sprachdatei (Deutsch.json) für das 3D-Programm IngeTrazo.",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [],
+  "created_at": "2026-10-16T23:16:34Z",
+  "pushed_at": "2026-10-17T00:14:35Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:apbureauetude/ingetrazo-custom-icons",
+  "source": "GitHub",
+  "name": "APBureauEtude/ingetrazo-custom-icons",
+  "owner": "APBureauEtude",
+  "url": "https://github.com/APBureauEtude/ingetrazo-custom-icons",
+  "description": "Pour remplacer les icones de Ingetrazo par de nouvelles icones",
+  "homepage": "",
+  "stars": 4,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-11T20:41:24Z",
+  "pushed_at": "2026-10-14T23:25:48Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:archviz360/ingetrazo-360--render-plugin-",
+  "source": "GitHub",
+  "name": "Archviz360/IngeTrazo-360--render-plugin-",
+  "owner": "Archviz360",
+  "url": "https://github.com/Archviz360/IngeTrazo-360--render-plugin-",
+  "description": "A render plugin for IngeTrazo that lets you create 360 degree pictures of your interiors",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-10T22:48:52Z",
+  "pushed_at": "2026-10-13T02:32:47Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:sanask24/ui-colores-space",
+  "source": "GitHub",
+  "name": "sanask24/ui-colores-space",
+  "owner": "sanask24",
+  "url": "https://github.com/sanask24/ui-colores-space",
+  "description": "Extensión de IngeTrazo: herramientas por colores y buscador de comandos con Espacio",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-11T10:01:19Z",
+  "pushed_at": "2026-10-11T10:02:59Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:seghier/ingetrazoperspectivematcher",
+  "source": "GitHub",
+  "name": "seghier/IngeTrazoPerspectiveMatcher",
+  "owner": "seghier",
+  "url": "https://github.com/seghier/IngeTrazoPerspectiveMatcher",
+  "description": "IngeTrazo Perspective Match",
+  "homepage": "",
+  "stars": 2,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-05T14:18:27Z",
+  "pushed_at": "2026-10-08T08:35:22Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:sudhanva-gh/isolate-unisolate-ingetrazo-plugin",
+  "source": "GitHub",
+  "name": "sudhanva-gh/isolate-unisolate-ingetrazo-plugin",
+  "owner": "sudhanva-gh",
+  "url": "https://github.com/sudhanva-gh/isolate-unisolate-ingetrazo-plugin",
+  "description": "Plugin to isolate or un-isolate grouped objects in ingetrazo. The plugin adds two icons for isolate and un-isolate. It also adds a menu item in the extensions drop down menu.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-07T13:11:22Z",
+  "pushed_at": "2026-10-07T13:20:15Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:seghier/ingetrazo-organize-toolbar",
+  "source": "GitHub",
+  "name": "seghier/ingetrazo-organize-toolbar",
+  "owner": "seghier",
+  "url": "https://github.com/seghier/ingetrazo-organize-toolbar",
+  "description": "Custom toolbar",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-05T14:31:11Z",
+  "pushed_at": "2026-10-06T16:33:15Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:ingelibre/ingetrazo-benchmark-models",
+  "source": "GitHub",
+  "name": "ingelibre/ingetrazo-benchmark-models",
+  "owner": "ingelibre",
+  "url": "https://github.com/ingelibre/ingetrazo-benchmark-models",
+  "description": "Real models to measure IngeTrazo's performance on — entries (links + SHA-256), not files",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-04T12:34:06Z",
+  "pushed_at": "2026-10-04T12:34:10Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:seghier/ingetrazocomfyuirenderer",
+  "source": "GitHub",
+  "name": "seghier/IngeTrazoComfyUIRenderer",
+  "owner": "seghier",
+  "url": "https://github.com/seghier/IngeTrazoComfyUIRenderer",
+  "description": "IngeTrazo ComfyUI Renderer",
+  "homepage": "",
+  "stars": 3,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-02T23:24:38Z",
+  "pushed_at": "2026-10-03T05:46:40Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:42craft3d-oss/ingetrazo-vertex-editor",
+  "source": "GitHub",
+  "name": "42craft3d-oss/ingetrazo-vertex-editor",
+  "owner": "42craft3d-oss",
+  "url": "https://github.com/42craft3d-oss/ingetrazo-vertex-editor",
+  "description": "Editor de vértices para IngeTrazo: movimiento preciso, bloqueo de ejes y unión de puntos coincidentes.",
+  "homepage": "",
+  "stars": 2,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-02T18:27:16Z",
+  "pushed_at": "2026-10-02T18:37:50Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:3djlchb/igz_animacion",
+  "source": "GitHub",
+  "name": "3djlchb/igz_animacion",
+  "owner": "3djlchb",
+  "url": "https://github.com/3djlchb/igz_animacion",
+  "description": "Prueba de plugin para crear animaciones en IngeTrazo de forma nativa sin necesidad de terceros.",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [],
+  "created_at": "2026-09-30T16:09:43Z",
+  "pushed_at": "2026-09-30T16:09:45Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:seghier/rhinoigzimporterplugin",
+  "source": "GitHub",
+  "name": "seghier/RhinoIgzImporterPlugin",
+  "owner": "seghier",
+  "url": "https://github.com/seghier/RhinoIgzImporterPlugin",
+  "description": "Import IngeTrazo .igz",
+  "homepage": "",
+  "stars": 0,
+  "language": "C#",
+  "topics": [],
+  "created_at": "2026-09-30T15:51:53Z",
+  "pushed_at": "2026-09-30T16:03:43Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:ronyleonel6/ingetrazo-propiedades-poligono",
+  "source": "GitHub",
+  "name": "Ronyleonel6/ingetrazo-propiedades-poligono",
+  "owner": "Ronyleonel6",
+  "url": "https://github.com/Ronyleonel6/ingetrazo-propiedades-poligono",
+  "description": "Plugin para IngeTrazo: área, perímetro, centroide y momentos de segundo orden del polígono seleccionado.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-09-30T13:48:10Z",
+  "pushed_at": "2026-09-30T14:32:25Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:gokuldc/ingetrazo-blender-sync",
+  "source": "GitHub",
+  "name": "gokuldc/IngeTrazo-blender-sync",
+  "owner": "gokuldc",
+  "url": "https://github.com/gokuldc/IngeTrazo-blender-sync",
+  "description": "",
+  "homepage": "",
+  "stars": 1,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-09-26T11:44:09Z",
+  "pushed_at": "2026-09-26T13:28:41Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "INTEROP",
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:stb1cluny/polyfidget",
+  "source": "GitHub",
+  "name": "stb1Cluny/PolyFidget",
+  "owner": "stb1Cluny",
+  "url": "https://github.com/stb1Cluny/PolyFidget",
+  "description": "PolyFidget: Blender 5.2 extension for parametric print-in-place nested fidgets",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-31T22:30:55Z",
+  "pushed_at": "2026-11-02T21:57:52Z",
+  "query": "blender extension",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "BLENDER"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:bakstaaj/sketchup-2017-plugins",
+  "source": "GitHub",
+  "name": "bakstaaj/Sketchup-2017-Plugins",
+  "owner": "bakstaaj",
+  "url": "https://github.com/bakstaaj/Sketchup-2017-Plugins",
+  "description": "",
+  "homepage": "",
+  "stars": 0,
+  "language": "Ruby",
+  "topics": [],
+  "created_at": "2026-11-01T22:22:52Z",
+  "pushed_at": "2026-11-01T22:31:04Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 3,
+  "flags": [
+   "AEC",
+   "SKETCHUP"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:pesi3d/ingetrazo-walls",
+  "source": "GitHub",
+  "name": "PESI3D/ingetrazo-walls",
+  "owner": "PESI3D",
+  "url": "https://github.com/PESI3D/ingetrazo-walls",
+  "description": "",
+  "homepage": "",
+  "stars": 1,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-18T14:44:55Z",
+  "pushed_at": "2026-10-19T13:54:27Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 3,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:sanjaya3d/blender-measure-overlay",
+  "source": "GitHub",
+  "name": "sanjaya3d/blender-measure-overlay",
+  "owner": "sanjaya3d",
+  "url": "https://github.com/sanjaya3d/blender-measure-overlay",
+  "description": "Blender add-on that shows live dimensions and vertex/edge/face counts right in the 3D viewport, with multi-selection support, Edit Mode counts, and an optional face budget.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-31T07:48:40Z",
+  "pushed_at": "2026-10-31T08:39:43Z",
+  "query": "blender add-on",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 3,
+  "flags": [
+   "BLENDER"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:namo8845/emo-ingetrazo-thai",
+  "source": "GitHub",
+  "name": "Namo8845/EMO-IngeTrazo-Thai",
+  "owner": "Namo8845",
+  "url": "https://github.com/Namo8845/EMO-IngeTrazo-Thai",
+  "description": "",
+  "homepage": "",
+  "stars": 1,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-20T03:56:17Z",
+  "pushed_at": "2026-10-21T03:35:01Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 2,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:jrrobredo/ingetrazo-crear-cara",
+  "source": "GitHub",
+  "name": "jrrobredo/ingetrazo-crear-cara",
+  "owner": "jrrobredo",
+  "url": "https://github.com/jrrobredo/ingetrazo-crear-cara",
+  "description": "",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-20T14:35:47Z",
+  "pushed_at": "2026-10-20T14:37:21Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 2,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:em-rezende/ingetrazo-igz-uv",
+  "source": "GitHub",
+  "name": "em-rezende/Ingetrazo-igz-uv",
+  "owner": "em-rezende",
+  "url": "https://github.com/em-rezende/Ingetrazo-igz-uv",
+  "description": "",
+  "homepage": "",
+  "stars": 1,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-11T21:48:05Z",
+  "pushed_at": "2026-10-13T12:06:25Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 2,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:vemcjardim/lista-de-corte-plugin-ingetrazo",
+  "source": "GitHub",
+  "name": "vemcjardim/lista-de-corte-plugin-ingetrazo",
+  "owner": "vemcjardim",
+  "url": "https://github.com/vemcjardim/lista-de-corte-plugin-ingetrazo",
+  "description": "",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-13T02:36:10Z",
+  "pushed_at": "2026-10-13T02:53:02Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 2,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
+  "id": "gh:em-rezende/ingetrazo-igz-solids",
+  "source": "GitHub",
+  "name": "em-rezende/Ingetrazo-igz-solids",
+  "owner": "em-rezende",
+  "url": "https://github.com/em-rezende/Ingetrazo-igz-solids",
+  "description": "",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-10-10T17:48:33Z",
+  "pushed_at": "2026-10-10T19:35:13Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 2,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-03T01:00:06Z"
+ },
+ {
   "id": "gh:gronskideveloper/blender-to-glb-pipeline",
   "source": "GitHub",
   "name": "GronskiDeveloper/blender-to-glb-pipeline",
@@ -33,7 +3251,9 @@
   "ai_files": [
    "CLAUDE.md"
   ],
-  "found_at": "2026-11-02T23:28:50Z"
+  "found_at": "2026-11-02T23:28:50Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:dkshyrion/wohnung-3d-planner",
@@ -68,7 +3288,9 @@
    "AGENTS.md",
    "CLAUDE.md"
   ],
-  "found_at": "2026-11-02T23:28:50Z"
+  "found_at": "2026-11-02T23:28:50Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:osaxma/napkin2factory",
@@ -92,15 +3314,18 @@
   "pushed_at": "2026-11-02T12:30:54Z",
   "query": "topic:cad",
   "relevant": true,
-  "score": 5,
+  "score": 7,
   "flags": [
+   "INTEROP",
    "AI"
   ],
   "matched": [],
   "ai_files": [
    "AGENTS.md"
   ],
-  "found_at": "2026-11-02T23:28:50Z"
+  "found_at": "2026-11-02T23:28:50Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:jiangshirong/freeship-26",
@@ -141,7 +3366,9 @@
   "ai_files": [
    "AGENTS.md"
   ],
-  "found_at": "2026-11-02T23:28:50Z"
+  "found_at": "2026-11-02T23:28:50Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:xiv-gate/revit-blender-bridge",
@@ -164,9 +3391,11 @@
   "pushed_at": "2026-10-30T19:51:10Z",
   "query": "topic:bim",
   "relevant": true,
-  "score": 5,
+  "score": 9,
   "flags": [
    "AEC",
+   "INTEROP",
+   "BLENDER",
    "AI"
   ],
   "matched": [
@@ -175,7 +3404,9 @@
   "ai_files": [
    "AGENTS.md"
   ],
-  "found_at": "2026-11-02T23:28:50Z"
+  "found_at": "2026-11-02T23:28:50Z",
+  "always_publish": false,
+  "eco_min": 3
  },
  {
   "id": "gh:tangency-labs/solidcraft",
@@ -219,7 +3450,9 @@
    "AGENTS.md",
    "CLAUDE.md"
   ],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:bimvoice/ifc-sheet",
@@ -262,7 +3495,9 @@
    ".cursorrules",
    "AGENTS.md"
   ],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:kai-jungsthoefel/soma",
@@ -314,7 +3549,9 @@
   "ai_files": [
    "CLAUDE.md"
   ],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:mitcad/mitcad",
@@ -353,7 +3590,9 @@
   "ai_files": [
    "CLAUDE.md"
   ],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:gazi-faysal-jubayer/shapebridge",
@@ -384,11 +3623,12 @@
   "pushed_at": "2026-11-02T17:15:22Z",
   "query": "topic:cad",
   "relevant": true,
-  "score": 11,
+  "score": 13,
   "flags": [
    "DEMO",
    "AEC",
    "CLONE",
+   "INTEROP",
    "AI"
   ],
   "matched": [
@@ -402,7 +3642,9 @@
    "AGENTS.md",
    "CLAUDE.md"
   ],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:tangency-labs/solidcore",
@@ -434,7 +3676,9 @@
   "ai_files": [
    "AGENTS.md"
   ],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:filippofinke/cad-studio",
@@ -483,7 +3727,9 @@
    "step"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:pzfreo/specify-core",
@@ -520,7 +3766,9 @@
    "step"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:tomatoparkdao/omniailab-ai-architect",
@@ -564,7 +3812,9 @@
   "ai_files": [
    "AGENTS.md"
   ],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:francisreboucas/constructcad",
@@ -594,7 +3844,9 @@
    "AGENTS.md",
    "CLAUDE.md"
   ],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:kupcad/dev-pwa",
@@ -636,7 +3888,9 @@
   "ai_files": [
    "AGENTS.md"
   ],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:maxsikorski/jumpstart-3d",
@@ -671,7 +3925,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:igsova/simplecad",
@@ -695,11 +3951,12 @@
   "query": "sketchup",
   "rising": true,
   "relevant": true,
-  "score": 10,
+  "score": 12,
   "flags": [
    "DEMO",
    "AEC",
    "CLONE",
+   "SKETCHUP",
    "RISING"
   ],
   "matched": [
@@ -707,7 +3964,9 @@
    "freecad"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": 3
  },
  {
   "id": "gh:angel291592/caddiff",
@@ -758,7 +4017,9 @@
    "opencascade"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:laurent512/opencalque",
@@ -799,7 +4060,9 @@
   "ai_files": [
    "CLAUDE.md"
   ],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:alexcri5an/optics-lab",
@@ -839,7 +4102,9 @@
   "ai_files": [
    "AGENTS.md"
   ],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:getcadcraft/bimcraft",
@@ -865,7 +4130,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:storytold/cadcraft",
@@ -897,7 +4164,9 @@
    "AGENTS.md",
    "CLAUDE.md"
   ],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:getcadcraft/cadcraft",
@@ -926,7 +4195,9 @@
    "dwg"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:ciuntuc-bim-studio/lapin",
@@ -957,7 +4228,9 @@
   "ai_files": [
    "CLAUDE.md"
   ],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:johanngoossen/sketchup-quickviews",
@@ -980,16 +4253,19 @@
   "pushed_at": "2026-11-01T11:58:34Z",
   "query": "sketchup",
   "relevant": true,
-  "score": 8,
+  "score": 10,
   "flags": [
    "DEMO",
-   "AEC"
+   "AEC",
+   "SKETCHUP"
   ],
   "matched": [
    "sketchup"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": 3
  },
  {
   "id": "gh:thanhphuong-dev/concost.ui",
@@ -1027,7 +4303,9 @@
    "autocad"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:ovelilla/mellowcad",
@@ -1058,7 +4336,9 @@
    ".claude",
    "AGENTS.md"
   ],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:adm1nsys/education",
@@ -1091,7 +4371,9 @@
    "autocad"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:dobbsbp/vormcraft",
@@ -1126,7 +4408,9 @@
   "ai_files": [
    "CLAUDE.md"
   ],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:sachinyadavaug20/kosh",
@@ -1159,7 +4443,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:natterman12/stl-editor",
@@ -1194,7 +4480,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:mairisskuja/voron-trident-r2-interactive-manual",
@@ -1228,7 +4516,9 @@
    "step"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:harisharandangi/textocad",
@@ -1269,7 +4559,9 @@
    "step"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:hyoseokbyun-opt/aicad",
@@ -1307,7 +4599,9 @@
    "opencascade"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:pisenailab/china-patent-figure-skill",
@@ -1350,7 +4644,9 @@
   "ai_files": [
    "AGENTS.md"
   ],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:nanassound/mnft",
@@ -1395,7 +4691,9 @@
    "replicad"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:contributionrich/narwhal3d",
@@ -1430,7 +4728,9 @@
    "opencascade"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:sawhorse3d/sawhorse",
@@ -1458,7 +4758,9 @@
    "sketchup"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:helenkwok/rvt-open",
@@ -1486,7 +4788,9 @@
    "ifc"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:graphoflife/openriss",
@@ -1514,7 +4818,9 @@
    "ifc"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:congestedai/forma",
@@ -1544,7 +4850,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:baratilab/mechanical-engineering-skills",
@@ -1574,7 +4882,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:kai9987kai/counterform",
@@ -1604,7 +4914,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:omnidotdev/facet-api",
@@ -1635,7 +4947,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:arris-labs/laman",
@@ -1669,7 +4983,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:zts8989898937-coder/stillfloating-blog",
@@ -1702,7 +5018,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:heyputer/everything",
@@ -1734,7 +5052,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:dashs20/crap",
@@ -1766,7 +5086,9 @@
    "step"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:richiewillmott/freeshape",
@@ -1797,7 +5119,9 @@
    "opencascade"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:ipedrax/bimcraft",
@@ -1825,7 +5149,9 @@
    "revit"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:andidewanto/sketchup-extensions",
@@ -1842,16 +5168,19 @@
   "pushed_at": "2026-11-02T13:50:45Z",
   "query": "sketchup",
   "relevant": true,
-  "score": 6,
+  "score": 8,
   "flags": [
    "DEMO",
-   "AEC"
+   "AEC",
+   "SKETCHUP"
   ],
   "matched": [
    "sketchup"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": 3
  },
  {
   "id": "gh:andidewanto/zone-stretch",
@@ -1868,16 +5197,19 @@
   "pushed_at": "2026-11-02T13:50:18Z",
   "query": "sketchup",
   "relevant": true,
-  "score": 6,
+  "score": 8,
   "flags": [
    "DEMO",
-   "AEC"
+   "AEC",
+   "SKETCHUP"
   ],
   "matched": [
    "sketchup"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": 3
  },
  {
   "id": "gh:andidewanto/mapeasy",
@@ -1894,16 +5226,19 @@
   "pushed_at": "2026-11-02T13:50:08Z",
   "query": "sketchup",
   "relevant": true,
-  "score": 6,
+  "score": 8,
   "flags": [
    "DEMO",
-   "AEC"
+   "AEC",
+   "SKETCHUP"
   ],
   "matched": [
    "sketchup"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": 3
  },
  {
   "id": "gh:andidewanto/simple-bevel",
@@ -1920,16 +5255,19 @@
   "pushed_at": "2026-11-02T13:49:57Z",
   "query": "sketchup",
   "relevant": true,
-  "score": 6,
+  "score": 8,
   "flags": [
    "DEMO",
-   "AEC"
+   "AEC",
+   "SKETCHUP"
   ],
   "matched": [
    "sketchup"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": 3
  },
  {
   "id": "gh:tdeckersprojects/tdp.website",
@@ -1955,7 +5293,9 @@
    "revit"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:mahach666/rvtio",
@@ -1995,7 +5335,9 @@
    "ifc"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:jeffthomasiii/revit-geometry-lab",
@@ -2012,7 +5354,7 @@
   "pushed_at": "2026-11-01T00:58:07Z",
   "query": "revit",
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "DEMO",
    "AEC"
@@ -2021,7 +5363,9 @@
    "revit"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:ntphat-dev/ntphat-dev.github.io",
@@ -2048,7 +5392,9 @@
    "solidworks"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:imerfs/dwg-to-webgis-skill",
@@ -2085,7 +5431,9 @@
    "dwg"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:solwrighthq/architectural-lattice-sampler",
@@ -2111,17 +5459,20 @@
   "pushed_at": "2026-11-02T04:19:48Z",
   "query": "autocad",
   "relevant": true,
-  "score": 6,
+  "score": 8,
   "flags": [
    "DEMO",
-   "AEC"
+   "AEC",
+   "INTEROP"
   ],
   "matched": [
    "autocad",
    "dxf"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:abdelmonemi/rhino-textdot-to-text",
@@ -2158,7 +5509,9 @@
    "dwg"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:swiftugandan/openbim",
@@ -2182,7 +5535,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:perrylink/dsh-ifc-qto",
@@ -2213,7 +5568,9 @@
    "ifc"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:graphoflife/openzoom",
@@ -2240,7 +5597,9 @@
    "ifc"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:t-stricker/tsviewercad",
@@ -2290,7 +5649,9 @@
    "occt"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:cortylok/mechanism-playground",
@@ -2321,7 +5682,9 @@
    "solidworks"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:samuelrilling/vibe-modelling-skill",
@@ -2353,7 +5716,9 @@
    "solidworks"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:monish-instinct/words-to-cad",
@@ -2385,7 +5750,9 @@
    "step"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:tinfeng07/solidsight",
@@ -2418,7 +5785,9 @@
    "solidworks"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:yujieteo/ap242-gauge",
@@ -2459,7 +5828,9 @@
    "occt"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:thibaud-sanchez/fusion360-bambu-print-skill",
@@ -2505,7 +5876,9 @@
    "fusion 360"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:redstonedust/dsh-solidworks-copilot",
@@ -2542,7 +5915,9 @@
    "solidworks"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:wuhu-hit07/building-iot-quiz",
@@ -2569,7 +5944,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:pixl4tech/hunch-studio",
@@ -2600,7 +5977,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:stl2curves-mmm/mesh-mix-s2c",
@@ -2634,7 +6013,9 @@
    "step"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "cb:cadguidetools/gdt-asme-y145-autolisp-cad-automation",
@@ -2660,7 +6041,9 @@
    "dwg"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:legercong/sketchup-dynamic-components-mm",
@@ -2683,15 +6066,18 @@
   "pushed_at": "2026-11-01T06:55:09Z",
   "query": "sketchup",
   "relevant": true,
-  "score": 5,
+  "score": 7,
   "flags": [
-   "AEC"
+   "AEC",
+   "SKETCHUP"
   ],
   "matched": [
    "sketchup"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": 3
  },
  {
   "id": "gh:kaankrby/parametrically-compass",
@@ -2724,7 +6110,9 @@
    "revit"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:devendragupta-bim/ifcalignmentmanager",
@@ -2761,7 +6149,9 @@
    "ifc"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:whos-dwg/drawing-list-generator",
@@ -2793,7 +6183,9 @@
    "dwg"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:majhi4550/sketch_3d_app",
@@ -2819,7 +6211,9 @@
    "autocad"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:ztdd2018/autodeskcleaner",
@@ -2856,7 +6250,9 @@
    "autocad"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:lucasvonliu/instant-camera-macro-kit",
@@ -2892,7 +6288,9 @@
    "rhino3d"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:lucasvonliu/bronica-m65",
@@ -2930,7 +6328,9 @@
    "step"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:eun9681/spatia",
@@ -2953,7 +6353,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:tarsis59/imersa-3d",
@@ -2976,7 +6378,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:kaankrby/dijital-proje-yonetmeligi",
@@ -3009,7 +6413,9 @@
    "ifc"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:bimvoice/ifcdelta",
@@ -3035,7 +6441,9 @@
    "ifc"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:zahmadsaleem/ifcx-oci-demo",
@@ -3061,7 +6469,9 @@
    "ifc"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:rjohny55/scketch3dweb",
@@ -3094,7 +6504,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:jegozhou/dsh-plugin-cad",
@@ -3130,7 +6542,9 @@
    "opencascade"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:headtr1ck/homeslice",
@@ -3174,7 +6588,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:kellertobias/toskcad",
@@ -3197,7 +6613,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:yash-g-mislankar/bolicad",
@@ -3220,7 +6638,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:shinobi81/fusion360-mcp-server",
@@ -3250,7 +6670,9 @@
    "fusion 360"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:sasha-nordiclab/electrocookie-protoboard-cad",
@@ -3284,7 +6706,9 @@
    "step"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:kartikeytarar/texttocad-freecad",
@@ -3317,7 +6741,9 @@
    "freecad"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:mikbalarikan/pocad",
@@ -3345,7 +6771,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:mdrjuljul/steelprofile",
@@ -3381,7 +6809,9 @@
    "b-rep"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:xjoepec/liquidcad",
@@ -3415,7 +6845,9 @@
    "opencascade"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:27painter/dsh-nx",
@@ -3446,7 +6878,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:shawnmarx/boxinsertdesigner",
@@ -3478,7 +6912,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:samehmesrega/designerbook",
@@ -3526,7 +6962,9 @@
    "step"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:bermichevvolodymyr/yumaps",
@@ -3560,7 +6998,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:afeygu/strutkit",
@@ -3591,7 +7031,9 @@
    "dxf"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:buho29/wormgear",
@@ -3631,7 +7073,9 @@
    "freecad"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:rushikeshgarad2024-dev/solidworks-projects",
@@ -3667,7 +7111,9 @@
    "solidworks"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:kvashaihor/print-studio",
@@ -3711,7 +7157,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:malandereideen/solidnode",
@@ -3738,16 +7186,19 @@
   "pushed_at": "2026-11-01T18:48:26Z",
   "query": "topic:cad",
   "relevant": true,
-  "score": 5,
+  "score": 7,
   "flags": [
-   "AEC"
+   "AEC",
+   "INTEROP"
   ],
   "matched": [
    "grasshopper",
    "opencascade"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:guyavron/lighting-deck-generator",
@@ -3783,7 +7234,9 @@
    "dxf"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:hsnalkan1/cad-mesh-analyzer",
@@ -3817,7 +7270,9 @@
    "manifold"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:jutzugc/cadcraft-deploy-guide",
@@ -3849,7 +7304,9 @@
    "dxf"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:8910191886/sitewright",
@@ -3885,7 +7342,9 @@
    "dxf"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:stevecad/steve",
@@ -3909,7 +7368,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:z-billi/roboarm",
@@ -3942,7 +7403,9 @@
    "solidworks"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:suckduck/panelmaster_public",
@@ -3966,7 +7429,9 @@
   ],
   "matched": [],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  },
  {
   "id": "gh:shelbywalkyo/bim-helper",
@@ -3993,6 +7458,8 @@
    "revit"
   ],
   "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z"
+  "found_at": "2026-11-02T23:12:33Z",
+  "always_publish": false,
+  "eco_min": null
  }
 ]
