@@ -2,7 +2,10 @@
 
 Finds new public repositories that look like CAD/BIM tools (SketchUp, Revit, AutoCAD, IFC, browser CAD, vibe-coded clones) on GitHub, GitLab and Codeberg, and publishes them as an Atom feed.
 
-**Feed URL:** https://blender3darchitect.github.io/aec-radar/feed.xml
+**Feeds:**
+- Clones & CAD/BIM apps: https://blender3darchitect.github.io/aec-radar/feed.xml
+- Add-ons (IngeTrazo, Blender, SketchUp): https://blender3darchitect.github.io/aec-radar/addons.xml
+- Browse everything: https://blender3darchitect.github.io/aec-radar/
 
 ## Setup (about 5 minutes)
 
@@ -34,6 +37,9 @@ Each new repo gets a score. Only repos scoring **5 or more**, and showing at lea
 | Topics like `cad`, `bim`, `ifc`, `threejs` | +2 |
 | Clone wording (SketchUp-style, push/pull, clean-room, alternative…) `[CLONE]` | +2 |
 | Runs in the browser (WebGL, WASM, three.js…) `[WEB]` | +1 |
+| Bridge / importer / node editor / live link `[INTEROP]` | +2 |
+| IngeTrazo extension `[INGETRAZO]` | +4, always shown |
+| Blender add-on or SketchUp plugin `[BLENDER]` `[SKETCHUP]` | +2 |
 | AI signs (README wording, `CLAUDE.md`, `AGENTS.md`, `.cursorrules`…) | +1 |
 | Pushed in the last 48 h | +1 |
 | 5+ stars | +1 |
@@ -50,6 +56,19 @@ Useful Feedbin Actions on this feed: notify on `[CLONE]`, star `[AI]` or `[DEMO]
 The first run publishes a backlog (about 100 items from the last 3 days plus 30 days of rising repos). After that, expect a handful of new items per run.
 
 Repos below the threshold are re-checked on later runs while they're still within the 3-day window, so a project that adds a demo link or description a day later still gets picked up.
+
+## Two feeds
+
+Both feeds come from the same run.
+
+- **feed.xml**: clones and new CAD/BIM apps. Bar: score 5.
+- **addons.xml**: anything tagged `[INGETRAZO]`, `[BLENDER]` or `[SKETCHUP]`. Bar: score 3 for Blender/SketchUp, and every IngeTrazo extension is shown.
+
+Blender and SketchUp tags need plugin wording (add-on, extension, plugin, importer…) plus some architecture relevance, so a generic animation add-on or a "SketchUp-style modeler" doesn't land there. Anything tagged `[CLONE]` always goes to the main feed.
+
+IngeTrazo is searched 60 days back (up to 150 repos per run) because the ecosystem is small.
+
+Edit the `feeds` and `ecosystems` sections of `config.json` to add another add-on ecosystem (Rhino, FreeCAD…) or change the routing.
 
 ## Tuning
 
