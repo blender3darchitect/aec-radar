@@ -28,7 +28,7 @@ NOW = dt.datetime.now(dt.timezone.utc)
 SC = CFG["scoring"]
 
 # Search API: 30 req/min with a token, 10 req/min without.
-SEARCH_DELAY = 2.2 if TOKEN else 6.5
+SEARCH_DELAY = 2.5 if TOKEN else 6.5
 
 
 # ---------------------------------------------------------------- helpers
@@ -89,14 +89,20 @@ def save_json(path, data):
 
 # ---------------------------------------------------------------- sources
 
-def github_search(query, since, extra="", sort="updated"):
+def github_search(query, since, extra="", sort="updated", pages=1):
     q = f"{query} created:>={since} fork:false archived:false {extra}".strip()
-    url = "https://api.github.com/search/repositories?" + urllib.parse.urlencode(
-        {"q": q, "sort": sort, "order": "desc", "per_page": 50})
-    data = http_json(url, gh_headers())
-    time.sleep(SEARCH_DELAY)
+    raw = []
+    for page in range(1, pages + 1):
+        url = "https://api.github.com/search/repositories?" + urllib.parse.urlencode(
+            {"q": q, "sort": sort, "order": "desc", "per_page": 50, "page": page})
+        data = http_json(url, gh_headers())
+        time.sleep(SEARCH_DELAY)
+        batch = (data or {}).get("items", [])
+        raw += batch
+        if len(batch) < 50:
+            break
     out = []
-    for r in (data or {}).get("items", []):
+    for r in raw:
         homepage = (r.get("homepage") or "").strip()
         if "github.com/" in homepage and r["full_name"].lower() in homepage.lower():
             homepage = ""  # homepage that just points back at the repo
@@ -219,6 +225,28 @@ def score(item, root_files=None):
         s += 1
         flags.append("WEB")
 
+    # Bridges, importers, node editors: tools that connect existing software.
+    if any(has_term(text, t) for t in SC.get("interop_terms", [])):
+        s += 2
+        flags.append("INTEROP")
+
+    # Add-on ecosystems (IngeTrazo, Blender, SketchUp…).
+    item["always_publish"] = False
+    item["eco_min"] = None
+    eco_relevant = False
+    has_addon_words = any(has_term(text, t) for t in CFG.get("addon_words", []))
+    for eco in CFG.get("ecosystems", []):
+        if eco.get("requires_addon_words") and not has_addon_words:
+            continue  # "SketchUp-style modeler" is a clone, not a SketchUp plugin
+        if any(has_term(text, t) for t in eco["terms"]):
+            s += eco.get("bonus", 2)
+            flags.append(eco["tag"])
+            eco_relevant = eco_relevant or eco.get("always_relevant", False)
+            item["always_publish"] = item["always_publish"] or eco.get("always_publish", False)
+            if "min_score" in eco:
+                m = eco["min_score"]
+                item["eco_min"] = m if item["eco_min"] is None else min(item["eco_min"], m)
+
     ai_files = set(SC["ai_files"]) & set(root_files or [])
     if ai_files or any(has_term(text, t) for t in SC["ai_terms"]):
         s += 1
@@ -241,9 +269,10 @@ def score(item, root_files=None):
     # Pirated-software / malware lures ("pre-activated", "crack", "full version"…): never publish.
     if any(has_term(text, t) or has_term(name_text, t) for t in SC.get("spam_terms", [])):
         s = -99
+        item["always_publish"] = False
 
     # A repo must show some CAD/BIM relevance; a demo link alone isn't enough.
-    item["relevant"] = bool(brand or fmt or (topics & set(SC["topic_terms"]))
+    item["relevant"] = bool(eco_relevant or brand or fmt or (topics & set(SC["topic_terms"]))
                             or any(has_term(text, t) for t in SC["domain_terms"]))
 
     item["score"] = s
@@ -280,16 +309,32 @@ def entry_title(it):
     return f"★{it['score']} {tags} {it['name']}" + (f": {desc}" if desc else "")
 
 
-def write_feed(items):
-    os.makedirs(OUT_DIR, exist_ok=True)
+def feed_items(items, spec):
+    inc, exc = set(spec.get("include_tags", [])), set(spec.get("exclude_tags", []))
+    keep = set(spec.get("keep_tags", []))
+    out = []
+    for it in items:
+        tags = set(it.get("flags", []))
+        if keep and (tags & keep):
+            out.append(it)
+            continue
+        if inc and not (tags & inc):
+            continue
+        if exc and (tags & exc):
+            continue
+        out.append(it)
+    return out
+
+
+def write_atom(path, title, self_url, items):
     site = CFG["feed"]["site_url"]
     e = html.escape
     parts = ['<?xml version="1.0" encoding="utf-8"?>',
              '<feed xmlns="http://www.w3.org/2005/Atom">',
-             f"<title>{e(CFG['feed']['title'])}</title>",
-             f'<link href="{e(site)}feed.xml" rel="self"/>',
+             f"<title>{e(title)}</title>",
+             f'<link href="{e(self_url)}" rel="self"/>',
              f'<link href="{e(site)}"/>',
-             f"<id>{e(site)}</id>",
+             f"<id>{e(self_url)}</id>",
              f"<updated>{iso(NOW)}</updated>"]
     for it in items:
         parts += ["<entry>",
@@ -302,19 +347,34 @@ def write_feed(items):
                   f'<content type="html">{e(entry_html(it))}</content>',
                   "</entry>"]
     parts.append("</feed>")
-    with open(os.path.join(OUT_DIR, "feed.xml"), "w", encoding="utf-8") as f:
+    with open(path, "w", encoding="utf-8") as f:
         f.write("\n".join(parts))
 
-    rows = "".join(
-        f'<li><a href="{e(it["url"])}">{e(entry_title(it))}</a> <small>{it["found_at"][:10]}</small></li>'
-        for it in items)
+
+def write_feed(items):
+    os.makedirs(OUT_DIR, exist_ok=True)
+    site = CFG["feed"]["site_url"]
+    e = html.escape
+    specs = CFG.get("feeds") or [{"file": "feed.xml", "title": CFG["feed"]["title"]}]
+
+    sections, alternates = [], []
+    for spec in specs:
+        its = feed_items(items, spec)
+        write_atom(os.path.join(OUT_DIR, spec["file"]), spec["title"], site + spec["file"], its)
+        alternates.append(f'<link rel="alternate" type="application/atom+xml" title="{e(spec["title"])}" href="{e(spec["file"])}">')
+        rows = "".join(
+            f'<li><a href="{e(it["url"])}">{e(entry_title(it))}</a> <small>{it["found_at"][:10]}</small></li>'
+            for it in its)
+        sections.append(f'<h2>{e(spec["title"])}</h2><p>Feed: <a href="{e(spec["file"])}">{e(spec["file"])}</a> '
+                        f'· {len(its)} items</p><ul>{rows}</ul>')
+
     page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>AEC Radar</title>
-<link rel="alternate" type="application/atom+xml" title="AEC Radar" href="feed.xml">
+{"".join(alternates)}
 <style>body{{font:15px/1.5 system-ui,sans-serif;max-width:860px;margin:2rem auto;padding:0 16px}}li{{margin:.4rem 0}}</style>
-</head><body><h1>AEC Radar</h1><p>Feed: <a href="feed.xml">feed.xml</a> · updated {iso(NOW)}</p>
-<ul>{rows}</ul></body></html>"""
+</head><body><h1>AEC Radar</h1><p>Updated {iso(NOW)}</p>
+{"".join(sections)}</body></html>"""
     with open(os.path.join(OUT_DIR, "index.html"), "w", encoding="utf-8") as f:
         f.write(page)
 
@@ -345,6 +405,12 @@ def main():
                 c["rising"] = True
                 cands[c["id"]] = {**cands.get(c["id"], {}), **c}
 
+    for eco in CFG.get("ecosystems", []):
+        e_since = (NOW - dt.timedelta(days=eco.get("window_days", CFG["window_days"]))).date()
+        for q in eco["queries"]:
+            log(f"GitHub {eco['tag']}: {q}")
+            add(github_search(q, e_since, pages=eco.get("max_pages", 1)))
+
     if CFG.get("gitlab", {}).get("enabled"):
         for t in CFG["gitlab"]["terms"]:
             log(f"GitLab: {t}")
@@ -365,7 +431,10 @@ def main():
         if c["score"] >= CFG["min_score"] - 1:
             score(c, github_root_files(c["name"]))
 
-    published = sorted((c for c in new if c["score"] >= CFG["min_score"] and c["relevant"]),
+    published = sorted((c for c in new
+                        if (c["relevant"] and c["score"] >= (c["eco_min"] if c.get("eco_min") is not None
+                                                             else CFG["min_score"]))
+                        or c.get("always_publish")),
                        key=lambda c: -c["score"])
     stamp = iso(NOW)
     for c in published:
@@ -375,6 +444,11 @@ def main():
     # Low scorers are not marked seen, so they get re-scored while still inside the window.
     cutoff = NOW - dt.timedelta(days=180)
     seen = {k: v for k, v in seen.items() if (parse_time(v) or NOW) > cutoff}
+
+    # Re-tag older entries with the current rules so they land in the right feed.
+    for it in items:
+        it.setdefault("topics", [])
+        score(it, it.get("ai_files"))
 
     items = (published + items)[: CFG["feed"]["max_items"]]
     save_json(SEEN_PATH, seen)
