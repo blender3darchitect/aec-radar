@@ -1,5 +1,564 @@
 [
  {
+  "id": "gh:sandflow-ai/sand3d",
+  "source": "GitHub",
+  "name": "Sandflow-ai/sand3d",
+  "owner": "Sandflow-ai",
+  "url": "https://github.com/Sandflow-ai/sand3d",
+  "description": "3D modeling in Python, built for LLMs.",
+  "homepage": "https://sandflow.ai/sand3d/",
+  "stars": 0,
+  "language": "HTML",
+  "topics": [
+   "3d",
+   "blender",
+   "cad",
+   "llm",
+   "procedural-modeling",
+   "python",
+   "usd"
+  ],
+  "created_at": "2026-11-03T08:23:03Z",
+  "pushed_at": "2026-11-04T20:03:48Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [
+   ".claude",
+   "AGENTS.md",
+   "CLAUDE.md"
+  ],
+  "found_at": "2026-11-04T23:37:35Z"
+ },
+ {
+  "id": "gh:goodrich347/blender-revit-bridge",
+  "source": "GitHub",
+  "name": "Goodrich347/blender-revit-bridge",
+  "owner": "Goodrich347",
+  "url": "https://github.com/Goodrich347/blender-revit-bridge",
+  "description": "Import Autodesk Revit .rvt files into Blender without Revit — BIM collections, parameters, auto PBR textures (ambientCG)",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-11-04T19:01:55Z",
+  "pushed_at": "2026-11-04T19:35:38Z",
+  "query": "revit",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "AEC",
+   "INTEROP",
+   "BLENDER"
+  ],
+  "matched": [
+   "revit"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-04T23:37:35Z"
+ },
+ {
+  "id": "gh:cadsmith/shxio",
+  "source": "GitHub",
+  "name": "cadsmith/shxio",
+  "owner": "cadsmith",
+  "url": "https://github.com/cadsmith/shxio",
+  "description": "A C++23 library that reads AutoCAD SHX fonts, draws text in them as AutoCAD does, and compiles SHP sources into them",
+  "homepage": "https://shxio.vercel.app",
+  "stars": 0,
+  "language": "C++",
+  "topics": [],
+  "created_at": "2026-11-04T17:43:52Z",
+  "pushed_at": "2026-11-04T17:48:57Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "DEMO",
+   "AEC",
+   "AI"
+  ],
+  "matched": [
+   "autocad"
+  ],
+  "ai_files": [
+   "AGENTS.md"
+  ],
+  "found_at": "2026-11-04T23:37:35Z"
+ },
+ {
+  "id": "gh:prashant-thakur77/partsmith",
+  "source": "GitHub",
+  "name": "Prashant-thakur77/partsmith",
+  "owner": "Prashant-thakur77",
+  "url": "https://github.com/Prashant-thakur77/partsmith",
+  "description": "Photo of a broken plastic part → a measured, parametric, printable replacement. Your laptop screen is the ruler. SAM 3.1 and code measure millimetres, Muse Spark Open writes CadQuery, and a deterministic verifier decides what passes. Open registry over REST and MCP.",
+  "homepage": "https://partsmith-52-204-199-249.sslip.io",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "3d-printing",
+   "ai-agents",
+   "aruco",
+   "cad",
+   "cadquery",
+   "computer-vision",
+   "fastapi",
+   "hackathon",
+   "llm",
+   "mcp",
+   "meta",
+   "metrology",
+   "model-context-protocol",
+   "nextjs",
+   "open-weights",
+   "parametric-design",
+   "repair",
+   "right-to-repair",
+   "sam3",
+   "segmentation"
+  ],
+  "created_at": "2026-11-04T23:11:07Z",
+  "pushed_at": "2026-11-04T23:29:40Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "DEMO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-04T23:37:35Z"
+ },
+ {
+  "id": "gh:rikochet87/trazocad-showcase",
+  "source": "GitHub",
+  "name": "rikochet87/trazocad-showcase",
+  "owner": "rikochet87",
+  "url": "https://github.com/rikochet87/trazocad-showcase",
+  "description": "Showcase of TrazoCAD, an AutoCAD-style 2D CAD app in the browser written from scratch (source code private)",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [],
+  "created_at": "2026-11-04T21:24:29Z",
+  "pushed_at": "2026-11-04T21:34:55Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "CLONE",
+   "WEB"
+  ],
+  "matched": [
+   "autocad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-04T23:37:35Z"
+ },
+ {
+  "id": "gh:emirerdo/industrial-design-skill",
+  "source": "GitHub",
+  "name": "emirerdo/industrial-design-skill",
+  "owner": "emirerdo",
+  "url": "https://github.com/emirerdo/industrial-design-skill",
+  "description": "An agent skill that designs physical products the way Apple's industrial design team works: three real ideas, the whole form before detail, and a strict self-review before anything is shown.",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [
+   "3d-printing",
+   "agent-skills",
+   "build123d",
+   "cad",
+   "claude-code",
+   "freecad",
+   "industrial-design",
+   "product-design"
+  ],
+  "created_at": "2026-11-04T21:41:57Z",
+  "pushed_at": "2026-11-04T21:42:09Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "AI"
+  ],
+  "matched": [
+   "freecad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-04T23:37:35Z"
+ },
+ {
+  "id": "gh:u-c4n/solidworks-mcp-pro",
+  "source": "GitHub",
+  "name": "U-C4N/Solidworks-MCP-PRO",
+  "owner": "U-C4N",
+  "url": "https://github.com/U-C4N/Solidworks-MCP-PRO",
+  "description": "Verified SOLIDWORKS engineering workflows: design requirements, isolated variants and native Visualize shot packs.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "cad",
+   "claude",
+   "codex",
+   "design-validation",
+   "engineering",
+   "mcp",
+   "mcp-server",
+   "model-context-protocol",
+   "parametric-design",
+   "python",
+   "rendering",
+   "solidworks",
+   "solidworks-visualize",
+   "windows"
+  ],
+  "created_at": "2026-11-04T08:28:37Z",
+  "pushed_at": "2026-11-04T11:25:09Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "AI"
+  ],
+  "matched": [
+   "solidworks"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-04T23:37:35Z"
+ },
+ {
+  "id": "gh:dutchman-cad/dutchman",
+  "source": "GitHub",
+  "name": "dutchman-cad/dutchman",
+  "owner": "dutchman-cad",
+  "url": "https://github.com/dutchman-cad/dutchman",
+  "description": "Ferries CAD designs between formats: decodes native design files into open, editable models (early development)",
+  "homepage": "",
+  "stars": 25,
+  "language": "Rust",
+  "topics": [],
+  "created_at": "2026-10-20T20:40:38Z",
+  "pushed_at": "2026-11-04T22:10:51Z",
+  "query": "cad",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AI",
+   "RISING"
+  ],
+  "matched": [],
+  "ai_files": [
+   "AGENTS.md"
+  ],
+  "found_at": "2026-11-04T23:37:35Z"
+ },
+ {
+  "id": "gh:amixx/ifc-ls-integrations",
+  "source": "GitHub",
+  "name": "Amixx/IFC-LS-integrations",
+  "owner": "Amixx",
+  "url": "https://github.com/Amixx/IFC-LS-integrations",
+  "description": "Editor setups for the IFC Language Server: Neovim, Helix, Emacs, Notepad++, Kate and Sublime Text",
+  "homepage": "",
+  "stars": 0,
+  "language": "Vim Script",
+  "topics": [
+   "bim",
+   "ifc",
+   "language-server",
+   "lsp",
+   "step"
+  ],
+  "created_at": "2026-11-04T15:16:28Z",
+  "pushed_at": "2026-11-04T17:42:39Z",
+  "query": "bim",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "ifc",
+   "step"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-04T23:37:35Z"
+ },
+ {
+  "id": "gh:nathancharlate/socketdesigner",
+  "source": "GitHub",
+  "name": "NathanCharlate/SocketDesigner",
+  "owner": "NathanCharlate",
+  "url": "https://github.com/NathanCharlate/SocketDesigner",
+  "description": "Web CAD for transtibial prosthetic sockets: scan import, rectification, Bezier trim line, alignment and STL export for the Ottobock 4R54 adapter (alpha)",
+  "homepage": "https://socket-designer.vercel.app",
+  "stars": 0,
+  "language": "JavaScript",
+  "topics": [],
+  "created_at": "2026-11-04T19:52:46Z",
+  "pushed_at": "2026-11-04T20:15:29Z",
+  "query": "\"web cad\"",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "DEMO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-04T23:37:35Z"
+ },
+ {
+  "id": "gh:hackclub/fart",
+  "source": "GitHub",
+  "name": "hackclub/fart",
+  "owner": "hackclub",
+  "url": "https://github.com/hackclub/fart",
+  "description": "FART, the Fabricate Awesome Review Tool: browse CAD, PCB and schematic files in any public GitHub repo",
+  "homepage": "https://fart.hackclub.com",
+  "stars": 0,
+  "language": "TypeScript",
+  "topics": [],
+  "created_at": "2026-11-04T21:13:34Z",
+  "pushed_at": "2026-11-04T22:31:08Z",
+  "query": "\"browser cad\"",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "DEMO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-04T23:37:35Z"
+ },
+ {
+  "id": "gh:ekkktgitelman/exporta",
+  "source": "GitHub",
+  "name": "EkkktGitelman/Exporta",
+  "owner": "EkkktGitelman",
+  "url": "https://github.com/EkkktGitelman/Exporta",
+  "description": "Пакетный перевод фрагментов КОМПАС-3D в DXF и сборка листовых деталей SolidWorks из DXF.",
+  "homepage": "",
+  "stars": 3,
+  "language": "PowerShell",
+  "topics": [
+   "automation",
+   "cad",
+   "dxf",
+   "kompas-3d",
+   "sheet-metal",
+   "solidworks"
+  ],
+  "created_at": "2026-11-04T20:44:26Z",
+  "pushed_at": "2026-11-04T21:04:40Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "solidworks",
+   "dxf"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-04T23:37:35Z"
+ },
+ {
+  "id": "gh:amirrezaroodsaz/cadquery-bracket-task",
+  "source": "GitHub",
+  "name": "AmirrezaRoodsaz/cadquery-bracket-task",
+  "owner": "AmirrezaRoodsaz",
+  "url": "https://github.com/AmirrezaRoodsaz/cadquery-bracket-task",
+  "description": "A parametric mechanical part written in Python (CadQuery), exported to STEP, and verified by tests that measure the exported solid - not the script that produced it.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "benchmark",
+   "cad",
+   "cadquery",
+   "docker",
+   "mechanical-engineering",
+   "parametric-design",
+   "pytest",
+   "python",
+   "step",
+   "verification"
+  ],
+  "created_at": "2026-11-04T20:58:01Z",
+  "pushed_at": "2026-11-04T20:58:06Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "step"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-04T23:37:35Z"
+ },
+ {
+  "id": "gh:lopezgalarce1997-debug/cadculator-portfolio",
+  "source": "GitHub",
+  "name": "lopezgalarce1997-debug/CADCulator-Portfolio",
+  "owner": "lopezgalarce1997-debug",
+  "url": "https://github.com/lopezgalarce1997-debug/CADCulator-Portfolio",
+  "description": "Software para leer planos eléctricos DWG/DXF y cubicar instalaciones, en PC y Android. C#, .NET, Windows Forms, ASP.NET Core, SQLite y Docker.",
+  "homepage": "https://cadculator.cl",
+  "stars": 0,
+  "language": "",
+  "topics": [
+   "android",
+   "aspnet-core",
+   "cad",
+   "csharp",
+   "docker",
+   "dotnet",
+   "dwg",
+   "dxf",
+   "entity-framework-core",
+   "razor-pages",
+   "sqlite",
+   "windows-forms"
+  ],
+  "created_at": "2026-11-04T18:10:26Z",
+  "pushed_at": "2026-11-04T18:10:34Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "dxf",
+   "dwg"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-04T23:37:35Z"
+ },
+ {
+  "id": "gh:qiko0721/dsh-ug-viewer",
+  "source": "GitHub",
+  "name": "QIKO0721/dsh-ug-viewer",
+  "owner": "QIKO0721",
+  "url": "https://github.com/QIKO0721/dsh-ug-viewer",
+  "description": "Preview UG/NX models in DSH — orbit, pick faces/features, ask an AI. | 在 DSH 里预览 UG/NX 模型，点选几何，就地问 AI",
+  "homepage": "",
+  "stars": 0,
+  "language": "JavaScript",
+  "topics": [
+   "3d",
+   "cad",
+   "deepseek-harness",
+   "dsh",
+   "dsh-plugin",
+   "nx",
+   "siemens",
+   "stl",
+   "ug",
+   "webgl"
+  ],
+  "created_at": "2026-11-04T15:33:11Z",
+  "pushed_at": "2026-11-04T15:57:51Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "WEB"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-04T23:37:35Z"
+ },
+ {
+  "id": "gh:ailihfgf/catia-cad-desktop",
+  "source": "GitHub",
+  "name": "ailihfgf/catia-cad-desktop",
+  "owner": "ailihfgf",
+  "url": "https://github.com/ailihfgf/catia-cad-desktop",
+  "description": "Catia Cad 2026: Complete Standalone Desktop CAD Suite with All Features Enabled",
+  "homepage": "",
+  "stars": 117,
+  "language": "C++",
+  "topics": [
+   "automation",
+   "cad-drawings",
+   "catia",
+   "catia-v5",
+   "catiav5",
+   "desktop",
+   "developer-tools",
+   "open-source",
+   "pycatia",
+   "python",
+   "scripts",
+   "software-engineering",
+   "system",
+   "utility",
+   "windows-app"
+  ],
+  "created_at": "2026-11-02T22:58:45Z",
+  "pushed_at": "2026-11-04T22:29:18Z",
+  "query": "cad",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "RISING"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-04T23:37:35Z"
+ },
+ {
   "id": "gh:d-onworks/free-sketch",
   "source": "GitHub",
   "name": "d-onworks/free-sketch",
@@ -828,7 +1387,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 11,
+  "score": 10,
   "flags": [
    "DEMO",
    "AEC",
@@ -1188,7 +1747,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "AI"
@@ -5903,7 +6462,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 4,
+  "score": 3,
   "flags": [
    "BLENDER"
   ],
@@ -6331,7 +6890,7 @@
   "query": "cad",
   "rising": true,
   "relevant": true,
-  "score": 13,
+  "score": 12,
   "flags": [
    "DEMO",
    "AEC",
@@ -6473,7 +7032,7 @@
   "query": "cad",
   "rising": true,
   "relevant": true,
-  "score": 12,
+  "score": 11,
   "flags": [
    "DEMO",
    "AEC",
@@ -6520,7 +7079,7 @@
   "pushed_at": "2026-11-02T17:15:22Z",
   "query": "topic:cad",
   "relevant": true,
-  "score": 13,
+  "score": 12,
   "flags": [
    "DEMO",
    "AEC",
@@ -6559,7 +7118,7 @@
   "query": "cad",
   "rising": true,
   "relevant": true,
-  "score": 11,
+  "score": 10,
   "flags": [
    "DEMO",
    "AEC",
@@ -6653,7 +7212,7 @@
   "query": "cad",
   "rising": true,
   "relevant": true,
-  "score": 11,
+  "score": 10,
   "flags": [
    "DEMO",
    "AEC",
@@ -7019,7 +7578,7 @@
   "query": "bim",
   "rising": true,
   "relevant": true,
-  "score": 10,
+  "score": 9,
   "flags": [
    "DEMO",
    "CLONE",
@@ -7047,7 +7606,7 @@
   "query": "cad",
   "rising": true,
   "relevant": true,
-  "score": 9,
+  "score": 8,
   "flags": [
    "AEC",
    "CLONE",
@@ -7081,7 +7640,7 @@
   "query": "cad",
   "rising": true,
   "relevant": true,
-  "score": 9,
+  "score": 8,
   "flags": [
    "DEMO",
    "AEC",
@@ -7112,7 +7671,7 @@
   "query": "ifc",
   "rising": true,
   "relevant": true,
-  "score": 9,
+  "score": 8,
   "flags": [
    "AEC",
    "CLONE",
@@ -7295,7 +7854,7 @@
   "pushed_at": "2026-11-02T14:48:36Z",
   "query": "cad threejs",
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "CLONE",
    "WEB",
@@ -7447,7 +8006,7 @@
   "pushed_at": "2026-11-02T21:43:20Z",
   "query": "topic:cad",
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "DEMO",
    "AEC"
@@ -7616,7 +8175,7 @@
   "query": "cad",
   "rising": true,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "AEC",
    "RISING"
@@ -7674,7 +8233,7 @@
   "pushed_at": "2026-11-02T22:29:39Z",
   "query": "revit",
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "DEMO",
    "AEC",
@@ -7773,7 +8332,7 @@
   "pushed_at": "2026-11-02T22:51:11Z",
   "query": "topic:cad",
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "DEMO"
   ],
@@ -7805,7 +8364,7 @@
   "pushed_at": "2026-11-02T21:22:12Z",
   "query": "topic:cad",
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "DEMO"
   ],
@@ -7838,7 +8397,7 @@
   "pushed_at": "2026-11-02T20:27:47Z",
   "query": "topic:cad",
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "DEMO"
   ],
@@ -7874,7 +8433,7 @@
   "pushed_at": "2026-11-02T19:52:11Z",
   "query": "topic:cad",
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "DEMO"
   ],
@@ -7943,7 +8502,7 @@
   "query": "cad",
   "rising": true,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "RISING"
   ],
@@ -8181,7 +8740,7 @@
   "pushed_at": "2026-11-02T21:04:16Z",
   "query": "revit",
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "DEMO",
    "AEC"
@@ -8279,7 +8838,7 @@
   "pushed_at": "2026-11-02T19:04:33Z",
   "query": "autocad",
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "DEMO",
    "AEC"
@@ -8425,7 +8984,7 @@
   "pushed_at": "2026-11-02T22:16:25Z",
   "query": "bim",
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "DEMO",
    "WEB"
@@ -8673,7 +9232,7 @@
   "pushed_at": "2026-11-02T17:35:13Z",
   "query": "topic:cad",
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "AI"
@@ -9071,7 +9630,7 @@
   "pushed_at": "2026-11-02T15:57:31Z",
   "query": "autocad",
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -9244,7 +9803,7 @@
   "pushed_at": "2026-11-02T14:45:06Z",
   "query": "bim",
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "DEMO"
   ],
@@ -9269,7 +9828,7 @@
   "pushed_at": "2026-11-02T22:19:10Z",
   "query": "bim",
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "DEMO"
   ],
@@ -9479,7 +10038,7 @@
   "pushed_at": "2026-11-02T22:38:13Z",
   "query": "\"floor plan\" editor",
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "WEB"
   ],
@@ -9559,7 +10118,7 @@
   "pushed_at": "2026-11-02T23:12:37Z",
   "query": "topic:cad",
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -9594,7 +10153,7 @@
   "pushed_at": "2026-11-02T21:38:13Z",
   "query": "topic:cad",
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -9630,7 +10189,7 @@
   "pushed_at": "2026-11-02T17:44:53Z",
   "query": "topic:cad",
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -9662,7 +10221,7 @@
   "pushed_at": "2026-11-02T17:18:35Z",
   "query": "topic:cad",
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AI"
   ],
@@ -9696,7 +10255,7 @@
   "pushed_at": "2026-11-02T16:39:32Z",
   "query": "topic:cad",
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -9732,7 +10291,7 @@
   "pushed_at": "2026-11-02T16:09:30Z",
   "query": "topic:cad",
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -9769,7 +10328,7 @@
   "pushed_at": "2026-11-02T15:55:25Z",
   "query": "topic:cad",
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AI"
   ],
@@ -9803,7 +10362,7 @@
   "pushed_at": "2026-11-02T15:08:59Z",
   "query": "topic:cad",
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "WEB"
   ],
@@ -9849,7 +10408,7 @@
   "pushed_at": "2026-11-02T14:43:47Z",
   "query": "topic:cad",
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -10320,7 +10879,7 @@
   "query": "cad",
   "rising": true,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "RISING"
   ],
