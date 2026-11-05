@@ -1,5 +1,626 @@
 [
  {
+  "id": "gh:ezpzfile/ezpzfile-cad",
+  "source": "GitHub",
+  "name": "ezpzfile/ezpzfile-cad",
+  "owner": "ezpzfile",
+  "url": "https://github.com/ezpzfile/ezpzfile-cad",
+  "description": "Read CAD and BIM drawings in JavaScript: DWG, DXF, Jw_cad, SXF, IFC, STEP, SketchUp, Gerber and more. Clean-room, no dependencies. The engines of the ezpzfile.com CAD viewer.",
+  "homepage": "https://ezpzfile.com/cad-viewer",
+  "stars": 1,
+  "language": "TypeScript",
+  "topics": [
+   "autocad",
+   "bim",
+   "cad",
+   "clean-room",
+   "dwg",
+   "dxf",
+   "gerber",
+   "ifc",
+   "iges",
+   "javascript",
+   "jww",
+   "parser",
+   "sketchup",
+   "step",
+   "typescript"
+  ],
+  "created_at": "2026-11-05T03:54:54Z",
+  "pushed_at": "2026-11-05T04:45:19Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 10,
+  "flags": [
+   "DEMO",
+   "AEC",
+   "CLONE"
+  ],
+  "matched": [
+   "sketchup",
+   "autocad",
+   "ifc",
+   "dxf",
+   "dwg",
+   "step"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T06:38:54Z"
+ },
+ {
+  "id": "gh:osmanmohamed21/revitbatchstudio",
+  "source": "GitHub",
+  "name": "OsmanMohamed21/RevitBatchStudio",
+  "owner": "OsmanMohamed21",
+  "url": "https://github.com/OsmanMohamed21/RevitBatchStudio",
+  "description": "Unattended, crash-proof batch processing for Revit 2021–2027: NWC, IFC, DWG, PDF, Dynamo, Python.",
+  "homepage": "https://bimminutes.com",
+  "stars": 0,
+  "language": "",
+  "topics": [
+   "autodesk-forma",
+   "autodesk-revit-2025",
+   "batch",
+   "batch-processing",
+   "batch-script",
+   "dynamo",
+   "dynamobim",
+   "ifc",
+   "ifc-viewer",
+   "ifc2x3",
+   "ifc4",
+   "navisworks",
+   "navisworks-manage",
+   "revit",
+   "revit-addin",
+   "revit-addins",
+   "revit-api",
+   "revit-plugin",
+   "revitapi"
+  ],
+  "created_at": "2026-11-05T04:18:00Z",
+  "pushed_at": "2026-11-05T05:17:16Z",
+  "query": "revit",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "revit",
+   "ifc",
+   "dwg"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T06:38:54Z"
+ },
+ {
+  "id": "gh:lieutenantrise/sketchup-pro-edition",
+  "source": "GitHub",
+  "name": "LieutenantRise/SketchUp-Pro-Edition",
+  "owner": "LieutenantRise",
+  "url": "https://github.com/LieutenantRise/SketchUp-Pro-Edition",
+  "description": "sketchup pro edition download windows — SketchUp Pro for Windows 11 & 10. README includes download steps, install sequence, and desktop setup tips.",
+  "homepage": "",
+  "stars": 89,
+  "language": "",
+  "topics": [
+   "3d-modeling",
+   "3d-visualization",
+   "architecture-tools",
+   "complete-version",
+   "design-software",
+   "download",
+   "full-installer",
+   "interior-design",
+   "modeling-workflow",
+   "sketchup-pro",
+   "sketchup-pro-edition",
+   "spatial-design",
+   "windows-11",
+   "windows-cad",
+   "windows-software"
+  ],
+  "created_at": "2026-10-31T01:28:08Z",
+  "pushed_at": "2026-11-05T01:04:44Z",
+  "query": "sketchup",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "AEC",
+   "RISING"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T06:38:54Z"
+ },
+ {
+  "id": "gh:arqomes/arqsynth_bim",
+  "source": "GitHub",
+  "name": "arqomes/ArqSynth_BIM",
+  "owner": "arqomes",
+  "url": "https://github.com/arqomes/ArqSynth_BIM",
+  "description": "ArqSynth BIM — an open-source, IFC-native BIM modeler for architects and engineers. Fast modeling like SketchUp, documentation like Revit, Eurocode-based structural analysis, and export to IFC, DWG, PDF, SKP, 3DM, GLB, and USDZ. Built with Python, Qt, and wgpu.",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [],
+  "created_at": "2026-11-05T06:32:47Z",
+  "pushed_at": "2026-11-05T06:32:49Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "AEC",
+   "CLONE",
+   "SKETCHUP"
+  ],
+  "matched": [
+   "sketchup",
+   "revit",
+   "ifc",
+   "dwg"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T06:38:54Z"
+ },
+ {
+  "id": "gh:zp1208/relicad",
+  "source": "GitHub",
+  "name": "zp1208/ReliCAD",
+  "owner": "zp1208",
+  "url": "https://github.com/zp1208/ReliCAD",
+  "description": "Research code for ReliCAD: From Uncertain LLM Generation to Reliable Parametric CAD Modeling (arXiv:2609.22325).",
+  "homepage": "https://arxiv.org/abs/2609.22325",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "cad",
+   "fusion360",
+   "langgraph",
+   "llm",
+   "parametric-modeling",
+   "relicad",
+   "research-code",
+   "text-to-cad"
+  ],
+  "created_at": "2026-11-05T06:17:28Z",
+  "pushed_at": "2026-11-05T06:32:12Z",
+  "query": "\"parametric cad\"",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "DEMO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-05T06:38:54Z"
+ },
+ {
+  "id": "gh:nguyenban92/bio-thove-nb",
+  "source": "GitHub",
+  "name": "Nguyenban92/Bio-ThoVe-NB",
+  "owner": "Nguyenban92",
+  "url": "https://github.com/Nguyenban92/Bio-ThoVe-NB",
+  "description": "He thong Vuot Link va Nhan Key Ban Quyen 3D SketchUp - Tho Ve NB",
+  "homepage": "https://bio-thove-nb.vercel.app",
+  "stars": 0,
+  "language": "CSS",
+  "topics": [],
+  "created_at": "2026-11-05T04:13:41Z",
+  "pushed_at": "2026-11-05T04:40:44Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T06:38:54Z"
+ },
+ {
+  "id": "gh:zrald1/tantyahinn",
+  "source": "GitHub",
+  "name": "Zrald1/tantyahinn",
+  "owner": "Zrald1",
+  "url": "https://github.com/Zrald1/tantyahinn",
+  "description": "Free construction estimating, CAD drafting & 3D modeling for Windows - BOQ to Excel/PDF, plans to 3D to generated drawings. Built with Flutter.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Dart",
+  "topics": [
+   "bill-of-quantities",
+   "bim",
+   "cad",
+   "construction",
+   "dart",
+   "dxf",
+   "estimating",
+   "flutter",
+   "windows"
+  ],
+  "created_at": "2026-11-05T01:02:14Z",
+  "pushed_at": "2026-11-05T01:07:36Z",
+  "query": "bim",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "AI"
+  ],
+  "matched": [
+   "dxf"
+  ],
+  "ai_files": [
+   "AGENTS.md"
+  ],
+  "found_at": "2026-11-05T06:38:54Z"
+ },
+ {
+  "id": "gh:shukritobi/archibim",
+  "source": "GitHub",
+  "name": "shukritobi/ArchiBIM",
+  "owner": "shukritobi",
+  "url": "https://github.com/shukritobi/ArchiBIM",
+  "description": "Shukry Sharby SketchUp BIM Plugin",
+  "homepage": "",
+  "stars": 0,
+  "language": "Ruby",
+  "topics": [],
+  "created_at": "2026-11-05T00:51:03Z",
+  "pushed_at": "2026-11-05T06:06:57Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC",
+   "SKETCHUP"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T06:38:54Z"
+ },
+ {
+  "id": "gh:sobhaniot/profile-measure",
+  "source": "GitHub",
+  "name": "sobhaniot/profile-measure",
+  "owner": "sobhaniot",
+  "url": "https://github.com/sobhaniot/profile-measure",
+  "description": "Free SketchUp extension to list object dimensions, group profiles by length and width, calculate total profile length, color code groups, and export PDF reports.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Ruby",
+  "topics": [],
+  "created_at": "2026-11-04T23:44:38Z",
+  "pushed_at": "2026-11-05T00:39:56Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC",
+   "SKETCHUP"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T06:38:54Z"
+ },
+ {
+  "id": "gh:qiubite0/ai-bid-toolbox",
+  "source": "GitHub",
+  "name": "qiubite0/AI-Bid-Toolbox",
+  "owner": "qiubite0",
+  "url": "https://github.com/qiubite0/AI-Bid-Toolbox",
+  "description": "AI投标工具箱：面向工程施工、机电安装与 BIM 的本地投标工作台",
+  "homepage": "",
+  "stars": 0,
+  "language": "JavaScript",
+  "topics": [
+   "ai",
+   "bim",
+   "chinese",
+   "construction",
+   "electron",
+   "tender"
+  ],
+  "created_at": "2026-11-05T03:43:42Z",
+  "pushed_at": "2026-11-05T04:30:33Z",
+  "query": "bim",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [
+   ".claude",
+   "AGENTS.md"
+  ],
+  "found_at": "2026-11-05T06:38:54Z"
+ },
+ {
+  "id": "gh:singsabmc-del/bimv2",
+  "source": "GitHub",
+  "name": "singsabmc-del/bimv2",
+  "owner": "singsabmc-del",
+  "url": "https://github.com/singsabmc-del/bimv2",
+  "description": "bim",
+  "homepage": "https://rangsei-school-management-rgon.vercel.app",
+  "stars": 0,
+  "language": "TypeScript",
+  "topics": [],
+  "created_at": "2026-11-04T12:18:21Z",
+  "pushed_at": "2026-11-05T04:10:48Z",
+  "query": "bim",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "DEMO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-05T06:38:54Z"
+ },
+ {
+  "id": "gh:ronhooo/enclosure-cad",
+  "source": "GitHub",
+  "name": "RonHooo/enclosure-cad",
+  "owner": "RonHooo",
+  "url": "https://github.com/RonHooo/enclosure-cad",
+  "description": "Injection-molded sensor enclosure: parametric FreeCAD model (Python API) and automated DFM checks (draft, wall thickness, undercuts, CalculiX snap-fit FEA)",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "cad",
+   "calculix",
+   "dfm",
+   "freecad",
+   "injection-molding",
+   "mechanical-design",
+   "python"
+  ],
+  "created_at": "2026-11-05T06:12:45Z",
+  "pushed_at": "2026-11-05T06:12:52Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "freecad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T06:38:54Z"
+ },
+ {
+  "id": "gh:ronhooo/bracket-fea",
+  "source": "GitHub",
+  "name": "RonHooo/bracket-fea",
+  "owner": "RonHooo",
+  "url": "https://github.com/RonHooo/bracket-fea",
+  "description": "Vibration fatigue FEA of a parametric steel bracket (Python, gmsh, CalculiX) and its release as a FreeCAD model with assembly, GD&T drawings and tolerance analysis",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "cad",
+   "calculix",
+   "fatigue",
+   "finite-element-analysis",
+   "freecad",
+   "gdt",
+   "gmsh",
+   "python",
+   "random-vibration",
+   "structural-dynamics"
+  ],
+  "created_at": "2026-11-04T21:46:03Z",
+  "pushed_at": "2026-11-05T06:12:11Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "freecad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T06:38:54Z"
+ },
+ {
+  "id": "gh:harvi654/winum",
+  "source": "GitHub",
+  "name": "Harvi654/winum",
+  "owner": "Harvi654",
+  "url": "https://github.com/Harvi654/winum",
+  "description": "Fortified Wine for engineering software",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "cad",
+   "linux",
+   "prefix",
+   "wine"
+  ],
+  "created_at": "2026-11-05T02:23:19Z",
+  "pushed_at": "2026-11-05T02:59:26Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [
+   "AGENTS.md",
+   "CLAUDE.md"
+  ],
+  "found_at": "2026-11-05T06:38:54Z"
+ },
+ {
+  "id": "gh:emm3rson/printlab",
+  "source": "GitHub",
+  "name": "emm3rson/printlab",
+  "owner": "emm3rson",
+  "url": "https://github.com/emm3rson/printlab",
+  "description": "A local workspace for building and reviewing printable 3D models with a coding agent.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "3d-modeling",
+   "3d-printing",
+   "3mf",
+   "ai-assisted-design",
+   "cad",
+   "coding-agent",
+   "python",
+   "stl"
+  ],
+  "created_at": "2026-11-04T11:09:57Z",
+  "pushed_at": "2026-11-05T02:22:48Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [
+   "AGENTS.md"
+  ],
+  "found_at": "2026-11-05T06:38:54Z"
+ },
+ {
+  "id": "gh:z4ru5/select-covered-faces",
+  "source": "GitHub",
+  "name": "Z4RU5/select-covered-faces",
+  "owner": "Z4RU5",
+  "url": "https://github.com/Z4RU5/select-covered-faces",
+  "description": "Blender extension: select every face the player can never see (pressed against or buried in other parts) in one click",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "3d-modeling",
+   "blender",
+   "blender-addon",
+   "blender-extension",
+   "gamedev"
+  ],
+  "created_at": "2026-11-05T03:02:42Z",
+  "pushed_at": "2026-11-05T05:00:16Z",
+  "query": "blender extension",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "BLENDER"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-05T06:38:54Z"
+ },
+ {
+  "id": "gl:virtuallyg/cadcraft",
+  "source": "GitLab",
+  "name": "VirtuallyG/cadcraft",
+  "owner": "VirtuallyG",
+  "url": "https://gitlab.com/VirtuallyG/cadcraft",
+  "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [],
+  "created_at": "2026-11-05T00:54:07.622Z",
+  "pushed_at": "2026-11-05T00:54:07.519Z",
+  "query": "cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC",
+   "CLONE"
+  ],
+  "matched": [
+   "autocad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T06:38:54Z"
+ },
+ {
+  "id": "gh:edgecollective/ingetrazo-experiments",
+  "source": "GitHub",
+  "name": "edgecollective/ingetrazo-experiments",
+  "owner": "edgecollective",
+  "url": "https://github.com/edgecollective/ingetrazo-experiments",
+  "description": "",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [],
+  "created_at": "2026-11-05T00:09:56Z",
+  "pushed_at": "2026-11-05T03:06:16Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 3,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-05T06:38:54Z"
+ },
+ {
   "id": "gh:sandflow-ai/sand3d",
   "source": "GitHub",
   "name": "Sandflow-ai/sand3d",
@@ -3078,7 +3699,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3227,7 +3848,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "DEMO",
    "AEC",
@@ -3266,7 +3887,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "DEMO"
   ],
@@ -3291,7 +3912,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC",
    "SKETCHUP"
@@ -3326,7 +3947,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3358,7 +3979,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3394,7 +4015,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3422,7 +4043,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "RISING"
   ],
@@ -3447,7 +4068,7 @@
   "always_publish": true,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "INGETRAZO"
   ],
@@ -3873,7 +4494,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "AEC",
    "WEB",
@@ -4661,7 +5282,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
