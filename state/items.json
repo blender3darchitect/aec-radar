@@ -1,5 +1,849 @@
 [
  {
+  "id": "gh:engdennylsonsantos-cloud/hestia",
+  "source": "GitHub",
+  "name": "engdennylsonsantos-cloud/Hestia",
+  "owner": "engdennylsonsantos-cloud",
+  "url": "https://github.com/engdennylsonsantos-cloud/Hestia",
+  "description": "Hestia: browser-based BIM for residential architecture. GPU-first rendering with a UI-independent geometry core.",
+  "homepage": "https://www.hestiabim.com",
+  "stars": 27,
+  "language": "TypeScript",
+  "topics": [
+   "architecture",
+   "bim",
+   "ifc",
+   "tauri",
+   "typescript",
+   "webgpu"
+  ],
+  "created_at": "2026-10-27T17:46:50Z",
+  "pushed_at": "2026-11-05T19:44:21Z",
+  "query": "ifc",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 12,
+  "flags": [
+   "DEMO",
+   "AEC",
+   "WEB",
+   "RISING"
+  ],
+  "matched": [
+   "ifc"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
+  "id": "gh:ericshen0317-maker/skp-material-cleanup-fast",
+  "source": "GitHub",
+  "name": "ericshen0317-maker/skp-material-cleanup-fast",
+  "owner": "ericshen0317-maker",
+  "url": "https://github.com/ericshen0317-maker/skp-material-cleanup-fast",
+  "description": "Blender 5.0 add-on that consolidates SketchUp-imported meshes into one object per material name (experimental fast branch).",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "blender",
+   "blender-addon",
+   "material-cleanup",
+   "python",
+   "sketchup"
+  ],
+  "created_at": "2026-11-05T08:26:59Z",
+  "pushed_at": "2026-11-05T08:38:57Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 9,
+  "flags": [
+   "AEC",
+   "BLENDER",
+   "SKETCHUP"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
+  "id": "gh:rudalabs/teamcraft",
+  "source": "GitHub",
+  "name": "rudalabs/TeamCraft",
+  "owner": "rudalabs",
+  "url": "https://github.com/rudalabs/TeamCraft",
+  "description": "Open-source PDM/PLM in pure Rust: check-out/check-in vault, revisions and lifecycle, multi-level BOMs, change requests and change orders, 3D preview of STEP and meshes, simulation management, REST API, MCP server and a desktop client. One binary on PostgreSQL.",
+  "homepage": "https://rudalabs.github.io/TeamCraft/",
+  "stars": 1,
+  "language": "Rust",
+  "topics": [
+   "axum",
+   "bom",
+   "cad",
+   "engineering-change-management",
+   "mcp",
+   "pdm",
+   "plm",
+   "postgresql",
+   "product-data-management",
+   "product-lifecycle-management",
+   "rust",
+   "self-hosted",
+   "step",
+   "tauri"
+  ],
+  "created_at": "2026-11-03T16:13:59Z",
+  "pushed_at": "2026-11-05T19:53:24Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 9,
+  "flags": [
+   "DEMO",
+   "AEC",
+   "AI"
+  ],
+  "matched": [
+   "step"
+  ],
+  "ai_files": [
+   ".claude",
+   "CLAUDE.md"
+  ],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
+  "id": "gh:elnatan1990/maof",
+  "source": "GitHub",
+  "name": "elnatan1990/maof",
+  "owner": "elnatan1990",
+  "url": "https://github.com/elnatan1990/maof",
+  "description": "Design & algorithmic spike: real-time MEP coordination (3-D rerouting, Revit-to-cloud sync, AI safety gate)",
+  "homepage": "https://maof-mep.vercel.app",
+  "stars": 0,
+  "language": "HTML",
+  "topics": [],
+  "created_at": "2026-11-05T18:24:40Z",
+  "pushed_at": "2026-11-05T19:31:05Z",
+  "query": "revit",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "AEC",
+   "INTEROP"
+  ],
+  "matched": [
+   "revit"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
+  "id": "gh:fuelalflare88/autodesk-revit",
+  "source": "GitHub",
+  "name": "Fuelalflare88/autodesk-revit",
+  "owner": "Fuelalflare88",
+  "url": "https://github.com/Fuelalflare88/autodesk-revit",
+  "description": "Autodesk Revit 2026 pre-configured environment for streamlined desktop software utility deployment.",
+  "homepage": "",
+  "stars": 100,
+  "language": "",
+  "topics": [
+   "autodesk-3d",
+   "autodesk-revit-2023-pro",
+   "autodesk-revit-2025",
+   "autodesk-revit-mcp",
+   "autodesk-revit-pc",
+   "autodesk-revit-windows",
+   "civil-engineering-ai",
+   "clash-detection",
+   "construction-documentation",
+   "design-automation-revit",
+   "inventor",
+   "revit",
+   "revit-2025",
+   "revit-addins",
+   "revit-mcp-server",
+   "revit-mep",
+   "revit-plugin",
+   "revit-secondary-development",
+   "revit-windows",
+   "windows-cad"
+  ],
+  "created_at": "2026-11-05T17:41:37Z",
+  "pushed_at": "2026-11-05T17:41:45Z",
+  "query": "revit",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "AEC",
+   "RISING"
+  ],
+  "matched": [
+   "revit"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
+  "id": "gh:chicot-projects/engineering-ai-toolkit",
+  "source": "GitHub",
+  "name": "chicot-projects/engineering-ai-toolkit",
+  "owner": "chicot-projects",
+  "url": "https://github.com/chicot-projects/engineering-ai-toolkit",
+  "description": "Portable toolkit that prepares engineering documents, drawings and recordings for AI assistants",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "ai",
+   "anonymization",
+   "autocad",
+   "bridge-design",
+   "claude",
+   "claude-ai",
+   "claude-code",
+   "engineering",
+   "engineering-tools",
+   "markdown",
+   "ocr",
+   "portable",
+   "portable-applications",
+   "portable-tools",
+   "whisper"
+  ],
+  "created_at": "2026-11-05T12:53:15Z",
+  "pushed_at": "2026-11-05T12:57:48Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "AEC",
+   "INTEROP",
+   "AI"
+  ],
+  "matched": [
+   "autocad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
+  "id": "gh:loopledger/loopledger",
+  "source": "GitHub",
+  "name": "loopledger/loopledger",
+  "owner": "loopledger",
+  "url": "https://github.com/loopledger/loopledger",
+  "description": "Open specification for material passports and recovery evidence in the built environment.",
+  "homepage": "https://loopledger.org",
+  "stars": 0,
+  "language": "TypeScript",
+  "topics": [
+   "bim",
+   "bsdd",
+   "circular-economy",
+   "construction",
+   "digital-product-passport",
+   "epcis",
+   "ifc",
+   "json-ld",
+   "material-passport",
+   "untp"
+  ],
+  "created_at": "2026-11-04T22:58:44Z",
+  "pushed_at": "2026-11-05T18:43:41Z",
+  "query": "bim",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "ifc"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
+  "id": "gh:leonardonardiko/hybrid-local-ai-router",
+  "source": "GitHub",
+  "name": "LeonardoNardiko/hybrid-local-ai-router",
+  "owner": "LeonardoNardiko",
+  "url": "https://github.com/LeonardoNardiko/hybrid-local-ai-router",
+  "description": "CAD-safe, VRAM-aware deterministic LLM router balancing local Ollama models and cloud APIs on 3D CAD/BIM/FEA engineering workstations",
+  "homepage": "https://tecnopro.me",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "ai-agents",
+   "cad",
+   "freecad",
+   "industrial-ai",
+   "local-llm",
+   "ollama",
+   "opsec",
+   "python",
+   "solidworks",
+   "vram"
+  ],
+  "created_at": "2026-11-05T15:56:47Z",
+  "pushed_at": "2026-11-05T15:57:42Z",
+  "query": "bim",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "solidworks",
+   "freecad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
+  "id": "gh:leonardonardiko/tecnopro-civil-openbim",
+  "source": "GitHub",
+  "name": "LeonardoNardiko/tecnopro-civil-openbim",
+  "owner": "LeonardoNardiko",
+  "url": "https://github.com/LeonardoNardiko/tecnopro-civil-openbim",
+  "description": "OpenBIM & structural engineering normative suite: ABNT NBR 6122 SPT foundations, NBR 6123 wind loads & FIEBDC-3 (.bc3) cost interchange — TecnoPRO Civil",
+  "homepage": "https://civil.tecnopro.me",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "bim",
+   "civil-engineering",
+   "fiebdc",
+   "geotechnical-engineering",
+   "ifc",
+   "openbim",
+   "python",
+   "structural-engineering"
+  ],
+  "created_at": "2026-11-05T15:56:35Z",
+  "pushed_at": "2026-11-05T15:57:40Z",
+  "query": "bim",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "ifc"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
+  "id": "gh:newbimai/newbimai-cadviewer",
+  "source": "GitHub",
+  "name": "NewbimAI/NewbimAI-CADViewer",
+  "owner": "NewbimAI",
+  "url": "https://github.com/NewbimAI/NewbimAI-CADViewer",
+  "description": "本地 DWG/DXF 看图与统计工具（AGPL-3.0-only）：WebGL 直读渲染、实体/图层/图块/文字统计、匿名块溯源聚合、PNG/JSON/DXF/PDF 导出，并附带 Agent 命令行 Skill。图纸不出本机。",
+  "homepage": "",
+  "stars": 25,
+  "language": "JavaScript",
+  "topics": [
+   "agpl",
+   "cad",
+   "cad-viewer",
+   "dwg",
+   "dxf",
+   "nodejs",
+   "react",
+   "threejs",
+   "typescript",
+   "viewer",
+   "webgl"
+  ],
+  "created_at": "2026-10-20T06:33:46Z",
+  "pushed_at": "2026-10-27T03:46:44Z",
+  "query": "cad",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "AEC",
+   "WEB",
+   "RISING"
+  ],
+  "matched": [
+   "dxf",
+   "dwg"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
+  "id": "gh:vantus-ai/construction-ai-library",
+  "source": "GitHub",
+  "name": "Vantus-ai/construction-ai-library",
+  "owner": "Vantus-ai",
+  "url": "https://github.com/Vantus-ai/construction-ai-library",
+  "description": "Open library of AI prompts and Claude skills for construction and built environment workflows. Maintained by Vantus AI.",
+  "homepage": "https://vantusai.co.uk",
+  "stars": 0,
+  "language": "",
+  "topics": [
+   "aec",
+   "ai",
+   "bim",
+   "claude",
+   "claude-skills",
+   "construction",
+   "construction-technology",
+   "fidic",
+   "jct",
+   "llm",
+   "nec4",
+   "project-management",
+   "prompts",
+   "quantity-surveying"
+  ],
+  "created_at": "2026-11-05T12:59:16Z",
+  "pushed_at": "2026-11-05T13:05:18Z",
+  "query": "bim",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "DEMO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
+  "id": "gh:usman7384/scriber",
+  "source": "GitHub",
+  "name": "usman7384/scriber",
+  "owner": "usman7384",
+  "url": "https://github.com/usman7384/scriber",
+  "description": "Open-source design agent for mechanical CAD: text, specs, sketches and meshes in; parametric, editable B-rep parts out. Runs offline on local models.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "3d-modeling",
+   "ai-agent",
+   "brep",
+   "build123d",
+   "cad",
+   "code-cad",
+   "dfm",
+   "fine-tuning",
+   "generative-design",
+   "llm",
+   "local-llm",
+   "manufacturing",
+   "mechanical-engineering",
+   "ollama",
+   "opencascade",
+   "parametric-design",
+   "qwen",
+   "step",
+   "text-to-cad",
+   "threejs"
+  ],
+  "created_at": "2026-11-04T22:04:28Z",
+  "pushed_at": "2026-11-05T13:17:33Z",
+  "query": "cad threejs",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "AEC",
+   "WEB",
+   "AI"
+  ],
+  "matched": [
+   "step",
+   "brep",
+   "b-rep",
+   "opencascade"
+  ],
+  "ai_files": [
+   ".claude",
+   "AGENTS.md",
+   "CLAUDE.md"
+  ],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
+  "id": "gh:leonardonardiko/tecnopro-mechanical-benchmarks",
+  "source": "GitHub",
+  "name": "LeonardoNardiko/tecnopro-mechanical-benchmarks",
+  "owner": "LeonardoNardiko",
+  "url": "https://github.com/LeonardoNardiko/tecnopro-mechanical-benchmarks",
+  "description": "Auditable normative verification suite for mechanical engineering (VDI 2230, ISO 286-1, AGMA 2001, ANSI B29.1, AWS D1.1, CEMA 350) — TecnoPRO Open-Core",
+  "homepage": "https://tecnopro.me",
+  "stars": 0,
+  "language": "JavaScript",
+  "topics": [
+   "agma",
+   "aws-d1-1",
+   "cad",
+   "cema",
+   "engineering",
+   "iso-286",
+   "javascript",
+   "mechanical-engineering",
+   "nodejs",
+   "vdi-2230"
+  ],
+  "created_at": "2026-11-05T15:56:22Z",
+  "pushed_at": "2026-11-05T15:56:33Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "DEMO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
+  "id": "gh:orionsheep/inkwork-mechanical-drawing",
+  "source": "GitHub",
+  "name": "orionsheep/inkwork-mechanical-drawing",
+  "owner": "orionsheep",
+  "url": "https://github.com/orionsheep/inkwork-mechanical-drawing",
+  "description": "Agent skill + engine for line-art mechanical drawings: exploded assemblies, section views, first-angle three-view engineering drawings (格物 · Inkwork 机械制图技能)",
+  "homepage": "",
+  "stars": 1,
+  "language": "TypeScript",
+  "topics": [
+   "agent-skill",
+   "cad",
+   "claude-skill",
+   "engineering-drawing",
+   "exploded-view",
+   "line-art",
+   "mechanical-drawing",
+   "three-view",
+   "threejs"
+  ],
+  "created_at": "2026-11-05T10:44:22Z",
+  "pushed_at": "2026-11-05T10:46:07Z",
+  "query": "cad threejs",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "WEB",
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [
+   ".claude"
+  ],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
+  "id": "gh:aminewe898/claude-studio",
+  "source": "GitHub",
+  "name": "aminewe898/claude-studio",
+  "owner": "aminewe898",
+  "url": "https://github.com/aminewe898/claude-studio",
+  "description": "Local AI production studio on Claude Code: 5 plugins for games, web, motion and local image/video/3D generation, with a creative-director orchestrator, step caching and measured QA (RTX 5060 8 GB, free tools only).",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "ai-agents",
+   "blender",
+   "claude-code",
+   "comfyui",
+   "ffmpeg",
+   "generative-ai",
+   "godot",
+   "local-ai",
+   "motion-design",
+   "python"
+  ],
+  "created_at": "2026-11-05T07:48:39Z",
+  "pushed_at": "2026-11-05T07:49:04Z",
+  "query": "blender plugin",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "BLENDER",
+   "AI"
+  ],
+  "matched": [
+   "step"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
+  "id": "gh:soundglider/3skeng-prawn",
+  "source": "GitHub",
+  "name": "soundglider/3skeng-prawn",
+  "owner": "soundglider",
+  "url": "https://github.com/soundglider/3skeng-prawn",
+  "description": "Prawn, pdf-core and ttfunk as modified for embedding in the SHK 3skeng SketchUp extension",
+  "homepage": "",
+  "stars": 0,
+  "language": "Ruby",
+  "topics": [],
+  "created_at": "2026-11-05T15:37:20Z",
+  "pushed_at": "2026-11-05T15:37:27Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC",
+   "SKETCHUP"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
+  "id": "gh:anousaksiritham-creator/concrete-plugin",
+  "source": "GitHub",
+  "name": "anousaksiritham-creator/Concrete-plugin",
+  "owner": "anousaksiritham-creator",
+  "url": "https://github.com/anousaksiritham-creator/Concrete-plugin",
+  "description": "make sketchup Concrete structure plugin",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [],
+  "created_at": "2026-11-05T13:50:22Z",
+  "pushed_at": "2026-11-05T13:50:24Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC",
+   "SKETCHUP"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
+  "id": "gh:freeskychenjun/cad-cooperate",
+  "source": "GitHub",
+  "name": "freeskychenjun/cad-cooperate",
+  "owner": "freeskychenjun",
+  "url": "https://github.com/freeskychenjun/cad-cooperate",
+  "description": "在中望CAD / AutoCAD 已打开的图纸里实时读写：AI agent 与人协作改图的 Windows 工具（COM 晚绑定 + 常驻 daemon + 锚点校验回滚），15 条正交命令",
+  "homepage": "",
+  "stars": 0,
+  "language": "C#",
+  "topics": [
+   "agent-skill",
+   "ai-agent",
+   "autocad",
+   "cad",
+   "com-automation",
+   "powershell",
+   "windows",
+   "zwcad"
+  ],
+  "created_at": "2026-11-04T14:16:50Z",
+  "pushed_at": "2026-11-05T07:00:13Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "autocad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
+  "id": "gh:imaxelerate/ifcfirebot",
+  "source": "GitHub",
+  "name": "imaxelerate/ifcFireBot",
+  "owner": "imaxelerate",
+  "url": "https://github.com/imaxelerate/ifcFireBot",
+  "description": "C# / .NET 8 tool that answers plain-language questions about IFC building models, with data-quality diagnostics. Master's thesis 2026.",
+  "homepage": "",
+  "stars": 0,
+  "language": "C#",
+  "topics": [
+   "bim",
+   "csharp",
+   "dotnet",
+   "fire-safety",
+   "ifc",
+   "llm",
+   "xbim"
+  ],
+  "created_at": "2026-11-04T15:14:46Z",
+  "pushed_at": "2026-11-04T15:15:16Z",
+  "query": "ifc",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "ifc"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
+  "id": "gh:jantrueno/inventor-step-export",
+  "source": "GitHub",
+  "name": "JanTrueno/Inventor-STEP-Export",
+  "owner": "JanTrueno",
+  "url": "https://github.com/JanTrueno/Inventor-STEP-Export",
+  "description": "Autodesk Inventor add-in: export assemblies and parts to STEP, named and foldered by iProperties (order number) and date, from an assembly or drawing",
+  "homepage": "",
+  "stars": 0,
+  "language": "C#",
+  "topics": [
+   "autodesk-inventor",
+   "cad",
+   "inventor-addin",
+   "step"
+  ],
+  "created_at": "2026-11-05T13:33:47Z",
+  "pushed_at": "2026-11-05T13:38:46Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "step"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
+  "id": "gh:mdefontenay/meshviewer",
+  "source": "GitHub",
+  "name": "mdefontenay/MeshViewer",
+  "owner": "mdefontenay",
+  "url": "https://github.com/mdefontenay/MeshViewer",
+  "description": "macOS viewer for CAD (STEP, IGES, STL…) and CFD meshes (CGNS, UGRID)",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "3d-models",
+   "application",
+   "cad",
+   "cfd",
+   "cgns",
+   "fea",
+   "macos",
+   "mesh",
+   "pyvista",
+   "step-file",
+   "stl",
+   "ugrid"
+  ],
+  "created_at": "2026-11-05T06:50:09Z",
+  "pushed_at": "2026-11-05T07:25:01Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "step"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
+  "id": "gh:dadcolin/image-to-blender",
+  "source": "GitHub",
+  "name": "dadcolin/image-to-blender",
+  "owner": "dadcolin",
+  "url": "https://github.com/dadcolin/image-to-blender",
+  "description": "IDOL-assisted white-background product images to editable Blender meshes, with an offline import and dimension add-on",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "blender-addon",
+   "furniture",
+   "gaussian-splatting",
+   "idol",
+   "image-to-3d"
+  ],
+  "created_at": "2026-11-05T11:54:47Z",
+  "pushed_at": "2026-11-05T17:32:45Z",
+  "query": "blender add-on",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "BLENDER"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-05T19:53:52Z"
+ },
+ {
   "id": "gh:ezpzfile/ezpzfile-cad",
   "source": "GitHub",
   "name": "ezpzfile/ezpzfile-cad",
@@ -1344,7 +2188,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 9,
+  "score": 8,
   "flags": [
    "AEC",
    "AI",
@@ -2229,7 +3073,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "DEMO",
    "AEC"
@@ -2419,7 +3263,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "CLONE",
    "BLENDER"
@@ -2487,7 +3331,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AI"
   ],
@@ -2653,7 +3497,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "DEMO",
    "AEC",
@@ -2702,7 +3546,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "AEC",
    "INTEROP",
@@ -2738,7 +3582,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "DEMO",
    "AEC"
@@ -2773,7 +3617,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "DEMO",
    "AEC"
@@ -2808,7 +3652,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "DEMO",
    "WEB"
@@ -2842,7 +3686,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "DEMO",
    "AEC"
@@ -2877,7 +3721,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "DEMO",
    "AEC"
@@ -2910,7 +3754,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "DEMO"
   ],
@@ -2947,7 +3791,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "DEMO"
   ],
@@ -2993,7 +3837,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "AEC",
    "SKETCHUP"
@@ -3042,7 +3886,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "AEC",
    "SKETCHUP"
@@ -3077,7 +3921,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "AI"
@@ -3111,7 +3955,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "AI"
@@ -3148,7 +3992,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "WEB"
@@ -3186,7 +4030,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "AI"
@@ -3214,7 +4058,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "DEMO",
    "WEB"
@@ -3248,7 +4092,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "WEB"
@@ -3277,7 +4121,7 @@
   "always_publish": true,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "INGETRAZO"
   ],
@@ -3302,7 +4146,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC",
    "SKETCHUP"
@@ -3350,7 +4194,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3385,7 +4229,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3421,7 +4265,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [],
   "matched": [],
   "ai_files": [],
@@ -3450,7 +4294,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3492,7 +4336,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3527,7 +4371,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3567,7 +4411,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3601,7 +4445,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3634,7 +4478,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3667,7 +4511,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3727,7 +4571,7 @@
   "always_publish": true,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "INGETRAZO"
   ],
@@ -3773,7 +4617,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3821,7 +4665,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
