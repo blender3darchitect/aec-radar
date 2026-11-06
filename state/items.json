@@ -1,5 +1,446 @@
 [
  {
+  "id": "gh:vicc3d/dispersa-ingetrazo",
+  "source": "GitHub",
+  "name": "vicc3d/dispersa-ingetrazo",
+  "owner": "vicc3d",
+  "url": "https://github.com/vicc3d/dispersa-ingetrazo",
+  "description": "Scatter trees, plants, stones or people over faces, a group or the terrain in IngeTrazo, with random size and turn. Copies share their geometry.",
+  "homepage": "https://ingetrazo.com/extensiones",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "architecture",
+   "ingetrazo",
+   "ingetrazo-extension",
+   "landscape",
+   "python",
+   "scatter",
+   "vegetation"
+  ],
+  "created_at": "2026-11-06T05:39:36Z",
+  "pushed_at": "2026-11-06T05:40:04Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 9,
+  "flags": [
+   "DEMO",
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-06T06:34:54Z"
+ },
+ {
+  "id": "gh:andidewanto/solid-panel",
+  "source": "GitHub",
+  "name": "andidewanto/solid-panel",
+  "owner": "andidewanto",
+  "url": "https://github.com/andidewanto/solid-panel",
+  "description": "Solid Panel – free SketchUp extension: turn a flat shape or lines into a solid panel. Download, tutorial and support.",
+  "homepage": "https://andidewanto.github.io/solid-panel/",
+  "stars": 0,
+  "language": "HTML",
+  "topics": [],
+  "created_at": "2026-11-06T01:51:55Z",
+  "pushed_at": "2026-11-06T01:52:03Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "AEC",
+   "SKETCHUP"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-06T06:34:54Z"
+ },
+ {
+  "id": "gh:revidapi-com/ddc_skills_for_ai_agents_in_construction",
+  "source": "GitHub",
+  "name": "Revidapi-com/DDC_Skills_for_AI_Agents_in_Construction",
+  "owner": "Revidapi-com",
+  "url": "https://github.com/Revidapi-com/DDC_Skills_for_AI_Agents_in_Construction",
+  "description": "Fork of DDC construction skills for AI agents, set up for RevidAPI (Claude Code, Codex, Hermes)",
+  "homepage": "https://revidapi.com",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "ai-agents",
+   "bim",
+   "claude-code",
+   "codex",
+   "construction",
+   "revidapi",
+   "skills"
+  ],
+  "created_at": "2026-11-06T03:31:39Z",
+  "pushed_at": "2026-11-06T03:43:26Z",
+  "query": "bim",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-06T06:34:54Z"
+ },
+ {
+  "id": "gh:manusoft-gh/lspload",
+  "source": "GitHub",
+  "name": "manusoft-gh/lspload",
+  "owner": "manusoft-gh",
+  "url": "https://github.com/manusoft-gh/lspload",
+  "description": "Public-domain demand-load stub for AutoCAD, BricsCAD, and ZWCAD LISP plugins",
+  "homepage": "http://www.manusoft.com/software/freebies/arx.html",
+  "stars": 0,
+  "language": "PowerShell",
+  "topics": [],
+  "created_at": "2026-11-06T00:51:30Z",
+  "pushed_at": "2026-11-06T00:51:36Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "DEMO",
+   "AEC",
+   "AI"
+  ],
+  "matched": [
+   "autocad",
+   "bricscad"
+  ],
+  "ai_files": [
+   "AGENTS.md"
+  ],
+  "found_at": "2026-11-06T06:34:54Z"
+ },
+ {
+  "id": "gh:mlightcad/awesome-cad-agent",
+  "source": "GitHub",
+  "name": "mlightcad/awesome-cad-agent",
+  "owner": "mlightcad",
+  "url": "https://github.com/mlightcad/awesome-cad-agent",
+  "description": "A curated list of open-source CAD MCP servers, AI agents, agent skills, and harness plugins.",
+  "homepage": "",
+  "stars": 1,
+  "language": "",
+  "topics": [
+   "3d-modeling",
+   "agent-skills",
+   "ai-agents",
+   "awesome-list",
+   "cad",
+   "computer-aided-design",
+   "dwg",
+   "dxf",
+   "generative-design",
+   "llm",
+   "mcp",
+   "mcp-server",
+   "model-context-protocol",
+   "text-to-cad"
+  ],
+  "created_at": "2026-11-06T01:49:24Z",
+  "pushed_at": "2026-11-06T03:36:59Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "AEC",
+   "CLONE"
+  ],
+  "matched": [
+   "dxf",
+   "dwg"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-06T06:34:54Z"
+ },
+ {
+  "id": "gh:arcnm/langchain-arcnm",
+  "source": "GitHub",
+  "name": "arcnm/langchain-arcnm",
+  "owner": "arcnm",
+  "url": "https://github.com/arcnm/langchain-arcnm",
+  "description": "LangChain tools for ARCNM: manufacturing should-cost for machined and sheet-metal parts, from a CAD file.",
+  "homepage": "https://arcnm.io",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "cad",
+   "langchain",
+   "langchain-tools",
+   "manufacturing",
+   "python",
+   "should-cost"
+  ],
+  "created_at": "2026-11-05T21:06:18Z",
+  "pushed_at": "2026-11-05T23:27:05Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "DEMO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-06T06:34:54Z"
+ },
+ {
+  "id": "gh:rain-dust/daihua-cad",
+  "source": "GitHub",
+  "name": "Rain-dust/daihua-cad",
+  "owner": "Rain-dust",
+  "url": "https://github.com/Rain-dust/daihua-cad",
+  "description": "代画匠 Daihua CAD — 面向客户接单代画的 Agent 工具包：CAD skills + 本机 MCP，从客户需求到可编辑 DWG/PDF 交付。MIT.",
+  "homepage": "",
+  "stars": 1,
+  "language": "Python",
+  "topics": [
+   "agent-skills",
+   "autocad",
+   "automation",
+   "cad",
+   "claude-code",
+   "codex",
+   "cursor",
+   "mcp",
+   "python",
+   "windows"
+  ],
+  "created_at": "2026-11-06T04:06:41Z",
+  "pushed_at": "2026-11-06T04:53:37Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "AI"
+  ],
+  "matched": [
+   "autocad",
+   "dwg"
+  ],
+  "ai_files": [
+   "AGENTS.md"
+  ],
+  "found_at": "2026-11-06T06:34:54Z"
+ },
+ {
+  "id": "gh:redacted-member/zeroed",
+  "source": "GitHub",
+  "name": "redacted-member/zeroed",
+  "owner": "redacted-member",
+  "url": "https://github.com/redacted-member/zeroed",
+  "description": "From idea to cut. Free, open source CAD/CAM for CNC routers on macOS: design, 3D modeling, toolpaths, simulation, assembly and 30 post processors.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Rust",
+  "topics": [
+   "cad",
+   "cam",
+   "cnc",
+   "grbl",
+   "linuxcnc",
+   "macos",
+   "rust",
+   "tauri",
+   "woodworking"
+  ],
+  "created_at": "2026-11-05T20:26:12Z",
+  "pushed_at": "2026-11-06T02:56:32Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "CLONE"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-06T06:34:54Z"
+ },
+ {
+  "id": "gh:serjk12/ifc-bim-knowledge-base",
+  "source": "GitHub",
+  "name": "serjk12/ifc-bim-knowledge-base",
+  "owner": "serjk12",
+  "url": "https://github.com/serjk12/ifc-bim-knowledge-base",
+  "description": "База знаний по IFC / openBIM / Revit: стандарты, регламенты, open source и реальные вопросы людей со всего мира — для генерации реалистичных тестовых запросов к MCP. IFC/BIM knowledge base of real-world user questions for MCP testing.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "bim",
+   "buildingsmart",
+   "ifc",
+   "ifcopenshell",
+   "knowledge-base",
+   "llm",
+   "mcp",
+   "openbim",
+   "revit"
+  ],
+  "created_at": "2026-11-06T01:17:15Z",
+  "pushed_at": "2026-11-06T04:06:05Z",
+  "query": "revit",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "revit",
+   "ifc",
+   "ifcopenshell"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-06T06:34:54Z"
+ },
+ {
+  "id": "gh:obaid3500/ah-revora-dev",
+  "source": "GitHub",
+  "name": "obaid3500/AH-Revora-Dev",
+  "owner": "obaid3500",
+  "url": "https://github.com/obaid3500/AH-Revora-Dev",
+  "description": "Development version of AH-Revora BIM application",
+  "homepage": "https://ah-revora-dev-iota.vercel.app",
+  "stars": 0,
+  "language": "HTML",
+  "topics": [],
+  "created_at": "2026-11-03T23:16:14Z",
+  "pushed_at": "2026-11-06T03:31:59Z",
+  "query": "bim",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "DEMO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-06T06:34:54Z"
+ },
+ {
+  "id": "gh:hunterunk/catia-cad-desktop-setup",
+  "source": "GitHub",
+  "name": "HunterUNK/catia-cad-desktop-setup",
+  "owner": "HunterUNK",
+  "url": "https://github.com/HunterUNK/catia-cad-desktop-setup",
+  "description": "Catia-Cad: Complete Standalone CAD 2026 Setup with Fully Enabled Features",
+  "homepage": "",
+  "stars": 285,
+  "language": "TypeScript",
+  "topics": [
+   "automation",
+   "cad-drawings",
+   "catia",
+   "catia-v5",
+   "catiav5",
+   "desktop",
+   "developer-tools",
+   "open-source",
+   "pycatia",
+   "python",
+   "scripts",
+   "software-engineering",
+   "system",
+   "utility",
+   "windows-app"
+  ],
+  "created_at": "2026-11-04T22:10:34Z",
+  "pushed_at": "2026-11-06T00:43:59Z",
+  "query": "cad",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "RISING"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-06T06:34:54Z"
+ },
+ {
+  "id": "gh:donggua-zen/guada-blender",
+  "source": "GitHub",
+  "name": "donggua-zen/guada-blender",
+  "owner": "donggua-zen",
+  "url": "https://github.com/donggua-zen/guada-blender",
+  "description": "GuaDa third-party plugin: Blender 3D modeling, preview, render and export tools",
+  "homepage": "",
+  "stars": 0,
+  "language": "JavaScript",
+  "topics": [],
+  "created_at": "2026-11-06T05:21:23Z",
+  "pushed_at": "2026-11-06T06:07:33Z",
+  "query": "blender plugin",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "BLENDER"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-06T06:34:54Z"
+ },
+ {
+  "id": "gh:wudidekongjv/infinite-canvas-sketchup-director-plugin",
+  "source": "GitHub",
+  "name": "wudidekongjv/infinite-canvas-sketchup-director-plugin",
+  "owner": "wudidekongjv",
+  "url": "https://github.com/wudidekongjv/infinite-canvas-sketchup-director-plugin",
+  "description": "",
+  "homepage": "",
+  "stars": 0,
+  "language": "Ruby",
+  "topics": [],
+  "created_at": "2026-11-06T04:46:54Z",
+  "pushed_at": "2026-11-06T06:12:19Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 3,
+  "flags": [
+   "AEC",
+   "SKETCHUP"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-06T06:34:54Z"
+ },
+ {
   "id": "gh:engdennylsonsantos-cloud/hestia",
   "source": "GitHub",
   "name": "engdennylsonsantos-cloud/Hestia",
@@ -2891,7 +3332,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 10,
+  "score": 9,
   "flags": [
    "DEMO",
    "AEC",
@@ -2938,7 +3379,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 9,
+  "score": 8,
   "flags": [
    "DEMO",
    "AEC",
@@ -2980,7 +3421,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "DEMO",
    "AEC"
@@ -3015,7 +3456,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "DEMO",
    "WEB"
@@ -3048,7 +3489,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "DEMO"
   ],
@@ -3102,7 +3543,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AI",
    "RISING"
@@ -3136,7 +3577,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "AI"
@@ -3174,7 +3615,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "AI"
@@ -3298,7 +3739,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3358,7 +3799,7 @@
   "always_publish": true,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "INGETRAZO"
   ],
@@ -3392,7 +3833,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "BLENDER"
   ],
@@ -3417,7 +3858,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC",
    "SKETCHUP"
