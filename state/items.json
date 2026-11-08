@@ -1,5 +1,242 @@
 [
  {
+  "id": "gh:ketchup3d/app",
+  "source": "GitHub",
+  "name": "Ketchup3D/app",
+  "owner": "Ketchup3D",
+  "url": "https://github.com/Ketchup3D/app",
+  "description": "Free, open-source 3D modeling software and SketchUp alternative. Built with Rust, WebAssembly and WebGPU. Runs in your browser or on desktop. 100% vibe-coded with great emphase on rendering speed on UI/UX.",
+  "homepage": "https://ketchup3d.github.io/app/",
+  "stars": 27,
+  "language": "Rust",
+  "topics": [
+   "3d-modeling",
+   "cad",
+   "furniture-design",
+   "open-source",
+   "rust",
+   "sketchup",
+   "sketchup-alternative",
+   "woodwork",
+   "woodworking",
+   "woodworking-cad",
+   "woodworking-software",
+   "woodworking-tools"
+  ],
+  "created_at": "2026-10-23T11:19:09Z",
+  "pushed_at": "2026-11-07T13:09:35Z",
+  "query": "sketchup",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 15,
+  "flags": [
+   "DEMO",
+   "AEC",
+   "CLONE",
+   "WEB",
+   "AI",
+   "RISING"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [
+   "AGENTS.md"
+  ],
+  "found_at": "2026-11-08T05:56:06Z"
+ },
+ {
+  "id": "gh:moldkey/dsh-plugin-cadpop",
+  "source": "GitHub",
+  "name": "moldkey/dsh-plugin-cadpop",
+  "owner": "moldkey",
+  "url": "https://github.com/moldkey/dsh-plugin-cadpop",
+  "description": "DSH plugin for cadpop.com: parametric templates, help center, DFM entry, editor, drawing tools. Read-only, network-only.",
+  "homepage": "https://www.npmjs.com/package/@liangjiehappy/dsh-plugin-cadpop",
+  "stars": 0,
+  "language": "JavaScript",
+  "topics": [
+   "cad",
+   "cadpop",
+   "deepseek-harness",
+   "dfm",
+   "dsh",
+   "dsh-plugin",
+   "dshio",
+   "dxf"
+  ],
+  "created_at": "2026-11-08T01:37:24Z",
+  "pushed_at": "2026-11-08T04:42:48Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "dxf"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-08T05:56:06Z"
+ },
+ {
+  "id": "gh:krmaravilla6/sketchupbambanin",
+  "source": "GitHub",
+  "name": "KRMaravilla6/sketchupBambanin",
+  "owner": "KRMaravilla6",
+  "url": "https://github.com/KRMaravilla6/sketchupBambanin",
+  "description": "3D model sketchup ruby code",
+  "homepage": "",
+  "stars": 0,
+  "language": "Ruby",
+  "topics": [],
+  "created_at": "2026-11-07T17:09:06Z",
+  "pushed_at": "2026-11-08T04:57:41Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC",
+   "SKETCHUP"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-08T05:56:06Z"
+ },
+ {
+  "id": "gh:tscircuit/machine-press-kit",
+  "source": "GitHub",
+  "name": "tscircuit/machine-press-kit",
+  "owner": "tscircuit",
+  "url": "https://github.com/tscircuit/machine-press-kit",
+  "description": "Printable NEMA17 shaft-removal prototypes with parametric CAD, STL downloads, and an interactive 3D viewer",
+  "homepage": "https://nema17-press-tool-studio.seveibar.chatgpt.site",
+  "stars": 0,
+  "language": "OpenSCAD",
+  "topics": [],
+  "created_at": "2026-11-07T22:43:45Z",
+  "pushed_at": "2026-11-07T22:47:24Z",
+  "query": "\"parametric cad\"",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "DEMO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-08T05:56:06Z"
+ },
+ {
+  "id": "gh:xheir/mechanical-engineering-sim",
+  "source": "GitHub",
+  "name": "Xheir/mechanical-engineering-sim",
+  "owner": "Xheir",
+  "url": "https://github.com/Xheir/mechanical-engineering-sim",
+  "description": "Reproducible examples for FEA, planar kinematics, and sheet-metal flat patterns",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "cad",
+   "dxf",
+   "engineering-automation",
+   "fea",
+   "finite-element-analysis",
+   "gmsh",
+   "kinematics",
+   "mechanical-engineering",
+   "python",
+   "scikit-fem"
+  ],
+  "created_at": "2026-11-07T17:22:08Z",
+  "pushed_at": "2026-11-08T05:49:07Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "dxf"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-08T05:56:06Z"
+ },
+ {
+  "id": "gh:prajwaldhannur4-code/3d-design-onshape-guide",
+  "source": "GitHub",
+  "name": "prajwaldhannur4-code/3d-design-onshape-guide",
+  "owner": "prajwaldhannur4-code",
+  "url": "https://github.com/prajwaldhannur4-code/3d-design-onshape-guide",
+  "description": "Resource article: Learn 3D Design for 3D Printing with Onshape — MARVEL D&P Level 0, Task 1",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [
+   "3d-design",
+   "3d-printing",
+   "cad",
+   "markdown",
+   "marvel",
+   "onshape",
+   "stl",
+   "tutorial"
+  ],
+  "created_at": "2026-11-08T02:39:08Z",
+  "pushed_at": "2026-11-08T02:40:25Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "onshape"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-08T05:56:06Z"
+ },
+ {
+  "id": "gh:em-rezende/ingetrazo-igz-calculator",
+  "source": "GitHub",
+  "name": "em-rezende/Ingetrazo-igz-calculator",
+  "owner": "em-rezende",
+  "url": "https://github.com/em-rezende/Ingetrazo-igz-calculator",
+  "description": "",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-11-08T00:47:16Z",
+  "pushed_at": "2026-11-08T03:11:49Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 3,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-08T05:56:06Z"
+ },
+ {
   "id": "gh:francisreboucas/constructcraft",
   "source": "GitHub",
   "name": "francisreboucas/constructcraft",
@@ -811,7 +1048,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 11,
+  "score": 10,
   "flags": [
    "DEMO",
    "AEC",
@@ -2331,7 +2568,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "DEMO"
   ],
@@ -3110,7 +3347,7 @@
   "always_publish": true,
   "eco_min": null,
   "relevant": true,
-  "score": 9,
+  "score": 8,
   "flags": [
    "DEMO",
    "INGETRAZO"
@@ -3136,7 +3373,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "DEMO",
    "AEC",
@@ -3173,7 +3410,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "DEMO",
    "AI"
@@ -3199,7 +3436,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "DEMO",
    "AEC",
@@ -3246,7 +3483,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "AEC",
    "CLONE"
@@ -3282,7 +3519,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "DEMO"
   ],
@@ -3318,7 +3555,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "AI"
@@ -3359,7 +3596,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "CLONE"
   ],
@@ -3394,7 +3631,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3423,7 +3660,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "DEMO"
   ],
@@ -3465,7 +3702,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "RISING"
   ],
@@ -13235,236 +13472,6 @@
    "revit",
    "ifc"
   ],
-  "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:graphoflife/openriss",
-  "source": "GitHub",
-  "name": "graphoflife/openriss",
-  "owner": "graphoflife",
-  "url": "https://github.com/graphoflife/openriss",
-  "description": "OpenRiss – freies BIM-Zeichenprogramm im Browser mit Revit-ähnlicher Bedienung (Wände, Türen, Decken, Dächer, Treppen, Bewehrung, Pläne, IFC)",
-  "homepage": "https://graphoflife.github.io/openriss/",
-  "stars": 0,
-  "language": "TypeScript",
-  "topics": [],
-  "created_at": "2026-10-30T13:59:02Z",
-  "pushed_at": "2026-11-01T07:16:47Z",
-  "query": "revit",
-  "relevant": true,
-  "score": 6,
-  "flags": [
-   "DEMO",
-   "AEC",
-   "WEB"
-  ],
-  "matched": [
-   "revit",
-   "ifc"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:congestedai/forma",
-  "source": "GitHub",
-  "name": "congestedai/Forma",
-  "owner": "congestedai",
-  "url": "https://github.com/congestedai/Forma",
-  "description": "Alien Forma: local parametric CAD with painting, textures and MCP integration. Official downloads and documentation; application source is private.",
-  "homepage": "https://congestedai.github.io/Forma/",
-  "stars": 1,
-  "language": "JavaScript",
-  "topics": [
-   "3d-modeling",
-   "3mf",
-   "alien-forma",
-   "cad",
-   "mcp",
-   "parametric-cad"
-  ],
-  "created_at": "2026-11-01T15:32:34Z",
-  "pushed_at": "2026-11-02T05:32:55Z",
-  "query": "\"parametric cad\"",
-  "relevant": true,
-  "score": 6,
-  "flags": [
-   "DEMO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:baratilab/mechanical-engineering-skills",
-  "source": "GitHub",
-  "name": "BaratiLab/mechanical-engineering-skills",
-  "owner": "BaratiLab",
-  "url": "https://github.com/BaratiLab/mechanical-engineering-skills",
-  "description": "32 agent skills for mechanical engineering design, analysis and manufacturing (19 from Barati Farimani Lab papers). Install: npx skills add BaratiLab/mechanical-engineering-skills",
-  "homepage": "https://baratilab.github.io/mechanical-engineering-skills/",
-  "stars": 0,
-  "language": "Python",
-  "topics": [
-   "additive-manufacturing",
-   "agent-skills",
-   "cad",
-   "claude",
-   "engineering-design",
-   "mechanical-engineering"
-  ],
-  "created_at": "2026-10-31T16:24:05Z",
-  "pushed_at": "2026-11-02T22:51:11Z",
-  "query": "topic:cad",
-  "relevant": true,
-  "score": 6,
-  "flags": [
-   "DEMO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:kai9987kai/counterform",
-  "source": "GitHub",
-  "name": "kai9987kai/COUNTERFORM",
-  "owner": "kai9987kai",
-  "url": "https://github.com/kai9987kai/COUNTERFORM",
-  "description": "COUNTERFORM observes an unknown synthetic oscillator, fits competing physical laws, selects experiments, searches for a tuned mass absorber, and challenges the design under held-out conditions. Every study produces an inspectable receipt, an integrity manifest, a standalone report and conceptual CAD exports.",
-  "homepage": "https://www.kai9987kai.co.uk/",
-  "stars": 0,
-  "language": "HTML",
-  "topics": [
-   "cad",
-   "experiment",
-   "mass",
-   "observer",
-   "oscillator",
-   "physical-laws"
-  ],
-  "created_at": "2026-11-02T20:44:06Z",
-  "pushed_at": "2026-11-02T21:22:12Z",
-  "query": "topic:cad",
-  "relevant": true,
-  "score": 6,
-  "flags": [
-   "DEMO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:omnidotdev/facet-api",
-  "source": "GitHub",
-  "name": "omnidotdev/facet-api",
-  "owner": "omnidotdev",
-  "url": "https://github.com/omnidotdev/facet-api",
-  "description": "🔶 Write code, get geometry (Facet API)",
-  "homepage": "https://facet.omni.dev",
-  "stars": 0,
-  "language": "TypeScript",
-  "topics": [
-   "ai",
-   "apache-2",
-   "cad",
-   "community",
-   "foss",
-   "open-source",
-   "parametric"
-  ],
-  "created_at": "2026-10-31T18:46:39Z",
-  "pushed_at": "2026-11-02T20:27:47Z",
-  "query": "topic:cad",
-  "relevant": true,
-  "score": 6,
-  "flags": [
-   "DEMO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:arris-labs/laman",
-  "source": "GitHub",
-  "name": "arris-labs/laman",
-  "owner": "arris-labs",
-  "url": "https://github.com/arris-labs/laman",
-  "description": "A deterministic 2D geometric constraint solver in pure Rust, for Rust and Python: exact degrees of freedom, conflict diagnostics, same bits on every platform.",
-  "homepage": "https://docs.rs/laman",
-  "stars": 0,
-  "language": "Rust",
-  "topics": [
-   "cad",
-   "code-cad",
-   "constraint-solver",
-   "geometric-constraint-solver",
-   "geometry",
-   "laman",
-   "python",
-   "rigidity",
-   "rust",
-   "sketch"
-  ],
-  "created_at": "2026-11-01T09:30:25Z",
-  "pushed_at": "2026-11-02T19:52:11Z",
-  "query": "topic:cad",
-  "relevant": true,
-  "score": 6,
-  "flags": [
-   "DEMO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:zts8989898937-coder/stillfloating-blog",
-  "source": "GitHub",
-  "name": "zts8989898937-coder/stillfloating-blog",
-  "owner": "zts8989898937-coder",
-  "url": "https://github.com/zts8989898937-coder/stillfloating-blog",
-  "description": "Vibe Coding 项目：stillfloating.top 的 3D 星球开屏入口与 WordPress 定制插件（公开存档）",
-  "homepage": "https://stillfloating.top",
-  "stars": 0,
-  "language": "JavaScript",
-  "topics": [
-   "ai-generated",
-   "php",
-   "threejs",
-   "vibe-coding",
-   "vibecoding",
-   "vite",
-   "wordpress-plugin"
-  ],
-  "created_at": "2026-10-31T04:02:40Z",
-  "pushed_at": "2026-10-31T04:03:00Z",
-  "query": "\"vibe coded\" 3d",
-  "relevant": true,
-  "score": 7,
-  "flags": [
-   "DEMO",
-   "WEB",
-   "AI"
-  ],
-  "matched": [],
   "ai_files": [],
   "found_at": "2026-11-02T23:12:33Z",
   "always_publish": false,
