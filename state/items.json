@@ -1,5 +1,534 @@
 [
  {
+  "id": "gh:filestar/filestar-agent",
+  "source": "GitHub",
+  "name": "filestar/filestar-agent",
+  "owner": "filestar",
+  "url": "https://github.com/filestar/filestar-agent",
+  "description": "Filestar for AI agents: open and convert 1,600+ file types locally. MCP server, skill and plugins for Claude Code, Cursor, Codex, Gemini CLI and more.",
+  "homepage": "https://filestar.com/agents",
+  "stars": 0,
+  "language": "JavaScript",
+  "topics": [
+   "agent-skills",
+   "cad",
+   "claude-code",
+   "claude-code-plugin",
+   "codex",
+   "cursor",
+   "embroidery",
+   "file-conversion",
+   "file-converter",
+   "gemini-cli-extension",
+   "mcp",
+   "mcp-server",
+   "model-context-protocol"
+  ],
+  "created_at": "2026-11-07T12:04:27Z",
+  "pushed_at": "2026-11-07T12:27:24Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 10,
+  "flags": [
+   "DEMO",
+   "INTEROP",
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [
+   "GEMINI.md"
+  ],
+  "found_at": "2026-11-08T13:17:44Z"
+ },
+ {
+  "id": "gh:ultimateamattock/sketchup-pro",
+  "source": "GitHub",
+  "name": "Ultimateamattock/sketchup-pro",
+  "owner": "Ultimateamattock",
+  "url": "https://github.com/Ultimateamattock/sketchup-pro",
+  "description": "Sketchup Pro 2026 automated deployment pipeline ready for immediate enterprise desktop workstation setup.",
+  "homepage": "",
+  "stars": 299,
+  "language": "",
+  "topics": [
+   "3d-modeling-software",
+   "architectural-visualization",
+   "blender-3d-download",
+   "design-pipeline",
+   "guide-setup-sketchup",
+   "how-to-install-sketchup",
+   "how-to-setup-sketchup",
+   "measurement-tools",
+   "open-source",
+   "premium-software",
+   "python",
+   "render-ready",
+   "sketch-pro-download",
+   "sketch-up",
+   "sketch-up-free",
+   "sketch-up-pro",
+   "sketchup",
+   "sketchup-tool",
+   "sketchup-up-pro",
+   "v-ray"
+  ],
+  "created_at": "2026-11-08T08:40:47Z",
+  "pushed_at": "2026-11-08T08:40:52Z",
+  "query": "sketchup",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "AEC",
+   "RISING"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-08T13:17:44Z"
+ },
+ {
+  "id": "gh:planetcraneinterface/autodesk-revit",
+  "source": "GitHub",
+  "name": "PlanetCraneInterface/autodesk-revit",
+  "owner": "PlanetCraneInterface",
+  "url": "https://github.com/PlanetCraneInterface/autodesk-revit",
+  "description": "Autodesk Revit 2026 automated deployment pipeline pre-configured environment ready for immediate workstation setup.",
+  "homepage": "",
+  "stars": 299,
+  "language": "",
+  "topics": [
+   "autodesk-3d",
+   "autodesk-revit-2023-pro",
+   "autodesk-revit-2025",
+   "autodesk-revit-mcp",
+   "autodesk-revit-pc",
+   "autodesk-revit-windows",
+   "civil-engineering-ai",
+   "clash-detection",
+   "construction-documentation",
+   "design-automation-revit",
+   "inventor",
+   "revit",
+   "revit-2025",
+   "revit-addins",
+   "revit-mcp-server",
+   "revit-mep",
+   "revit-plugin",
+   "revit-secondary-development",
+   "revit-windows",
+   "windows-cad"
+  ],
+  "created_at": "2026-11-08T08:37:24Z",
+  "pushed_at": "2026-11-08T08:37:30Z",
+  "query": "revit",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "AEC",
+   "RISING"
+  ],
+  "matched": [
+   "revit"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-08T13:17:44Z"
+ },
+ {
+  "id": "gh:wuuwuu26/opencode-blender-bridge",
+  "source": "GitHub",
+  "name": "wuuwuu26/opencode-blender-bridge",
+  "owner": "wuuwuu26",
+  "url": "https://github.com/wuuwuu26/opencode-blender-bridge",
+  "description": "OpenCode plugin that drives a live Blender session: viewport frames, Python kernel, headless workers, jobs, snapshots, render/export (15 tools, 56 add-on commands).",
+  "homepage": "",
+  "stars": 0,
+  "language": "TypeScript",
+  "topics": [
+   "3d-modeling",
+   "ai-agent",
+   "blender",
+   "bpy",
+   "cycles",
+   "opencode",
+   "opencode-plugin"
+  ],
+  "created_at": "2026-11-08T08:23:28Z",
+  "pushed_at": "2026-11-08T09:11:16Z",
+  "query": "blender add-on",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "INTEROP",
+   "BLENDER"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-08T13:17:44Z"
+ },
+ {
+  "id": "gh:diegofranciscog/estrella",
+  "source": "GitHub",
+  "name": "DiegoFranciscoG/estrella",
+  "owner": "DiegoFranciscoG",
+  "url": "https://github.com/DiegoFranciscoG/estrella",
+  "description": "Plataforma web legal y gratuita con 12 programas de dibujo, CAD, BIM, 3D y análisis solar para estudiantes de arquitectura y diseño",
+  "homepage": "",
+  "stars": 0,
+  "language": "TypeScript",
+  "topics": [
+   "accesibilidad",
+   "arquitectura",
+   "bim",
+   "cad",
+   "diseno",
+   "ecuador",
+   "ifc",
+   "pwa",
+   "spring-boot",
+   "threejs",
+   "typescript",
+   "webassembly"
+  ],
+  "created_at": "2026-11-08T06:51:09Z",
+  "pushed_at": "2026-11-08T07:43:28Z",
+  "query": "bim",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "WEB"
+  ],
+  "matched": [
+   "ifc"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-08T13:17:44Z"
+ },
+ {
+  "id": "gh:yuhangheng/ai-3d-modeling-failure-case-study",
+  "source": "GitHub",
+  "name": "yuhangheng/ai-3d-modeling-failure-case-study",
+  "owner": "yuhangheng",
+  "url": "https://github.com/yuhangheng/ai-3d-modeling-failure-case-study",
+  "description": "A documented failed AI-agent 3D modeling project: CAD to Blender to glTF, Three.js, visual QA, and lessons learned",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [
+   "3d-modeling",
+   "ai-agents",
+   "blender",
+   "failure-analysis",
+   "postmortem",
+   "threejs",
+   "vibe-coding"
+  ],
+  "created_at": "2026-11-08T10:39:02Z",
+  "pushed_at": "2026-11-08T10:41:35Z",
+  "query": "cad threejs",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "WEB",
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-08T13:17:44Z"
+ },
+ {
+  "id": "gh:ultrakiwifringe38/solidworks-cad",
+  "source": "GitHub",
+  "name": "ultrakiwifringe38/solidworks-cad",
+  "owner": "ultrakiwifringe38",
+  "url": "https://github.com/ultrakiwifringe38/solidworks-cad",
+  "description": "Solidworks Cad 2026 optimized package deployment for professional desktop software utility configuration.",
+  "homepage": "",
+  "stars": 298,
+  "language": "",
+  "topics": [
+   "automation",
+   "cad-automation",
+   "civil-engineering-ai",
+   "desktop",
+   "developer-tools",
+   "fea",
+   "guide-setup-solidworks-cad",
+   "how-to-install-solidworks-cad",
+   "how-to-setup-solidworks-cad",
+   "maynooth-university",
+   "open-source",
+   "python",
+   "scripts",
+   "software-engineering",
+   "solidworks",
+   "solidworks-2024",
+   "system",
+   "utility",
+   "windows-app"
+  ],
+  "created_at": "2026-11-08T08:40:47Z",
+  "pushed_at": "2026-11-08T08:40:54Z",
+  "query": "cad",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "RISING"
+  ],
+  "matched": [
+   "solidworks"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-08T13:17:44Z"
+ },
+ {
+  "id": "gh:jujongpix/herramientas-arquitectura",
+  "source": "GitHub",
+  "name": "JujongPix/herramientas-arquitectura",
+  "owner": "JujongPix",
+  "url": "https://github.com/JujongPix/herramientas-arquitectura",
+  "description": "Scripts en Python para calcular cuadros de áreas y costos desde planos DXF de AutoCAD",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "arquitectura",
+   "autocad",
+   "dxf",
+   "python"
+  ],
+  "created_at": "2026-11-08T08:42:08Z",
+  "pushed_at": "2026-11-08T08:42:52Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "autocad",
+   "dxf"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-08T13:17:44Z"
+ },
+ {
+  "id": "gh:misaka0x26fe/awesome-agentic-cad",
+  "source": "GitHub",
+  "name": "Misaka0x26FE/Awesome-Agentic-CAD",
+  "owner": "Misaka0x26FE",
+  "url": "https://github.com/Misaka0x26FE/Awesome-Agentic-CAD",
+  "description": "A technical index of open/closed tools, MCP interfaces, benchmarks, and failure modes for LLM-driven CAD/CAE.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "agentic-cad",
+   "awesome-list",
+   "build123d",
+   "cad",
+   "cae",
+   "calculix",
+   "freecad",
+   "llm-agents",
+   "mcp",
+   "mechanical-engineering"
+  ],
+  "created_at": "2026-11-08T12:05:37Z",
+  "pushed_at": "2026-11-08T13:18:03Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "freecad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-08T13:17:44Z"
+ },
+ {
+  "id": "gh:h-h-hh/stencilgen",
+  "source": "GitHub",
+  "name": "H-h-Hh/stencilgen",
+  "owner": "H-h-Hh",
+  "url": "https://github.com/H-h-Hh/stencilgen",
+  "description": "Gerber 锡膏层 → 可打印的钢网 3D 模型 + 固定底座，一条命令、全离线。Solder-paste stencil + fixture from any Gerber export.",
+  "homepage": "",
+  "stars": 1,
+  "language": "Python",
+  "topics": [
+   "3d-printing",
+   "cad",
+   "gerber",
+   "kicad",
+   "opencascade",
+   "pcb",
+   "python",
+   "solder-paste",
+   "stencil"
+  ],
+  "created_at": "2026-11-08T09:22:27Z",
+  "pushed_at": "2026-11-08T12:18:13Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "opencascade"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-08T13:17:44Z"
+ },
+ {
+  "id": "gh:swanseafintech/3d-printed-gearbox",
+  "source": "GitHub",
+  "name": "swanseafintech/3D-Printed-Gearbox",
+  "owner": "swanseafintech",
+  "url": "https://github.com/swanseafintech/3D-Printed-Gearbox",
+  "description": "3D Printed gearbox design for RC Car",
+  "homepage": "",
+  "stars": 1,
+  "language": "",
+  "topics": [
+   "3dprinting",
+   "cad",
+   "gear",
+   "gearbox",
+   "gearbox-design",
+   "gears",
+   "solidworks"
+  ],
+  "created_at": "2026-11-08T10:33:20Z",
+  "pushed_at": "2026-11-08T11:34:49Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "solidworks"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-08T13:17:44Z"
+ },
+ {
+  "id": "gh:zqiee/mechavela",
+  "source": "GitHub",
+  "name": "ZqiEE/mechavela",
+  "owner": "ZqiEE",
+  "url": "https://github.com/ZqiEE/mechavela",
+  "description": "Your AI. Real CAD. Real simulation. A local robotics development workspace. Windows source technology preview.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "ai",
+   "bring-your-own-ai",
+   "cad",
+   "developer-tools",
+   "engineering",
+   "freecad",
+   "mujoco",
+   "python",
+   "robotics",
+   "simulation",
+   "windows"
+  ],
+  "created_at": "2026-11-08T08:02:54Z",
+  "pushed_at": "2026-11-08T08:08:44Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "freecad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-08T13:17:44Z"
+ },
+ {
+  "id": "gh:prideoidemultiplexer/catia-cad",
+  "source": "GitHub",
+  "name": "Prideoidemultiplexer/catia-cad",
+  "owner": "Prideoidemultiplexer",
+  "url": "https://github.com/Prideoidemultiplexer/catia-cad",
+  "description": "Catia Cad 2026 pre-configured environment for secure workstation deployment, ensuring seamless automated pipeline execution.",
+  "homepage": "",
+  "stars": 299,
+  "language": "",
+  "topics": [
+   "automation",
+   "cad-drawings",
+   "catia",
+   "catia-v5",
+   "catiav5",
+   "desktop",
+   "developer-tools",
+   "guide-setup-catia-cad",
+   "how-to-install-catia-cad",
+   "how-to-setup-catia-cad",
+   "open-source",
+   "pycatia",
+   "python",
+   "scripts",
+   "software-engineering",
+   "system",
+   "utility",
+   "windows-app",
+   "windows-cad"
+  ],
+  "created_at": "2026-11-08T08:37:40Z",
+  "pushed_at": "2026-11-08T08:37:46Z",
+  "query": "cad",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "RISING"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-08T13:17:44Z"
+ },
+ {
   "id": "gh:ketchup3d/app",
   "source": "GitHub",
   "name": "Ketchup3D/app",
@@ -2450,7 +2979,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "AEC",
    "INTEROP",
@@ -2685,7 +3214,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "AI"
@@ -3011,7 +3540,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3039,7 +3568,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "DEMO"
   ],
@@ -3189,7 +3718,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3222,7 +3751,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3249,7 +3778,7 @@
   "always_publish": true,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "INGETRAZO"
   ],
@@ -3314,7 +3843,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "BLENDER"
   ],
@@ -3727,7 +4256,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 4,
+  "score": 3,
   "flags": [
    "BLENDER"
   ],
@@ -3752,7 +4281,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 3,
+  "score": 2,
   "flags": [
    "AEC",
    "SKETCHUP"
@@ -12986,491 +13515,6 @@
   "matched": [
    "revit",
    "autocad"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:ovelilla/mellowcad",
-  "source": "GitHub",
-  "name": "ovelilla/mellowcad",
-  "owner": "ovelilla",
-  "url": "https://github.com/ovelilla/mellowcad",
-  "description": "Browser CAD drafting that works like AutoCAD: a framework-free 2D engine and its React editor. Not affiliated with Autodesk.",
-  "homepage": "https://mellowcad.com",
-  "stars": 0,
-  "language": "TypeScript",
-  "topics": [],
-  "created_at": "2026-10-30T09:18:26Z",
-  "pushed_at": "2026-11-01T23:02:58Z",
-  "query": "autocad",
-  "relevant": true,
-  "score": 7,
-  "flags": [
-   "DEMO",
-   "AEC",
-   "WEB",
-   "AI"
-  ],
-  "matched": [
-   "autocad"
-  ],
-  "ai_files": [
-   ".claude",
-   "AGENTS.md"
-  ],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:adm1nsys/education",
-  "source": "GitHub",
-  "name": "adm1nsys/education",
-  "owner": "adm1nsys",
-  "url": "https://github.com/adm1nsys/education",
-  "description": "Selected coursework from college and university, 2022–2025. A curated selection — not every lab.",
-  "homepage": "https://adm1nsys.github.io/education/",
-  "stars": 0,
-  "language": "HTML",
-  "topics": [
-   "autocad",
-   "cisco-packet-tracer",
-   "coursework",
-   "education",
-   "github-pages",
-   "portfolio"
-  ],
-  "created_at": "2026-11-01T17:39:29Z",
-  "pushed_at": "2026-11-01T21:04:52Z",
-  "query": "autocad",
-  "relevant": true,
-  "score": 7,
-  "flags": [
-   "DEMO",
-   "AEC"
-  ],
-  "matched": [
-   "autocad"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:dobbsbp/vormcraft",
-  "source": "GitHub",
-  "name": "dobbsbp/VormCraft",
-  "owner": "dobbsbp",
-  "url": "https://github.com/dobbsbp/VormCraft",
-  "description": "VormCraft: a free, open-source push/pull 3D modeler for woodworking, architecture sketches and 3D printing",
-  "homepage": "",
-  "stars": 2,
-  "language": "TypeScript",
-  "topics": [
-   "3d-modeling",
-   "3d-printing",
-   "cad",
-   "stl",
-   "tauri",
-   "threejs",
-   "typescript"
-  ],
-  "created_at": "2026-10-30T08:26:15Z",
-  "pushed_at": "2026-11-02T14:48:36Z",
-  "query": "cad threejs",
-  "relevant": true,
-  "score": 7,
-  "flags": [
-   "CLONE",
-   "WEB",
-   "AI"
-  ],
-  "matched": [],
-  "ai_files": [
-   "CLAUDE.md"
-  ],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:sachinyadavaug20/kosh",
-  "source": "GitHub",
-  "name": "SachinyadavAug20/kosh",
-  "owner": "SachinyadavAug20",
-  "url": "https://github.com/SachinyadavAug20/kosh",
-  "description": "Minimalist Developer-First Creative Model Context Protocol (MCP) Workstation Real-Time Parametric 3D CAD • Digital Sculpting • Procedural Animation • Headless Blender 5.2 LTS",
-  "homepage": "https://kosh-puce.vercel.app",
-  "stars": 3,
-  "language": "TypeScript",
-  "topics": [
-   "3d-modeling",
-   "bharatcode",
-   "generative-ai",
-   "llm-tools",
-   "mcp-client",
-   "mcp-server",
-   "spring-boot",
-   "threejs"
-  ],
-  "created_at": "2026-10-30T07:27:17Z",
-  "pushed_at": "2026-11-02T06:41:49Z",
-  "query": "cad threejs",
-  "relevant": true,
-  "score": 7,
-  "flags": [
-   "DEMO",
-   "WEB"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:natterman12/stl-editor",
-  "source": "GitHub",
-  "name": "natterman12/STL-Editor",
-  "owner": "natterman12",
-  "url": "https://github.com/natterman12/STL-Editor",
-  "description": "CAD-style editing for STL files: sketch, extrude, cut, drill, thread and split meshes for 3D printing. Free Windows app.",
-  "homepage": "https://natterman12.github.io/STL-Editor/",
-  "stars": 1,
-  "language": "JavaScript",
-  "topics": [
-   "3d-modeling",
-   "3d-printing",
-   "bambu-lab",
-   "cad",
-   "mesh-editing",
-   "orcaslicer",
-   "python",
-   "stl",
-   "stl-editor",
-   "threejs"
-  ],
-  "created_at": "2026-10-30T03:25:37Z",
-  "pushed_at": "2026-11-01T03:14:46Z",
-  "query": "cad threejs",
-  "relevant": true,
-  "score": 7,
-  "flags": [
-   "DEMO",
-   "WEB"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:mairisskuja/voron-trident-r2-interactive-manual",
-  "source": "GitHub",
-  "name": "mairisskuja/voron-trident-r2-interactive-manual",
-  "owner": "mairisskuja",
-  "url": "https://github.com/mairisskuja/voron-trident-r2-interactive-manual",
-  "description": "Unofficial interactive 3D assembly manual for the VORON Trident R2: every step of the official manual animated on the official CAD. Not affiliated with VORON Design.",
-  "homepage": "https://iconic-fab.com/voron/trident/r2/",
-  "stars": 0,
-  "language": "JavaScript",
-  "topics": [
-   "3d-printer",
-   "3d-printing",
-   "assembly-instructions",
-   "threejs",
-   "voron",
-   "voron-trident"
-  ],
-  "created_at": "2026-10-31T22:00:03Z",
-  "pushed_at": "2026-10-31T22:00:48Z",
-  "query": "cad threejs",
-  "relevant": true,
-  "score": 8,
-  "flags": [
-   "DEMO",
-   "AEC",
-   "WEB"
-  ],
-  "matched": [
-   "step"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:harisharandangi/textocad",
-  "source": "GitHub",
-  "name": "harisharandangi/textocad",
-  "owner": "harisharandangi",
-  "url": "https://github.com/harisharandangi/textocad",
-  "description": "Text to CAD: describe a part in plain English, get an editable parametric CadQuery/OpenSCAD model. Exports STEP, STL, 3MF and URDF. Runs locally with your own AI key.",
-  "homepage": "https://textocad.com",
-  "stars": 0,
-  "language": "Python",
-  "topics": [
-   "3d-modeling",
-   "3d-printing",
-   "cad",
-   "cadquery",
-   "generative-ai",
-   "llm",
-   "openscad",
-   "parametric-design",
-   "python",
-   "robotics",
-   "step",
-   "stl",
-   "text-to-cad",
-   "urdf"
-  ],
-  "created_at": "2026-11-02T00:54:56Z",
-  "pushed_at": "2026-11-02T21:43:20Z",
-  "query": "topic:cad",
-  "relevant": true,
-  "score": 7,
-  "flags": [
-   "DEMO",
-   "AEC"
-  ],
-  "matched": [
-   "step"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:hyoseokbyun-opt/aicad",
-  "source": "GitHub",
-  "name": "HyoseokByun-opt/AICAD",
-  "owner": "HyoseokByun-opt",
-  "url": "https://github.com/HyoseokByun-opt/AICAD",
-  "description": "AI-assisted CAD modelling: engineering drawings (single parts, machines, plant structures, multi-sheet sets) or descriptions to parametric 3D solids (STEP) and beam/shell analysis models, with a local vision-language model (Qwen3.6, llama.cpp) and the OpenCASCADE kernel. Offline on Windows.",
-  "homepage": "https://hyoseokbyun-opt.github.io/AICAD/",
-  "stars": 0,
-  "language": "Python",
-  "topics": [
-   "cad",
-   "cadquery",
-   "engineering-drawings",
-   "finite-element-analysis",
-   "llama-cpp",
-   "offline",
-   "opencascade",
-   "qwen",
-   "step",
-   "vision-language-model"
-  ],
-  "created_at": "2026-10-30T23:43:48Z",
-  "pushed_at": "2026-11-02T01:07:02Z",
-  "query": "topic:cad",
-  "relevant": true,
-  "score": 7,
-  "flags": [
-   "DEMO",
-   "AEC"
-  ],
-  "matched": [
-   "step",
-   "opencascade"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:pisenailab/china-patent-figure-skill",
-  "source": "GitHub",
-  "name": "PisenAILab/china-patent-figure-skill",
-  "owner": "PisenAILab",
-  "url": "https://github.com/PisenAILab/china-patent-figure-skill",
-  "description": "中国专利附图 Skill：从 3D 装配体（STEP）一步出符合国家知识产权局形式要求的说明书附图。自动标号与引线、13 项质检、PDF/Word/DXF 导出，支持 Skill / MCP / CLI，本地运行。",
-  "homepage": "",
-  "stars": 57,
-  "language": "Python",
-  "topics": [
-   "agent-skill",
-   "cad",
-   "claude-code-skill",
-   "cnipa",
-   "mcp",
-   "opencascade",
-   "patent",
-   "patent-drawing",
-   "patent-figure",
-   "step"
-  ],
-  "created_at": "2026-10-30T10:20:36Z",
-  "pushed_at": "2026-10-30T10:20:54Z",
-  "query": "cad",
-  "rising": true,
-  "relevant": true,
-  "score": 8,
-  "flags": [
-   "AEC",
-   "AI",
-   "RISING"
-  ],
-  "matched": [
-   "dxf",
-   "step",
-   "opencascade"
-  ],
-  "ai_files": [
-   "AGENTS.md"
-  ],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:nanassound/mnft",
-  "source": "GitHub",
-  "name": "nanassound/mnft",
-  "owner": "nanassound",
-  "url": "https://github.com/nanassound/mnft",
-  "description": "Text-to-CAD tools in Elixir with build123d, OpenSCAD, replicad, and smlibpy.",
-  "homepage": "",
-  "stars": 38,
-  "language": "Elixir",
-  "topics": [
-   "3d-printing",
-   "ai-agents",
-   "build123d",
-   "cad",
-   "cnc",
-   "elixir",
-   "jido",
-   "llm",
-   "openscad",
-   "popcorn",
-   "replicad",
-   "step",
-   "stl",
-   "text-to-cad",
-   "wasm"
-  ],
-  "created_at": "2026-10-12T21:13:23Z",
-  "pushed_at": "2026-10-28T12:28:07Z",
-  "query": "cad",
-  "rising": true,
-  "relevant": true,
-  "score": 8,
-  "flags": [
-   "AEC",
-   "WEB",
-   "RISING"
-  ],
-  "matched": [
-   "step",
-   "replicad"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:contributionrich/narwhal3d",
-  "source": "GitHub",
-  "name": "ContributionRich/Narwhal3D",
-  "owner": "ContributionRich",
-  "url": "https://github.com/ContributionRich/Narwhal3D",
-  "description": "Free, open-source, command-driven NURBS CAD with exact manufacturing geometry",
-  "homepage": "",
-  "stars": 28,
-  "language": "Python",
-  "topics": [
-   "3d-modeling",
-   "appimage",
-   "blender",
-   "cad",
-   "linux",
-   "nurbs",
-   "opencascade"
-  ],
-  "created_at": "2026-10-11T01:27:55Z",
-  "pushed_at": "2026-11-02T22:21:11Z",
-  "query": "cad",
-  "rising": true,
-  "relevant": true,
-  "score": 7,
-  "flags": [
-   "AEC",
-   "RISING"
-  ],
-  "matched": [
-   "opencascade"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:sawhorse3d/sawhorse",
-  "source": "GitHub",
-  "name": "sawhorse3d/sawhorse",
-  "owner": "sawhorse3d",
-  "url": "https://github.com/sawhorse3d/sawhorse",
-  "description": "Free, local-first, open-source SketchUp-style push/pull modeler for woodworkers and makers. Opens .skp, exports watertight STL/3MF, built-in cut list and nesting.",
-  "homepage": "",
-  "stars": 73,
-  "language": "Rust",
-  "topics": [],
-  "created_at": "2026-10-14T03:58:08Z",
-  "pushed_at": "2026-11-02T02:47:13Z",
-  "query": "sketchup",
-  "rising": true,
-  "relevant": true,
-  "score": 7,
-  "flags": [
-   "AEC",
-   "CLONE",
-   "RISING"
-  ],
-  "matched": [
-   "sketchup"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:helenkwok/rvt-open",
-  "source": "GitHub",
-  "name": "helenkwok/rvt-open",
-  "owner": "helenkwok",
-  "url": "https://github.com/helenkwok/rvt-open",
-  "description": "Read Revit files and export IFC, glTF, 3D PDF and more, in the browser or on the command line",
-  "homepage": "https://helenkwok.github.io/rvt-open/",
-  "stars": 0,
-  "language": "Rust",
-  "topics": [],
-  "created_at": "2026-11-02T22:23:09Z",
-  "pushed_at": "2026-11-02T22:29:39Z",
-  "query": "revit",
-  "relevant": true,
-  "score": 6,
-  "flags": [
-   "DEMO",
-   "AEC",
-   "WEB"
-  ],
-  "matched": [
-   "revit",
-   "ifc"
   ],
   "ai_files": [],
   "found_at": "2026-11-02T23:12:33Z",
