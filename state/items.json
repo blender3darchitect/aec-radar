@@ -1,5 +1,481 @@
 [
  {
+  "id": "gh:benchup3d/editor",
+  "source": "GitHub",
+  "name": "BenchUp3D/editor",
+  "owner": "BenchUp3D",
+  "url": "https://github.com/BenchUp3D/editor",
+  "description": "Free, open-source 3D woodworking and modeling software and SketchUp alternative. Built with Rust, WebAssembly and WebGPU. Runs in your browser or on desktop. 100% vibe-coded, only the finest slop, with great emphase on rendering speed and UI/UX.",
+  "homepage": "https://benchup3d.github.io/editor/",
+  "stars": 244,
+  "language": "Rust",
+  "topics": [
+   "3d-modeling",
+   "cad",
+   "furniture-design",
+   "open-source",
+   "rust",
+   "sketchup",
+   "sketchup-alternative",
+   "woodwork",
+   "woodworking",
+   "woodworking-cad",
+   "woodworking-software",
+   "woodworking-tools"
+  ],
+  "created_at": "2026-10-23T11:19:09Z",
+  "pushed_at": "2026-11-09T04:12:51Z",
+  "query": "sketchup",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 15,
+  "flags": [
+   "DEMO",
+   "AEC",
+   "CLONE",
+   "WEB",
+   "AI",
+   "RISING"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [
+   "AGENTS.md"
+  ],
+  "found_at": "2026-11-09T06:17:09Z"
+ },
+ {
+  "id": "gh:d0pawlus/surfacecraft",
+  "source": "GitHub",
+  "name": "d0pawlus/SurfaceCraft",
+  "owner": "d0pawlus",
+  "url": "https://github.com/d0pawlus/SurfaceCraft",
+  "description": "SurfaceCraft: open-source, clean-room scan-to-CAD in pure Rust. Mesh to aligned primitives, NURBS surfaces and a parametric feature tree, exported to STEP/IGES. Desktop, web (wasm), CLI and MCP.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Rust",
+  "topics": [
+   "3d-scanning",
+   "brep",
+   "cad",
+   "egui",
+   "iges",
+   "mcp",
+   "mesh-processing",
+   "nurbs",
+   "reverse-engineering",
+   "rust",
+   "scan-to-cad",
+   "step",
+   "webassembly",
+   "wgpu"
+  ],
+  "created_at": "2026-11-08T14:17:04Z",
+  "pushed_at": "2026-11-09T01:20:45Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 9,
+  "flags": [
+   "AEC",
+   "CLONE",
+   "WEB",
+   "AI"
+  ],
+  "matched": [
+   "step",
+   "brep"
+  ],
+  "ai_files": [
+   ".claude",
+   "AGENTS.md",
+   "CLAUDE.md"
+  ],
+  "found_at": "2026-11-09T06:17:09Z"
+ },
+ {
+  "id": "gh:ksjamwal4268/xcad-2d",
+  "source": "GitHub",
+  "name": "ksjamwal4268/xcad-2d",
+  "owner": "ksjamwal4268",
+  "url": "https://github.com/ksjamwal4268/xcad-2d",
+  "description": "XCAD 2D - Open-Source Web CAD Engineering System & AutoCAD Alternative with 40+ CAD Commands, DXF Export, and Parametric Engine",
+  "homepage": "",
+  "stars": 0,
+  "language": "JavaScript",
+  "topics": [
+   "autocad",
+   "cad",
+   "canvas",
+   "dxf",
+   "engineering",
+   "gis",
+   "javascript",
+   "open-source",
+   "parametric-cad",
+   "webgl"
+  ],
+  "created_at": "2026-11-09T05:32:58Z",
+  "pushed_at": "2026-11-09T05:35:45Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "AEC",
+   "CLONE",
+   "WEB"
+  ],
+  "matched": [
+   "autocad",
+   "dxf"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T06:17:09Z"
+ },
+ {
+  "id": "gh:borderlesste/nexovax-3d-converter",
+  "source": "GitHub",
+  "name": "borderlesste/nexovax-3d-converter",
+  "owner": "borderlesste",
+  "url": "https://github.com/borderlesste/nexovax-3d-converter",
+  "description": "Conversor 3D offline para Windows: glTF, GLB, OBJ, FBX, STL, IFC, STEP, IGES · ES/FR/HT",
+  "homepage": "https://borderlesste.github.io/nexovax-3d-converter/",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-11-08T22:55:52Z",
+  "pushed_at": "2026-11-09T01:42:29Z",
+  "query": "ifc",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "AEC",
+   "INTEROP"
+  ],
+  "matched": [
+   "ifc",
+   "step"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T06:17:09Z"
+ },
+ {
+  "id": "gh:draarivpatel-ui/voxelsynth",
+  "source": "GitHub",
+  "name": "draarivpatel-ui/voxelsynth",
+  "owner": "draarivpatel-ui",
+  "url": "https://github.com/draarivpatel-ui/voxelsynth",
+  "description": "Offline voxel and SDF constructive solid geometry CAD studio with watertight STL, OBJ, and OpenSCAD export",
+  "homepage": "https://aariv.me/voxelsynth/",
+  "stars": 0,
+  "language": "JavaScript",
+  "topics": [
+   "3d-printing",
+   "cad",
+   "csg",
+   "javascript",
+   "mesh",
+   "nodejs",
+   "open-source",
+   "sdf",
+   "voxel",
+   "zero-dependency"
+  ],
+  "created_at": "2026-11-08T23:37:47Z",
+  "pushed_at": "2026-11-09T03:57:46Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "DEMO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-09T06:17:09Z"
+ },
+ {
+  "id": "gh:draarivpatel-ui/padcraft",
+  "source": "GitHub",
+  "name": "draarivpatel-ui/padcraft",
+  "owner": "draarivpatel-ui",
+  "url": "https://github.com/draarivpatel-ui/padcraft",
+  "description": "Client-side EDA and mechanical CAD generator for RP2040 macropads: KiCad, Gerbers, STL plates, OpenSCAD, and KMK firmware",
+  "homepage": "https://aariv.me/padcraft/",
+  "stars": 0,
+  "language": "JavaScript",
+  "topics": [
+   "3d-printing",
+   "cad",
+   "cli",
+   "firmware",
+   "gerber",
+   "javascript",
+   "keyboard",
+   "kicad",
+   "nodejs",
+   "open-source",
+   "pcb",
+   "zero-dependency"
+  ],
+  "created_at": "2026-11-08T23:26:40Z",
+  "pushed_at": "2026-11-09T03:57:44Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "DEMO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-09T06:17:09Z"
+ },
+ {
+  "id": "gh:tien02683/tt-plugins",
+  "source": "GitHub",
+  "name": "tien02683/tt-plugins",
+  "owner": "tien02683",
+  "url": "https://github.com/tien02683/tt-plugins",
+  "description": "TT Plugins — SketchUp Extension Store (Astro 5 SSG)",
+  "homepage": "",
+  "stars": 0,
+  "language": "HTML",
+  "topics": [],
+  "created_at": "2026-11-09T03:18:52Z",
+  "pushed_at": "2026-11-09T05:05:05Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "SKETCHUP",
+   "AI"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [
+   "AGENTS.md"
+  ],
+  "found_at": "2026-11-09T06:17:09Z"
+ },
+ {
+  "id": "gh:bullshitai52/cad-skills",
+  "source": "GitHub",
+  "name": "bullshitAI52/cad-skills",
+  "owner": "bullshitAI52",
+  "url": "https://github.com/bullshitAI52/cad-skills",
+  "description": "让 AI 帮你画 CAD 施工图（用 Codex 效果最好）：200 条原创制图 skill + 124 个现成 skill | Let AI draw your CAD construction drawings (works best with Codex): 200 original drafting skills + 124 ready-made skills.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Max",
+  "topics": [
+   "ai",
+   "autocad",
+   "bim",
+   "cad",
+   "codex",
+   "drafting",
+   "dxf",
+   "freecad"
+  ],
+  "created_at": "2026-11-08T01:50:18Z",
+  "pushed_at": "2026-11-09T03:57:18Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "AI"
+  ],
+  "matched": [
+   "autocad",
+   "freecad",
+   "dxf"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T06:17:09Z"
+ },
+ {
+  "id": "gh:zhao960728-crypto/xy-cad-wheel",
+  "source": "GitHub",
+  "name": "zhao960728-crypto/xy-cad-wheel",
+  "owner": "zhao960728-crypto",
+  "url": "https://github.com/zhao960728-crypto/xy-cad-wheel",
+  "description": "小阳 CAD 轮盘：AutoCAD 和中望 CAD 的自定义鼠标命令轮盘",
+  "homepage": "",
+  "stars": 0,
+  "language": "C#",
+  "topics": [
+   "autocad",
+   "cad",
+   "csharp",
+   "radial-menu",
+   "zwcad"
+  ],
+  "created_at": "2026-11-09T01:18:45Z",
+  "pushed_at": "2026-11-09T01:19:01Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "autocad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T06:17:09Z"
+ },
+ {
+  "id": "gh:liukai1357/cad123",
+  "source": "GitHub",
+  "name": "liuKAI1357/cad123",
+  "owner": "liuKAI1357",
+  "url": "https://github.com/liuKAI1357/cad123",
+  "description": "统一控制 AutoCAD 2020 与天正 V7.0 的 Python 工具",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "autocad",
+   "cad",
+   "chinese",
+   "com-automation",
+   "python",
+   "pywin32",
+   "tarch"
+  ],
+  "created_at": "2026-11-09T00:52:20Z",
+  "pushed_at": "2026-11-09T00:58:42Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "autocad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T06:17:09Z"
+ },
+ {
+  "id": "gh:kiannatapiavilla-cyber/kiannatvilla_bim",
+  "source": "GitHub",
+  "name": "kiannatapiavilla-cyber/kiannatvilla_BIM",
+  "owner": "kiannatapiavilla-cyber",
+  "url": "https://github.com/kiannatapiavilla-cyber/kiannatvilla_BIM",
+  "description": "Portfolio de arquitecta especialista en modelado BIM",
+  "homepage": "https://kiannatvillabim.vercel.app",
+  "stars": 0,
+  "language": "HTML",
+  "topics": [],
+  "created_at": "2026-11-09T00:12:09Z",
+  "pushed_at": "2026-11-09T01:12:57Z",
+  "query": "bim",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "DEMO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-09T06:17:09Z"
+ },
+ {
+  "id": "gh:andrewimm/clicd",
+  "source": "GitHub",
+  "name": "andrewimm/clicd",
+  "owner": "andrewimm",
+  "url": "https://github.com/andrewimm/clicd",
+  "description": "Agent-first parametric CAD on Open CASCADE: Python scripts in, exact solids, renders, stress analysis, slicing and STEP/STL/3MF out",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "3d-printing",
+   "ai-agents",
+   "cad",
+   "cli",
+   "fea",
+   "opencascade",
+   "parametric-cad",
+   "python",
+   "rust"
+  ],
+  "created_at": "2026-11-08T05:01:10Z",
+  "pushed_at": "2026-11-09T04:08:37Z",
+  "query": "\"parametric cad\"",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "step",
+   "opencascade"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T06:17:09Z"
+ },
+ {
+  "id": "gh:zhao960728-crypto/xy-sw-wheel",
+  "source": "GitHub",
+  "name": "zhao960728-crypto/xy-sw-wheel",
+  "owner": "zhao960728-crypto",
+  "url": "https://github.com/zhao960728-crypto/xy-sw-wheel",
+  "description": "XY 轮盘：SOLIDWORKS 命令轮盘、属性水印、工序识别与一键爆炸",
+  "homepage": "",
+  "stars": 0,
+  "language": "C#",
+  "topics": [
+   "cad",
+   "csharp",
+   "radial-menu",
+   "solidworks"
+  ],
+  "created_at": "2026-11-09T01:27:17Z",
+  "pushed_at": "2026-11-09T01:27:25Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "solidworks"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T06:17:09Z"
+ },
+ {
   "id": "gh:sjls27/openburn",
   "source": "GitHub",
   "name": "SJLS27/openburn",
@@ -2443,7 +2919,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -2823,7 +3299,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "DEMO"
   ],
@@ -2856,7 +3332,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "DEMO"
   ],
@@ -2889,7 +3365,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "AI"
@@ -2927,7 +3403,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "AI"
@@ -2979,7 +3455,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "AI"
@@ -3040,7 +3516,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "BLENDER"
   ],
@@ -3110,7 +3586,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3145,7 +3621,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3183,7 +3659,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AI"
   ],
@@ -3214,7 +3690,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3247,7 +3723,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3284,7 +3760,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AI"
   ],
@@ -3355,7 +3831,7 @@
   "always_publish": true,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "INGETRAZO"
   ],
@@ -3390,7 +3866,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 4,
+  "score": 3,
   "flags": [
    "BLENDER"
   ],
@@ -3415,7 +3891,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 4,
+  "score": 3,
   "flags": [
    "BLENDER"
   ],
@@ -12967,544 +13443,5 @@
   "matched": [],
   "ai_files": [],
   "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:em-rezende/ingetrazo-igz-solids",
-  "source": "GitHub",
-  "name": "em-rezende/Ingetrazo-igz-solids",
-  "owner": "em-rezende",
-  "url": "https://github.com/em-rezende/Ingetrazo-igz-solids",
-  "description": "",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-10T17:48:33Z",
-  "pushed_at": "2026-10-10T19:35:13Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 2,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:gronskideveloper/blender-to-glb-pipeline",
-  "source": "GitHub",
-  "name": "GronskiDeveloper/blender-to-glb-pipeline",
-  "owner": "GronskiDeveloper",
-  "url": "https://github.com/GronskiDeveloper/blender-to-glb-pipeline",
-  "description": "Clean .glb out of Blender/CAD for the web, plus a dependency-free Node checker that flags the usual mistakes.",
-  "homepage": "",
-  "stars": 0,
-  "language": "JavaScript",
-  "topics": [
-   "3d",
-   "blender",
-   "glb",
-   "gltf",
-   "nodejs",
-   "optimization",
-   "pipeline",
-   "threejs",
-   "webgl"
-  ],
-  "created_at": "2026-10-31T19:23:29Z",
-  "pushed_at": "2026-10-31T19:23:35Z",
-  "query": "cad threejs",
-  "relevant": true,
-  "score": 5,
-  "flags": [
-   "WEB",
-   "AI"
-  ],
-  "matched": [],
-  "ai_files": [
-   "CLAUDE.md"
-  ],
-  "found_at": "2026-11-02T23:28:50Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:dkshyrion/wohnung-3d-planner",
-  "source": "GitHub",
-  "name": "dksHyrion/wohnung-3d-planner",
-  "owner": "dksHyrion",
-  "url": "https://github.com/dksHyrion/wohnung-3d-planner",
-  "description": "Precision 2D/3D Architectural Floorplan & Furniture Placement Simulator (1 Unit = 1 cm, OBB/SAT Collision Engine, DIN 18040 Ergonomics, Scaled 1:50 SVG Export)",
-  "homepage": "",
-  "stars": 1,
-  "language": "TypeScript",
-  "topics": [
-   "architecture",
-   "cad",
-   "floorplan",
-   "interior-design",
-   "react-three-fiber",
-   "threejs",
-   "typescript"
-  ],
-  "created_at": "2026-10-30T15:46:57Z",
-  "pushed_at": "2026-10-31T10:22:56Z",
-  "query": "cad threejs",
-  "relevant": true,
-  "score": 5,
-  "flags": [
-   "WEB",
-   "AI"
-  ],
-  "matched": [],
-  "ai_files": [
-   "AGENTS.md",
-   "CLAUDE.md"
-  ],
-  "found_at": "2026-11-02T23:28:50Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:osaxma/napkin2factory",
-  "source": "GitHub",
-  "name": "osaxma/napkin2factory",
-  "owner": "osaxma",
-  "url": "https://github.com/osaxma/napkin2factory",
-  "description": "Turn an idea into a manufacturable design. Agentic, git-native, bring-your-own-AI. BOM, CAD, drawings, manuals — and engineering changes that sync everything.",
-  "homepage": "",
-  "stars": 1,
-  "language": "Python",
-  "topics": [
-   "ai-agents",
-   "bom",
-   "cad",
-   "design",
-   "hardware",
-   "manufacturing"
-  ],
-  "created_at": "2026-10-30T07:08:36Z",
-  "pushed_at": "2026-11-02T12:30:54Z",
-  "query": "topic:cad",
-  "relevant": true,
-  "score": 6,
-  "flags": [
-   "INTEROP",
-   "AI"
-  ],
-  "matched": [],
-  "ai_files": [
-   "AGENTS.md"
-  ],
-  "found_at": "2026-11-02T23:28:50Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:jiangshirong/freeship-26",
-  "source": "GitHub",
-  "name": "jiangshirong/FreeShip-26",
-  "owner": "jiangshirong",
-  "url": "https://github.com/jiangshirong/FreeShip-26",
-  "description": "A modernized fork of FREE!ship Plus in Lazarus — hull design, hydrostatics and linesplan with a new StudioLight UI, 5–17.6× faster rendering, 17 upstream fixes and 7 UI languages. | FreeShip_26 船体设计与静水力工作台",
-  "homepage": "",
-  "stars": 0,
-  "language": "Pascal",
-  "topics": [
-   "cad",
-   "desktop-app",
-   "freepascal",
-   "freeship",
-   "gplv3",
-   "hull-design",
-   "hydrostatics",
-   "lazarus",
-   "linesplan",
-   "naval-architecture",
-   "object-pascal",
-   "performance",
-   "ship-design",
-   "ui-redesign",
-   "windows"
-  ],
-  "created_at": "2026-11-01T16:21:00Z",
-  "pushed_at": "2026-11-01T16:24:39Z",
-  "query": "topic:cad",
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AI"
-  ],
-  "matched": [],
-  "ai_files": [
-   "AGENTS.md"
-  ],
-  "found_at": "2026-11-02T23:28:50Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:xiv-gate/revit-blender-bridge",
-  "source": "GitHub",
-  "name": "XIV-gate/revit-blender-bridge",
-  "owner": "XIV-gate",
-  "url": "https://github.com/XIV-gate/revit-blender-bridge",
-  "description": "AGR Revit Bridge — локальный импорт Revit в Blender: выбор элементов, редактируемые инстансы, материалы и превью слоёв. XIVgate.",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [
-   "architecture",
-   "bim",
-   "blender",
-   "revit",
-   "xivgate"
-  ],
-  "created_at": "2026-10-30T12:22:03Z",
-  "pushed_at": "2026-10-30T19:51:10Z",
-  "query": "topic:bim",
-  "relevant": true,
-  "score": 9,
-  "flags": [
-   "AEC",
-   "INTEROP",
-   "BLENDER",
-   "AI"
-  ],
-  "matched": [
-   "revit"
-  ],
-  "ai_files": [
-   "AGENTS.md"
-  ],
-  "found_at": "2026-11-02T23:28:50Z",
-  "always_publish": false,
-  "eco_min": 3
- },
- {
-  "id": "gh:tangency-labs/solidcraft",
-  "source": "GitHub",
-  "name": "tangency-labs/solidcraft",
-  "owner": "tangency-labs",
-  "url": "https://github.com/tangency-labs/solidcraft",
-  "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
-  "homepage": "https://solidcraft.io",
-  "stars": 13162,
-  "language": "Rust",
-  "topics": [
-   "3d-modeling",
-   "brep",
-   "cad",
-   "egui",
-   "mcp",
-   "parametric-cad",
-   "rust",
-   "step",
-   "wasm"
-  ],
-  "created_at": "2026-10-07T18:57:48Z",
-  "pushed_at": "2026-11-02T22:53:49Z",
-  "query": "cad",
-  "rising": true,
-  "relevant": true,
-  "score": 12,
-  "flags": [
-   "DEMO",
-   "AEC",
-   "WEB",
-   "AI",
-   "RISING"
-  ],
-  "matched": [
-   "step",
-   "brep"
-  ],
-  "ai_files": [
-   "AGENTS.md",
-   "CLAUDE.md"
-  ],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:bimvoice/ifc-sheet",
-  "source": "GitHub",
-  "name": "BIMvoice/ifc-sheet",
-  "owner": "BIMvoice",
-  "url": "https://github.com/BIMvoice/ifc-sheet",
-  "description": "Draw, dimension and sheet IFC models in the browser. Plans, sections, annotations, PDF and DXF. Open source, MPL-2.0.",
-  "homepage": "https://bimvoice.github.io/ifc-sheet/",
-  "stars": 27,
-  "language": "TypeScript",
-  "topics": [
-   "2d-drafting",
-   "bim",
-   "cad",
-   "drawings",
-   "dxf",
-   "ifc",
-   "openbim",
-   "webassembly"
-  ],
-  "created_at": "2026-10-11T12:17:20Z",
-  "pushed_at": "2026-11-02T02:26:48Z",
-  "query": "ifc",
-  "rising": true,
-  "relevant": true,
-  "score": 12,
-  "flags": [
-   "DEMO",
-   "AEC",
-   "WEB",
-   "AI",
-   "RISING"
-  ],
-  "matched": [
-   "ifc",
-   "dxf"
-  ],
-  "ai_files": [
-   ".cursorrules",
-   "AGENTS.md"
-  ],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:kai-jungsthoefel/soma",
-  "source": "GitHub",
-  "name": "Kai-Jungsthoefel/SOMA",
-  "owner": "Kai-Jungsthoefel",
-  "url": "https://github.com/Kai-Jungsthoefel/SOMA",
-  "description": "Desktop app for designing parametric 3D models in CadQuery together with the coding agent of your choice",
-  "homepage": "https://somacad.app/",
-  "stars": 445,
-  "language": "TypeScript",
-  "topics": [
-   "3d-modeling",
-   "3d-printing",
-   "3d-printing-tools",
-   "agent",
-   "agentic-ai",
-   "ai-cad",
-   "cad",
-   "cadquery",
-   "claude-code",
-   "codex",
-   "electron",
-   "fem",
-   "llm",
-   "macd",
-   "maker",
-   "opencode",
-   "parametric-design",
-   "python",
-   "step",
-   "text-to-cad"
-  ],
-  "created_at": "2026-10-10T18:01:10Z",
-  "pushed_at": "2026-11-02T10:00:58Z",
-  "query": "cad",
-  "rising": true,
-  "relevant": true,
-  "score": 11,
-  "flags": [
-   "DEMO",
-   "AEC",
-   "AI",
-   "RISING"
-  ],
-  "matched": [
-   "step"
-  ],
-  "ai_files": [
-   "CLAUDE.md"
-  ],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:mitcad/mitcad",
-  "source": "GitHub",
-  "name": "mitcad/Mitcad",
-  "owner": "mitcad",
-  "url": "https://github.com/mitcad/Mitcad",
-  "description": "Free, open-source parametric 3D CAD for Windows, Linux and macOS. Imports many formats with their feature timeline.",
-  "homepage": "https://mitcad.org",
-  "stars": 134,
-  "language": "Rust",
-  "topics": [
-   "cad",
-   "dwg",
-   "freecad",
-   "parametric-cad",
-   "parametric-design",
-   "rust"
-  ],
-  "created_at": "2026-10-04T17:37:26Z",
-  "pushed_at": "2026-11-02T19:13:57Z",
-  "query": "cad",
-  "rising": true,
-  "relevant": true,
-  "score": 11,
-  "flags": [
-   "DEMO",
-   "AEC",
-   "AI",
-   "RISING"
-  ],
-  "matched": [
-   "freecad",
-   "dwg"
-  ],
-  "ai_files": [
-   "CLAUDE.md"
-  ],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:gazi-faysal-jubayer/shapebridge",
-  "source": "GitHub",
-  "name": "gazi-faysal-jubayer/shapebridge",
-  "owner": "gazi-faysal-jubayer",
-  "url": "https://github.com/gazi-faysal-jubayer/shapebridge",
-  "description": "Lightweight open-source CAD viewer, format converter and parametric designer with live peer-to-peer sharing. Windows, macOS, Linux and web.",
-  "homepage": "https://gazi-faysal-jubayer.github.io/shapebridge/",
-  "stars": 1,
-  "language": "TypeScript",
-  "topics": [
-   "3d-viewer",
-   "cad",
-   "cad-viewer",
-   "freecad",
-   "open-source",
-   "opencascade",
-   "openscad",
-   "parametric-design",
-   "solidjs",
-   "step",
-   "stl",
-   "tauri",
-   "webrtc"
-  ],
-  "created_at": "2026-10-31T03:42:21Z",
-  "pushed_at": "2026-11-02T17:15:22Z",
-  "query": "topic:cad",
-  "relevant": true,
-  "score": 12,
-  "flags": [
-   "DEMO",
-   "AEC",
-   "CLONE",
-   "INTEROP",
-   "AI"
-  ],
-  "matched": [
-   "freecad",
-   "step",
-   "opencascade"
-  ],
-  "ai_files": [
-   ".claude",
-   ".cursor",
-   "AGENTS.md",
-   "CLAUDE.md"
-  ],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:tangency-labs/solidcore",
-  "source": "GitHub",
-  "name": "tangency-labs/solidcore",
-  "owner": "tangency-labs",
-  "url": "https://github.com/tangency-labs/solidcore",
-  "description": "A Rust port of NVIDIA's SMLib B-rep kernel (CAD subset): safe, deterministic, wasm-compatible",
-  "homepage": "https://tangency-labs.github.io/solidcore/",
-  "stars": 300,
-  "language": "Rust",
-  "topics": [],
-  "created_at": "2026-10-12T18:35:50Z",
-  "pushed_at": "2026-11-02T23:07:43Z",
-  "query": "cad",
-  "rising": true,
-  "relevant": true,
-  "score": 10,
-  "flags": [
-   "DEMO",
-   "AEC",
-   "WEB",
-   "AI",
-   "RISING"
-  ],
-  "matched": [
-   "b-rep"
-  ],
-  "ai_files": [
-   "AGENTS.md"
-  ],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
- },
- {
-  "id": "gh:filippofinke/cad-studio",
-  "source": "GitHub",
-  "name": "filippofinke/cad-studio",
-  "owner": "filippofinke",
-  "url": "https://github.com/filippofinke/cad-studio",
-  "description": "📐 Describe a part, get a printable model: a native macOS CAD studio powered by Claude Code / Codex and build123d.",
-  "homepage": "https://filippofinke.github.io/cad-studio/",
-  "stars": 33,
-  "language": "Swift",
-  "topics": [
-   "3d-printing",
-   "3mf",
-   "ai",
-   "ai-agents",
-   "anthropic",
-   "build123d",
-   "cad",
-   "claude",
-   "claude-code",
-   "llm",
-   "macos",
-   "parametric-design",
-   "python",
-   "realitykit",
-   "step",
-   "stl",
-   "swift",
-   "swiftui",
-   "technical-drawing"
-  ],
-  "created_at": "2026-10-06T20:24:56Z",
-  "pushed_at": "2026-10-10T12:11:23Z",
-  "query": "cad",
-  "rising": true,
-  "relevant": true,
-  "score": 11,
-  "flags": [
-   "DEMO",
-   "AEC",
-   "AI",
-   "RISING"
-  ],
-  "matched": [
-   "step"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-02T23:12:33Z",
-  "always_publish": false,
-  "eco_min": null
  }
 ]
