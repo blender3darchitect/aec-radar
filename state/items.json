@@ -1,5 +1,1120 @@
 [
  {
+  "id": "gh:jackharvest/shapecraft",
+  "source": "GitHub",
+  "name": "jackharvest/shapecraft",
+  "owner": "jackharvest",
+  "url": "https://github.com/jackharvest/shapecraft",
+  "description": "Open-source, local-first direct-modeling CAD for macOS, Windows and Linux. Opens STEP, IGES, STL, OBJ and .shapr files.",
+  "homepage": "https://jackharvest.com/shapecraft/",
+  "stars": 27,
+  "language": "Rust",
+  "topics": [],
+  "created_at": "2026-11-03T15:39:16Z",
+  "pushed_at": "2026-11-09T14:37:05Z",
+  "query": "cad",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 10,
+  "flags": [
+   "DEMO",
+   "AEC",
+   "AI",
+   "RISING"
+  ],
+  "matched": [
+   "step"
+  ],
+  "ai_files": [
+   "AGENTS.md"
+  ],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:webbot1/singularity-personal-office-space",
+  "source": "GitHub",
+  "name": "webbot1/Singularity-personal-office-space",
+  "owner": "webbot1",
+  "url": "https://github.com/webbot1/Singularity-personal-office-space",
+  "description": "The concept behind the \"Singularity\" program is an all-in-one solution with flexible access: online and web-offline (via a PWA — Progressive Web Application).",
+  "homepage": "https://webbot1.github.io/Singularity-personal-office-space/",
+  "stars": 0,
+  "language": "HTML",
+  "topics": [
+   "autocad",
+   "cad",
+   "dashboard",
+   "dashboards",
+   "kanban",
+   "kanban-board",
+   "notes",
+   "notes-app",
+   "olap",
+   "olap-cube",
+   "sql",
+   "sqlite",
+   "tables",
+   "triz"
+  ],
+  "created_at": "2026-11-09T10:03:33Z",
+  "pushed_at": "2026-11-09T20:58:37Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 9,
+  "flags": [
+   "DEMO",
+   "AEC",
+   "WEB"
+  ],
+  "matched": [
+   "autocad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:mairisskuja/voron-downdraft-interactive-manual",
+  "source": "GitHub",
+  "name": "mairisskuja/voron-downdraft-interactive-manual",
+  "owner": "mairisskuja",
+  "url": "https://github.com/mairisskuja/voron-downdraft-interactive-manual",
+  "description": "Unofficial interactive 3D assembly manual for the VORON DownDraft toolhead: every step of the official manual animated on the official CAD. Not affiliated with VORON Design.",
+  "homepage": "https://iconic-fab.com/voron/downdraft/",
+  "stars": 0,
+  "language": "JavaScript",
+  "topics": [
+   "3d-printer",
+   "3d-printing",
+   "assembly-instructions",
+   "downdraft",
+   "threejs",
+   "toolhead",
+   "voron",
+   "voron-downdraft"
+  ],
+  "created_at": "2026-11-09T19:51:04Z",
+  "pushed_at": "2026-11-09T20:49:40Z",
+  "query": "cad threejs",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 9,
+  "flags": [
+   "DEMO",
+   "AEC",
+   "WEB"
+  ],
+  "matched": [
+   "step"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:mairisskuja/voron-stealthburner-r2-interactive-manual",
+  "source": "GitHub",
+  "name": "mairisskuja/voron-stealthburner-r2-interactive-manual",
+  "owner": "mairisskuja",
+  "url": "https://github.com/mairisskuja/voron-stealthburner-r2-interactive-manual",
+  "description": "Unofficial interactive 3D assembly manual for the VORON Stealthburner with Clockwork 2.5: every step of the official manual animated on the official CAD. Not affiliated with VORON Design.",
+  "homepage": "https://iconic-fab.com/voron/stealthburner/r2/",
+  "stars": 1,
+  "language": "JavaScript",
+  "topics": [
+   "3d-printer",
+   "3d-printing",
+   "assembly-instructions",
+   "stealthburner",
+   "threejs",
+   "toolhead",
+   "voron",
+   "voron-stealthburner"
+  ],
+  "created_at": "2026-11-09T13:21:58Z",
+  "pushed_at": "2026-11-09T18:43:39Z",
+  "query": "cad threejs",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 9,
+  "flags": [
+   "DEMO",
+   "AEC",
+   "WEB"
+  ],
+  "matched": [
+   "step"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:yanarof/blender-solidworks-importer",
+  "source": "GitHub",
+  "name": "yanarof/blender-solidworks-importer",
+  "owner": "yanarof",
+  "url": "https://github.com/yanarof/blender-solidworks-importer",
+  "description": "Import SolidWorks SLDPRT parts and SLDASM assemblies into Blender, without SolidWorks.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "blender",
+   "blender-addon",
+   "blender-extension",
+   "cad",
+   "importer",
+   "sldasm",
+   "sldprt",
+   "solidworks"
+  ],
+  "created_at": "2026-11-09T08:06:04Z",
+  "pushed_at": "2026-11-09T08:37:32Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 9,
+  "flags": [
+   "AEC",
+   "INTEROP",
+   "BLENDER"
+  ],
+  "matched": [
+   "solidworks"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:sadeeqkhan123/webglripper",
+  "source": "GitHub",
+  "name": "sadeeqkhan123/WebGLRipper",
+  "owner": "sadeeqkhan123",
+  "url": "https://github.com/sadeeqkhan123/WebGLRipper",
+  "description": "Rip 3D models and textures from WebGL pages to GLB, OBJ, STL, or USDZ with a browser extension ready for Blender, Unity, and AR.",
+  "homepage": "https://sadeeqkhan123.github.io",
+  "stars": 0,
+  "language": "",
+  "topics": [
+   "3d",
+   "babylonjs",
+   "blender",
+   "browser-extension",
+   "chrome-extension",
+   "extract-3d-model",
+   "glb",
+   "model-extractor",
+   "model-ripper",
+   "obj",
+   "playcanvas",
+   "threejs",
+   "unity-webgl",
+   "webgl",
+   "webgl-ripper",
+   "webgl2"
+  ],
+  "created_at": "2026-11-09T08:15:55Z",
+  "pushed_at": "2026-11-09T08:16:38Z",
+  "query": "blender extension",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 9,
+  "flags": [
+   "DEMO",
+   "WEB",
+   "BLENDER"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:lightants/ca-sketchup",
+  "source": "GitHub",
+  "name": "lightants/ca-sketchup",
+  "owner": "lightants",
+  "url": "https://github.com/lightants/ca-sketchup",
+  "description": "YCS Sketchup: Mindanao terrain modeler with photo overlays, satellite imagery, street maps and SketchUp export.",
+  "homepage": "https://lightants.github.io/ca-sketchup/",
+  "stars": 0,
+  "language": "JavaScript",
+  "topics": [],
+  "created_at": "2026-11-09T08:29:32Z",
+  "pushed_at": "2026-11-09T12:42:40Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "AEC",
+   "SKETCHUP"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:pankti1305/residential-villa-interior-design",
+  "source": "GitHub",
+  "name": "pankti1305/residential-villa-interior-design",
+  "owner": "pankti1305",
+  "url": "https://github.com/pankti1305/residential-villa-interior-design",
+  "description": "Contemporary residential villa interiors: plans, sections, rendered rooms, kitchen and bathroom details. Semester 4 CAD project.",
+  "homepage": "https://pankti1305.github.io",
+  "stars": 0,
+  "language": "",
+  "topics": [
+   "autocad",
+   "interior-design",
+   "photoshop",
+   "residential-design",
+   "sketchup"
+  ],
+  "created_at": "2026-11-09T09:02:07Z",
+  "pushed_at": "2026-11-09T09:02:15Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "sketchup",
+   "autocad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:pankti1305/interior-training-work",
+  "source": "GitHub",
+  "name": "pankti1305/interior-training-work",
+  "owner": "pankti1305",
+  "url": "https://github.com/pankti1305/interior-training-work",
+  "description": "Training work: bedroom and TV unit design options and a wardrobe technical drawing.",
+  "homepage": "https://pankti1305.github.io",
+  "stars": 0,
+  "language": "",
+  "topics": [
+   "autocad",
+   "furniture-design",
+   "interior-design",
+   "technical-drawing"
+  ],
+  "created_at": "2026-11-09T09:03:03Z",
+  "pushed_at": "2026-11-09T09:03:11Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "autocad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:pankti1305/lushe-glow-retail-design",
+  "source": "GitHub",
+  "name": "pankti1305/lushe-glow-retail-design",
+  "owner": "pankti1305",
+  "url": "https://github.com/pankti1305/lushe-glow-retail-design",
+  "description": "Lushe' Glow: a contemporary beauty retail store with physical model, drawings and renders. Semester 4 interior design project.",
+  "homepage": "https://pankti1305.github.io",
+  "stars": 0,
+  "language": "",
+  "topics": [
+   "autocad",
+   "interior-design",
+   "model-making",
+   "retail-design",
+   "store-design"
+  ],
+  "created_at": "2026-11-09T09:01:26Z",
+  "pushed_at": "2026-11-09T09:01:39Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "autocad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:jeronimobareiro/nervi",
+  "source": "GitHub",
+  "name": "jeronimobareiro/nervi",
+  "owner": "jeronimobareiro",
+  "url": "https://github.com/jeronimobareiro/nervi",
+  "description": "Software libre de análisis y dimensionamiento estructural (MEF). Motor en Rust con API en Python.",
+  "homepage": "structural-engineering, finite-element-method, fem, rust, python, pyo3, civil-engineering, bim, open-source",
+  "stars": 0,
+  "language": "Rust",
+  "topics": [
+   "bim",
+   "civil-engineering",
+   "fem",
+   "finite-element-methods",
+   "open-source",
+   "pyo3",
+   "python",
+   "rust",
+   "structural-engineering"
+  ],
+  "created_at": "2026-11-09T16:35:05Z",
+  "pushed_at": "2026-11-09T18:48:09Z",
+  "query": "bim",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [
+   "AGENTS.md",
+   "CLAUDE.md",
+   "GEMINI.md"
+  ],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:aifollowtherabbit/rabbit-hole",
+  "source": "GitHub",
+  "name": "aifollowtherabbit/rabbit-hole",
+  "owner": "aifollowtherabbit",
+  "url": "https://github.com/aifollowtherabbit/rabbit-hole",
+  "description": "Toolkit: digital puppets with skeletons, a wardrobe and a Three.js renderer with frame capture. Exploring what's possible with vibe coding.",
+  "homepage": "https://aifollowtherabbit.com",
+  "stars": 0,
+  "language": "JavaScript",
+  "topics": [
+   "3d",
+   "puppets",
+   "threejs",
+   "vibe-coding",
+   "webgl"
+  ],
+  "created_at": "2026-11-09T17:41:47Z",
+  "pushed_at": "2026-11-09T17:42:08Z",
+  "query": "\"vibe coded\" 3d",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "WEB",
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:mifsopo1/mifblender",
+  "source": "GitHub",
+  "name": "mifsopo1/MifBlender",
+  "owner": "mifsopo1",
+  "url": "https://github.com/mifsopo1/MifBlender",
+  "description": "Your AI assistant, working inside a running Blender: 428 typed MCP tools that check their parameters and read the result back. Free.",
+  "homepage": "https://mifshowcase.store/mifblender",
+  "stars": 1,
+  "language": "Python",
+  "topics": [
+   "3d-modeling",
+   "ai",
+   "blender",
+   "blender-addon",
+   "claude",
+   "mcp",
+   "mcp-server",
+   "model-context-protocol"
+  ],
+  "created_at": "2026-11-09T15:43:59Z",
+  "pushed_at": "2026-11-09T21:27:57Z",
+  "query": "topic:blender-addon",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "BLENDER"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:sofistik-fea/sofistik-software",
+  "source": "GitHub",
+  "name": "SOFiSTiK-FEA/SOFiSTiK-Software",
+  "owner": "SOFiSTiK-FEA",
+  "url": "https://github.com/SOFiSTiK-FEA/SOFiSTiK-Software",
+  "description": "SOFiSTiK FEA connects structural modelling, calculation, and design workflows for buildings and infrastructure. Explore SOFiSTiK Software with BIM and Revit coordination, parametric CADINP input, calculation protocols, modal review, and traceable engineering results.",
+  "homepage": "",
+  "stars": 0,
+  "language": "CMake",
+  "topics": [
+   "automation",
+   "bim",
+   "bridge-engineering",
+   "modal-analysis",
+   "parametric-modeling",
+   "prestressed-concrete",
+   "reinforced-concrete",
+   "structural-analysis",
+   "structural-engineering"
+  ],
+  "created_at": "2026-11-09T08:36:36Z",
+  "pushed_at": "2026-11-09T08:38:55Z",
+  "query": "revit",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "AEC",
+   "INTEROP"
+  ],
+  "matched": [
+   "revit"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:constructelligence-lab/constructbench",
+  "source": "GitHub",
+  "name": "constructelligence-lab/constructbench",
+  "owner": "constructelligence-lab",
+  "url": "https://github.com/constructelligence-lab/constructbench",
+  "description": "Open benchmark of AI models on construction work: 77 generated task families in 17 domains (estimating, scheduling, finance, BIM, safety, contracts and more), strict grading, honest error bars.",
+  "homepage": "https://constructelligence.co",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "aec",
+   "ai-benchmark",
+   "benchmark",
+   "bim",
+   "civil-engineering",
+   "construction",
+   "construction-management",
+   "estimating",
+   "evals",
+   "llm",
+   "llm-evaluation",
+   "scheduling"
+  ],
+  "created_at": "2026-11-09T17:25:15Z",
+  "pushed_at": "2026-11-09T17:25:23Z",
+  "query": "bim",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "DEMO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:radiant803/windfall3d-app",
+  "source": "GitHub",
+  "name": "radiant803/Windfall3D-App",
+  "owner": "radiant803",
+  "url": "https://github.com/radiant803/Windfall3D-App",
+  "description": "Windfall3D: describe the part, get CAD that has been measured. Downloads, guide and issue tracker for the public beta.",
+  "homepage": "https://windfall3d.vercel.app",
+  "stars": 0,
+  "language": "",
+  "topics": [
+   "3d-printing",
+   "ai",
+   "cad",
+   "chatgpt",
+   "claude",
+   "mcp"
+  ],
+  "created_at": "2026-11-09T06:36:36Z",
+  "pushed_at": "2026-11-09T08:56:14Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "DEMO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:warenethereal/rpocket-autodesk-cfd-premium",
+  "source": "GitHub",
+  "name": "WarenEthereal/rpocket-Autodesk-CFD-Premium",
+  "owner": "WarenEthereal",
+  "url": "https://github.com/WarenEthereal/rpocket-Autodesk-CFD-Premium",
+  "description": "Autodesk CFD Premium for Windows — the complete professional build with every module enabled: modeling, drafting, and professional CAD workflows, no edition limits after install.",
+  "homepage": "",
+  "stars": 40,
+  "language": "HTML",
+  "topics": [
+   "2d-drafting",
+   "3d-modeling",
+   "architecture-drafting",
+   "autodesk-cfd-premium",
+   "autodesk-desktop",
+   "autodesk-maya-universal",
+   "autodesk-windows",
+   "blueprint-design",
+   "desktop-cad",
+   "engineering-desktop",
+   "mechanical-design",
+   "parametric-design",
+   "windows-cad"
+  ],
+  "created_at": "2026-11-09T09:46:47Z",
+  "pushed_at": "2026-11-09T09:46:55Z",
+  "query": "cad",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "RISING"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:mezga0153/out-of-square",
+  "source": "GitHub",
+  "name": "mezga0153/out-of-square",
+  "owner": "mezga0153",
+  "url": "https://github.com/mezga0153/out-of-square",
+  "description": "Measure rooms on a tablet: sketch the top view, mark laser measurements in 3D, get the room's real shape for SketchUp",
+  "homepage": "https://outofsquare.tinetov.net",
+  "stars": 0,
+  "language": "JavaScript",
+  "topics": [],
+  "created_at": "2026-11-09T17:58:37Z",
+  "pushed_at": "2026-11-09T17:58:43Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:northlarkhq/awesome-engineering-mcp",
+  "source": "GitHub",
+  "name": "northlarkhq/awesome-engineering-mcp",
+  "owner": "northlarkhq",
+  "url": "https://github.com/northlarkhq/awesome-engineering-mcp",
+  "description": "MCP servers and agent skills for engineering software such as AutoCAD, Revit, PLAXIS, Abaqus and KiCad",
+  "homepage": "https://tresca.app",
+  "stars": 0,
+  "language": "",
+  "topics": [],
+  "created_at": "2026-11-09T09:21:02Z",
+  "pushed_at": "2026-11-09T09:21:08Z",
+  "query": "revit",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "revit",
+   "autocad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:feniuspw/chalecad",
+  "source": "GitHub",
+  "name": "feniuspw/chalecad",
+  "owner": "feniuspw",
+  "url": "https://github.com/feniuspw/chalecad",
+  "description": "Parametric web editor for 3D cabins (light steel frame / wood frame): quantity takeoff, weight, preliminary structural sizing, cost estimate and permit documentation for Brazil",
+  "homepage": "",
+  "stars": 0,
+  "language": "TypeScript",
+  "topics": [
+   "cad",
+   "construction",
+   "light-steel-frame",
+   "nextjs",
+   "react-three-fiber",
+   "threejs",
+   "typescript"
+  ],
+  "created_at": "2026-11-09T16:32:47Z",
+  "pushed_at": "2026-11-09T20:22:02Z",
+  "query": "cad threejs",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "WEB",
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [
+   ".claude",
+   "CLAUDE.md"
+  ],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:nikmanderss/lean-cad-kit",
+  "source": "GitHub",
+  "name": "nikmanderss/lean-cad-kit",
+  "owner": "nikmanderss",
+  "url": "https://github.com/nikmanderss/lean-cad-kit",
+  "description": "A process kit that lets Claude Code make controlled, reviewable edits to FreeCAD solid models: method, kit command, hooks, agents, installer and self-tests.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "3d-printing",
+   "cad",
+   "claude-code",
+   "freecad",
+   "python"
+  ],
+  "created_at": "2026-11-09T14:12:50Z",
+  "pushed_at": "2026-11-09T14:25:38Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "AI"
+  ],
+  "matched": [
+   "freecad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:kiarashmiri22/solidworks-codex",
+  "source": "GitHub",
+  "name": "kiarashmiri22/solidworks-codex",
+  "owner": "kiarashmiri22",
+  "url": "https://github.com/kiarashmiri22/solidworks-codex",
+  "description": "A local Windows MCP plugin that lets Codex build, inspect, and validate SolidWorks parts step by step.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "cad",
+   "codex",
+   "mcp",
+   "python",
+   "solidworks",
+   "windows"
+  ],
+  "created_at": "2026-11-09T11:27:36Z",
+  "pushed_at": "2026-11-09T11:55:35Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "AI"
+  ],
+  "matched": [
+   "solidworks",
+   "step"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:d1rty-pixel/ingetrazo-dynamic-components",
+  "source": "GitHub",
+  "name": "d1rty-pixel/ingetrazo-dynamic-components",
+  "owner": "d1rty-pixel",
+  "url": "https://github.com/d1rty-pixel/ingetrazo-dynamic-components",
+  "description": "Dynamic Components in IngeTrazo",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-11-09T15:03:34Z",
+  "pushed_at": "2026-11-09T16:28:08Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "INGETRAZO",
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [
+   "CLAUDE.md"
+  ],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:bertus37987/rbx-mcp",
+  "source": "GitHub",
+  "name": "bertus37987/rbx-mcp",
+  "owner": "bertus37987",
+  "url": "https://github.com/bertus37987/rbx-mcp",
+  "description": "Roblox Studio MCP for AI agents: 63 tools, zero-dep broker+plugin bridge, terrain/GUI/NPC/animation/lighting, Blender/Mixar upstream routing",
+  "homepage": "",
+  "stars": 0,
+  "language": "Lua",
+  "topics": [],
+  "created_at": "2026-11-09T19:37:05Z",
+  "pushed_at": "2026-11-09T20:15:43Z",
+  "query": "blender plugin",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "INTEROP",
+   "BLENDER"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:tthien3017-gif/spencil-max-converter",
+  "source": "GitHub",
+  "name": "tthien3017-gif/spencil-max-converter",
+  "owner": "tthien3017-gif",
+  "url": "https://github.com/tthien3017-gif/spencil-max-converter",
+  "description": "Chuyen file 3ds Max (.max) sang SketchUp / OBJ / FBX hang loat, co phan tich va toi uu luoi",
+  "homepage": "",
+  "stars": 0,
+  "language": "C#",
+  "topics": [],
+  "created_at": "2026-11-09T12:38:39Z",
+  "pushed_at": "2026-11-09T13:22:52Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC",
+   "INTEROP"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:mfelipedias/limpar-dwg",
+  "source": "GitHub",
+  "name": "mfelipedias/limpar-dwg",
+  "owner": "mfelipedias",
+  "url": "https://github.com/mfelipedias/limpar-dwg",
+  "description": "Limpa o lixo invisível que o nanoCAD deixa nos arquivos DWG e que trava o AutoCAD. Site + motor em Rust, num container Docker.",
+  "homepage": "",
+  "stars": 0,
+  "language": "JavaScript",
+  "topics": [
+   "autocad",
+   "docker",
+   "dwg",
+   "fastapi",
+   "nanocad",
+   "rust"
+  ],
+  "created_at": "2026-11-09T18:29:36Z",
+  "pushed_at": "2026-11-09T18:51:25Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "autocad",
+   "dwg"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:ozdemiroguzhan/citylens",
+  "source": "GitHub",
+  "name": "OzdemirOguzhan/CityLens",
+  "owner": "OzdemirOguzhan",
+  "url": "https://github.com/OzdemirOguzhan/CityLens",
+  "description": "Browser-based 3D viewer for CityGML 1.0 / 2.0 / 3.0 (LOD 0–4). Files stay on your machine — nothing is uploaded.",
+  "homepage": "",
+  "stars": 0,
+  "language": "JavaScript",
+  "topics": [
+   "3d-city-model",
+   "bim",
+   "citygml",
+   "digital-twin",
+   "gis",
+   "lod",
+   "threejs",
+   "viewer",
+   "vite",
+   "webgl"
+  ],
+  "created_at": "2026-11-09T08:46:43Z",
+  "pushed_at": "2026-11-09T18:24:42Z",
+  "query": "bim",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "WEB"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:protastructure-suite/protastructure",
+  "source": "GitHub",
+  "name": "ProtaStructure-Suite/ProtaStructure",
+  "owner": "ProtaStructure-Suite",
+  "url": "https://github.com/ProtaStructure-Suite/ProtaStructure",
+  "description": "ProtaStructure Suite connects structural modeling, analysis, design, and detailing for building projects. Explore protastructure software workflows for BIM coordination, analytical model review, reinforced concrete and steel documentation, and traceable revision handoffs.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "bim",
+   "detailing",
+   "finite-element-analysis",
+   "ifc",
+   "reinforced-concrete",
+   "seismic-analysis",
+   "steel-design",
+   "structural-analysis-software",
+   "structural-engineering"
+  ],
+  "created_at": "2026-11-09T07:24:09Z",
+  "pushed_at": "2026-11-09T07:28:49Z",
+  "query": "ifc",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "ifc"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:hxssank/spark",
+  "source": "GitHub",
+  "name": "hxssank/spark",
+  "owner": "hxssank",
+  "url": "https://github.com/hxssank/spark",
+  "description": "Compact power-bank design study with parametric CAD, a bench boost PCB, and automated geometry and export checks.",
+  "homepage": "",
+  "stars": 0,
+  "language": "JavaScript",
+  "topics": [
+   "cadquery",
+   "electronics",
+   "hardware",
+   "kicad",
+   "pcb-design",
+   "portfolio",
+   "product-design",
+   "threejs"
+  ],
+  "created_at": "2026-11-09T20:03:20Z",
+  "pushed_at": "2026-11-09T21:12:27Z",
+  "query": "cad threejs",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "WEB"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:mochizukishunsuke/solidworks-mcp",
+  "source": "GitHub",
+  "name": "MochizukiShunsuke/solidworks-mcp",
+  "owner": "MochizukiShunsuke",
+  "url": "https://github.com/MochizukiShunsuke/solidworks-mcp",
+  "description": "Unofficial MCP server that lets AI assistants (Claude, GitHub Copilot and other MCP clients) drive SOLIDWORKS: 186 tools, single exe, no macro execution. 日本語版SOLIDWORKS対応",
+  "homepage": "",
+  "stars": 0,
+  "language": "C#",
+  "topics": [
+   "cad",
+   "cad-automation",
+   "claude",
+   "csharp",
+   "mcp",
+   "mcp-server",
+   "model-context-protocol",
+   "solidworks"
+  ],
+  "created_at": "2026-11-09T15:01:42Z",
+  "pushed_at": "2026-11-09T15:40:25Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "solidworks"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:plegasense/diedro",
+  "source": "GitHub",
+  "name": "plegasense/diedro",
+  "owner": "plegasense",
+  "url": "https://github.com/plegasense/diedro",
+  "description": "Diedro: planos de fabricación desde STEP, offline y gratis para Android (GPL-3.0-or-later)",
+  "homepage": "",
+  "stars": 0,
+  "language": "Dart",
+  "topics": [
+   "android",
+   "cad",
+   "flutter",
+   "gpl",
+   "offline",
+   "open-cascade",
+   "step",
+   "technical-drawing"
+  ],
+  "created_at": "2026-11-08T15:20:15Z",
+  "pushed_at": "2026-11-09T15:25:29Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "step"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
+  "id": "gh:couplet-physical-ai/phimech",
+  "source": "GitHub",
+  "name": "couplet-physical-ai/PhiMech",
+  "owner": "couplet-physical-ai",
+  "url": "https://github.com/couplet-physical-ai/PhiMech",
+  "description": "Component-driven enclosure synthesis for electronics (OpenSCAD + FreeCAD backends)",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "cad",
+   "enclosure",
+   "freecad",
+   "mechanical-design",
+   "openscad"
+  ],
+  "created_at": "2026-11-08T20:57:25Z",
+  "pushed_at": "2026-11-09T15:00:07Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "freecad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-09T22:17:09Z"
+ },
+ {
   "id": "gh:benchup3d/editor",
   "source": "GitHub",
   "name": "BenchUp3D/editor",
@@ -1068,7 +2183,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 10,
+  "score": 9,
   "flags": [
    "DEMO",
    "INTEROP",
@@ -1597,7 +2712,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 15,
+  "score": 14,
   "flags": [
    "DEMO",
    "AEC",
@@ -1821,7 +2936,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 11,
+  "score": 10,
   "flags": [
    "DEMO",
    "CLONE",
@@ -1862,7 +2977,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 9,
+  "score": 8,
   "flags": [
    "AEC",
    "CLONE",
@@ -1913,7 +3028,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 9,
+  "score": 8,
   "flags": [
    "DEMO",
    "AEC",
@@ -1951,7 +3066,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "DEMO",
    "AEC"
@@ -1984,7 +3099,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "AEC",
    "SKETCHUP"
@@ -2017,7 +3132,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "AEC",
    "SKETCHUP"
@@ -2060,7 +3175,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "AEC",
    "WEB",
@@ -2110,7 +3225,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "INTEROP",
    "AI"
@@ -2145,7 +3260,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "DEMO"
   ],
@@ -2170,7 +3285,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "DEMO",
    "AEC"
@@ -2198,7 +3313,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "DEMO",
    "AEC"
@@ -2227,7 +3342,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "DEMO",
    "AEC"
@@ -2261,7 +3376,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "DEMO",
    "AEC"
@@ -2289,7 +3404,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "DEMO",
    "AEC"
@@ -2325,7 +3440,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "WEB"
@@ -2368,7 +3483,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "WEB"
@@ -2405,7 +3520,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -2441,7 +3556,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AI"
   ],
@@ -2478,7 +3593,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "BLENDER"
   ],
@@ -2503,7 +3618,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "BLENDER",
    "AI"
@@ -2529,7 +3644,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 4,
+  "score": 3,
   "flags": [
    "BLENDER"
   ],
@@ -2554,7 +3669,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 4,
+  "score": 3,
   "flags": [
    "BLENDER"
   ],
@@ -2579,7 +3694,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 3,
+  "score": 2,
   "flags": [
    "AEC",
    "SKETCHUP"
@@ -2651,7 +3766,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "DEMO",
    "AEC"
@@ -2693,7 +3808,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "AEC",
    "CLONE",
@@ -2733,7 +3848,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "DEMO",
    "WEB"
@@ -2770,7 +3885,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "AEC",
    "CLONE"
@@ -2810,7 +3925,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "DEMO"
   ],
@@ -2843,7 +3958,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "AI"
@@ -2884,7 +3999,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "AI"
@@ -2953,7 +4068,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -2990,7 +4105,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3022,7 +4137,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3054,7 +4169,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3087,7 +4202,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3116,7 +4231,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC",
    "CLONE"
@@ -3144,7 +4259,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC",
    "INTEROP"
@@ -3179,7 +4294,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3217,7 +4332,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [],
   "matched": [],
   "ai_files": [],
@@ -3240,7 +4355,7 @@
   "always_publish": true,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "INGETRAZO"
   ],
@@ -3265,7 +4380,7 @@
   "always_publish": true,
   "eco_min": null,
   "relevant": true,
-  "score": 3,
+  "score": 2,
   "flags": [
    "INGETRAZO"
   ],
@@ -12633,810 +13748,6 @@
   "eco_min": null,
   "relevant": true,
   "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:lucasosantos/faci3d",
-  "source": "GitHub",
-  "name": "lucasosantos/Faci3D",
-  "owner": "lucasosantos",
-  "url": "https://github.com/lucasosantos/Faci3D",
-  "description": "modelador 3D libre para impressão 3D, baseado no IngeTrazo",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-13T15:09:44Z",
-  "pushed_at": "2026-10-19T23:30:19Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:42craft3d-oss/ingetrazo-automacao",
-  "source": "GitHub",
-  "name": "42craft3d-oss/ingetrazo-automacao",
-  "owner": "42craft3d-oss",
-  "url": "https://github.com/42craft3d-oss/ingetrazo-automacao",
-  "description": "Automação linear e rotacional de componentes para o IngeTrazo.",
-  "homepage": "",
-  "stars": 1,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-19T02:43:24Z",
-  "pushed_at": "2026-10-19T21:06:25Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:pesi3d/ingetrazo-weld",
-  "source": "GitHub",
-  "name": "PESI3D/ingetrazo-weld",
-  "owner": "PESI3D",
-  "url": "https://github.com/PESI3D/ingetrazo-weld",
-  "description": "Weld: join loose edges into curves and close small gaps. Plugin for IngeTrazo.",
-  "homepage": "",
-  "stars": 3,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-04T22:16:23Z",
-  "pushed_at": "2026-10-19T14:10:38Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:pesi3d/ingetrazo-plan-import",
-  "source": "GitHub",
-  "name": "PESI3D/ingetrazo-plan-import",
-  "owner": "PESI3D",
-  "url": "https://github.com/PESI3D/ingetrazo-plan-import",
-  "description": "Plan Import for IngeTrazo — floor plans and whole plan sets from vector PDFs at scale: stacked storeys, upright elevations/sections, auto crop, reference point, levels and layers. Live preview.",
-  "homepage": "",
-  "stars": 3,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-14T20:36:55Z",
-  "pushed_at": "2026-10-19T13:55:11Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:pesi3d/ingetrazo-array",
-  "source": "GitHub",
-  "name": "PESI3D/ingetrazo-array",
-  "owner": "PESI3D",
-  "url": "https://github.com/PESI3D/ingetrazo-array",
-  "description": "Array tool for IngeTrazo – copies in 1D/2D/3D with move, rotate and scale per copy, like the 3ds Max Array dialog.",
-  "homepage": "",
-  "stars": 2,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-03T11:53:08Z",
-  "pushed_at": "2026-10-19T13:55:05Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:pesi3d/ingetrazo-proxies",
-  "source": "GitHub",
-  "name": "PESI3D/ingetrazo-proxies",
-  "owner": "PESI3D",
-  "url": "https://github.com/PESI3D/ingetrazo-proxies",
-  "description": "Proxies for IngeTrazo: swap heavy objects for light proxies (box, convex hull, vertex cloud, reduced original); originals saved as .igz and swapped back with one click.",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-14T20:26:47Z",
-  "pushed_at": "2026-10-19T13:54:32Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:pesi3d/ingetrazo-path-select",
-  "source": "GitHub",
-  "name": "PESI3D/ingetrazo-path-select",
-  "owner": "PESI3D",
-  "url": "https://github.com/PESI3D/ingetrazo-path-select",
-  "description": "Path Select for IngeTrazo: click along a contour, the shortest way along the edges is selected",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-05T10:22:55Z",
-  "pushed_at": "2026-10-19T13:54:25Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:pesi3d/ingetrazo-membrane",
-  "source": "GitHub",
-  "name": "PESI3D/ingetrazo-membrane",
-  "owner": "PESI3D",
-  "url": "https://github.com/PESI3D/ingetrazo-membrane",
-  "description": "Membrane: tensile minimal surfaces (tents, sails, pressurised cushions) from a loop of edges. Plugin for IngeTrazo.",
-  "homepage": "",
-  "stars": 2,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-04T22:22:55Z",
-  "pushed_at": "2026-10-19T13:54:21Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:cdblue999/visuite",
-  "source": "GitHub",
-  "name": "cdblue999/visuite",
-  "owner": "cdblue999",
-  "url": "https://github.com/cdblue999/visuite",
-  "description": "vi-suite for IngeTrazo",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-18T07:45:58Z",
-  "pushed_at": "2026-10-18T08:25:41Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:prida-takon/debim-ingetrazo",
-  "source": "GitHub",
-  "name": "PRIDA-TAKON/debim-ingetrazo",
-  "owner": "PRIDA-TAKON",
-  "url": "https://github.com/PRIDA-TAKON/debim-ingetrazo",
-  "description": "extention debim for ingetrazo",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-17T08:57:27Z",
-  "pushed_at": "2026-10-18T05:02:33Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:kristianzimmermann69-sys/ingetrazo-deutsch",
-  "source": "GitHub",
-  "name": "kristianzimmermann69-sys/IngeTrazo-Deutsch",
-  "owner": "kristianzimmermann69-sys",
-  "url": "https://github.com/kristianzimmermann69-sys/IngeTrazo-Deutsch",
-  "description": "Inoffizielle deutsche Sprachdatei (Deutsch.json) für das 3D-Programm IngeTrazo.",
-  "homepage": "",
-  "stars": 0,
-  "language": "",
-  "topics": [],
-  "created_at": "2026-10-16T23:16:34Z",
-  "pushed_at": "2026-10-17T00:14:35Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:apbureauetude/ingetrazo-custom-icons",
-  "source": "GitHub",
-  "name": "APBureauEtude/ingetrazo-custom-icons",
-  "owner": "APBureauEtude",
-  "url": "https://github.com/APBureauEtude/ingetrazo-custom-icons",
-  "description": "Pour remplacer les icones de Ingetrazo par de nouvelles icones",
-  "homepage": "",
-  "stars": 4,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-11T20:41:24Z",
-  "pushed_at": "2026-10-14T23:25:48Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:archviz360/ingetrazo-360--render-plugin-",
-  "source": "GitHub",
-  "name": "Archviz360/IngeTrazo-360--render-plugin-",
-  "owner": "Archviz360",
-  "url": "https://github.com/Archviz360/IngeTrazo-360--render-plugin-",
-  "description": "A render plugin for IngeTrazo that lets you create 360 degree pictures of your interiors",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-10T22:48:52Z",
-  "pushed_at": "2026-10-13T02:32:47Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:sanask24/ui-colores-space",
-  "source": "GitHub",
-  "name": "sanask24/ui-colores-space",
-  "owner": "sanask24",
-  "url": "https://github.com/sanask24/ui-colores-space",
-  "description": "Extensión de IngeTrazo: herramientas por colores y buscador de comandos con Espacio",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-11T10:01:19Z",
-  "pushed_at": "2026-10-11T10:02:59Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:seghier/ingetrazoperspectivematcher",
-  "source": "GitHub",
-  "name": "seghier/IngeTrazoPerspectiveMatcher",
-  "owner": "seghier",
-  "url": "https://github.com/seghier/IngeTrazoPerspectiveMatcher",
-  "description": "IngeTrazo Perspective Match",
-  "homepage": "",
-  "stars": 2,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-05T14:18:27Z",
-  "pushed_at": "2026-10-08T08:35:22Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:sudhanva-gh/isolate-unisolate-ingetrazo-plugin",
-  "source": "GitHub",
-  "name": "sudhanva-gh/isolate-unisolate-ingetrazo-plugin",
-  "owner": "sudhanva-gh",
-  "url": "https://github.com/sudhanva-gh/isolate-unisolate-ingetrazo-plugin",
-  "description": "Plugin to isolate or un-isolate grouped objects in ingetrazo. The plugin adds two icons for isolate and un-isolate. It also adds a menu item in the extensions drop down menu.",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-07T13:11:22Z",
-  "pushed_at": "2026-10-07T13:20:15Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:seghier/ingetrazo-organize-toolbar",
-  "source": "GitHub",
-  "name": "seghier/ingetrazo-organize-toolbar",
-  "owner": "seghier",
-  "url": "https://github.com/seghier/ingetrazo-organize-toolbar",
-  "description": "Custom toolbar",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-05T14:31:11Z",
-  "pushed_at": "2026-10-06T16:33:15Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:ingelibre/ingetrazo-benchmark-models",
-  "source": "GitHub",
-  "name": "ingelibre/ingetrazo-benchmark-models",
-  "owner": "ingelibre",
-  "url": "https://github.com/ingelibre/ingetrazo-benchmark-models",
-  "description": "Real models to measure IngeTrazo's performance on — entries (links + SHA-256), not files",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-04T12:34:06Z",
-  "pushed_at": "2026-10-04T12:34:10Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:seghier/ingetrazocomfyuirenderer",
-  "source": "GitHub",
-  "name": "seghier/IngeTrazoComfyUIRenderer",
-  "owner": "seghier",
-  "url": "https://github.com/seghier/IngeTrazoComfyUIRenderer",
-  "description": "IngeTrazo ComfyUI Renderer",
-  "homepage": "",
-  "stars": 3,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-02T23:24:38Z",
-  "pushed_at": "2026-10-03T05:46:40Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:42craft3d-oss/ingetrazo-vertex-editor",
-  "source": "GitHub",
-  "name": "42craft3d-oss/ingetrazo-vertex-editor",
-  "owner": "42craft3d-oss",
-  "url": "https://github.com/42craft3d-oss/ingetrazo-vertex-editor",
-  "description": "Editor de vértices para IngeTrazo: movimiento preciso, bloqueo de ejes y unión de puntos coincidentes.",
-  "homepage": "",
-  "stars": 2,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-02T18:27:16Z",
-  "pushed_at": "2026-10-02T18:37:50Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:3djlchb/igz_animacion",
-  "source": "GitHub",
-  "name": "3djlchb/igz_animacion",
-  "owner": "3djlchb",
-  "url": "https://github.com/3djlchb/igz_animacion",
-  "description": "Prueba de plugin para crear animaciones en IngeTrazo de forma nativa sin necesidad de terceros.",
-  "homepage": "",
-  "stars": 0,
-  "language": "",
-  "topics": [],
-  "created_at": "2026-09-30T16:09:43Z",
-  "pushed_at": "2026-09-30T16:09:45Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:seghier/rhinoigzimporterplugin",
-  "source": "GitHub",
-  "name": "seghier/RhinoIgzImporterPlugin",
-  "owner": "seghier",
-  "url": "https://github.com/seghier/RhinoIgzImporterPlugin",
-  "description": "Import IngeTrazo .igz",
-  "homepage": "",
-  "stars": 0,
-  "language": "C#",
-  "topics": [],
-  "created_at": "2026-09-30T15:51:53Z",
-  "pushed_at": "2026-09-30T16:03:43Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:ronyleonel6/ingetrazo-propiedades-poligono",
-  "source": "GitHub",
-  "name": "Ronyleonel6/ingetrazo-propiedades-poligono",
-  "owner": "Ronyleonel6",
-  "url": "https://github.com/Ronyleonel6/ingetrazo-propiedades-poligono",
-  "description": "Plugin para IngeTrazo: área, perímetro, centroide y momentos de segundo orden del polígono seleccionado.",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-09-30T13:48:10Z",
-  "pushed_at": "2026-09-30T14:32:25Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:gokuldc/ingetrazo-blender-sync",
-  "source": "GitHub",
-  "name": "gokuldc/IngeTrazo-blender-sync",
-  "owner": "gokuldc",
-  "url": "https://github.com/gokuldc/IngeTrazo-blender-sync",
-  "description": "",
-  "homepage": "",
-  "stars": 1,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-09-26T11:44:09Z",
-  "pushed_at": "2026-09-26T13:28:41Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INTEROP",
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:stb1cluny/polyfidget",
-  "source": "GitHub",
-  "name": "stb1Cluny/PolyFidget",
-  "owner": "stb1Cluny",
-  "url": "https://github.com/stb1Cluny/PolyFidget",
-  "description": "PolyFidget: Blender 5.2 extension for parametric print-in-place nested fidgets",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-31T22:30:55Z",
-  "pushed_at": "2026-11-02T21:57:52Z",
-  "query": "blender extension",
-  "always_publish": false,
-  "eco_min": 3,
-  "relevant": true,
-  "score": 3,
-  "flags": [
-   "BLENDER"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:bakstaaj/sketchup-2017-plugins",
-  "source": "GitHub",
-  "name": "bakstaaj/Sketchup-2017-Plugins",
-  "owner": "bakstaaj",
-  "url": "https://github.com/bakstaaj/Sketchup-2017-Plugins",
-  "description": "",
-  "homepage": "",
-  "stars": 0,
-  "language": "Ruby",
-  "topics": [],
-  "created_at": "2026-11-01T22:22:52Z",
-  "pushed_at": "2026-11-01T22:31:04Z",
-  "query": "sketchup",
-  "always_publish": false,
-  "eco_min": 3,
-  "relevant": true,
-  "score": 2,
-  "flags": [
-   "AEC",
-   "SKETCHUP"
-  ],
-  "matched": [
-   "sketchup"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:pesi3d/ingetrazo-walls",
-  "source": "GitHub",
-  "name": "PESI3D/ingetrazo-walls",
-  "owner": "PESI3D",
-  "url": "https://github.com/PESI3D/ingetrazo-walls",
-  "description": "",
-  "homepage": "",
-  "stars": 1,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-18T14:44:55Z",
-  "pushed_at": "2026-10-19T13:54:27Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 3,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:sanjaya3d/blender-measure-overlay",
-  "source": "GitHub",
-  "name": "sanjaya3d/blender-measure-overlay",
-  "owner": "sanjaya3d",
-  "url": "https://github.com/sanjaya3d/blender-measure-overlay",
-  "description": "Blender add-on that shows live dimensions and vertex/edge/face counts right in the 3D viewport, with multi-selection support, Edit Mode counts, and an optional face budget.",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-31T07:48:40Z",
-  "pushed_at": "2026-10-31T08:39:43Z",
-  "query": "blender add-on",
-  "always_publish": false,
-  "eco_min": 3,
-  "relevant": true,
-  "score": 3,
-  "flags": [
-   "BLENDER"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:namo8845/emo-ingetrazo-thai",
-  "source": "GitHub",
-  "name": "Namo8845/EMO-IngeTrazo-Thai",
-  "owner": "Namo8845",
-  "url": "https://github.com/Namo8845/EMO-IngeTrazo-Thai",
-  "description": "",
-  "homepage": "",
-  "stars": 1,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-20T03:56:17Z",
-  "pushed_at": "2026-10-21T03:35:01Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 2,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:jrrobredo/ingetrazo-crear-cara",
-  "source": "GitHub",
-  "name": "jrrobredo/ingetrazo-crear-cara",
-  "owner": "jrrobredo",
-  "url": "https://github.com/jrrobredo/ingetrazo-crear-cara",
-  "description": "",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-20T14:35:47Z",
-  "pushed_at": "2026-10-20T14:37:21Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 2,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:em-rezende/ingetrazo-igz-uv",
-  "source": "GitHub",
-  "name": "em-rezende/Ingetrazo-igz-uv",
-  "owner": "em-rezende",
-  "url": "https://github.com/em-rezende/Ingetrazo-igz-uv",
-  "description": "",
-  "homepage": "",
-  "stars": 1,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-11T21:48:05Z",
-  "pushed_at": "2026-10-13T12:06:25Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 2,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T01:00:06Z"
- },
- {
-  "id": "gh:vemcjardim/lista-de-corte-plugin-ingetrazo",
-  "source": "GitHub",
-  "name": "vemcjardim/lista-de-corte-plugin-ingetrazo",
-  "owner": "vemcjardim",
-  "url": "https://github.com/vemcjardim/lista-de-corte-plugin-ingetrazo",
-  "description": "",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-10-13T02:36:10Z",
-  "pushed_at": "2026-10-13T02:53:02Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 2,
   "flags": [
    "INGETRAZO"
   ],
