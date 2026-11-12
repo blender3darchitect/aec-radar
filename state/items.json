@@ -1,5 +1,919 @@
 [
  {
+  "id": "gh:jhorguen/control-de-obra-sobre-modelo-bim",
+  "source": "GitHub",
+  "name": "Jhorguen/Control-de-obra-sobre-modelo-BIM",
+  "owner": "Jhorguen",
+  "url": "https://github.com/Jhorguen/Control-de-obra-sobre-modelo-BIM",
+  "description": "Construction progress control on a BIM model: in-browser IFC viewer, quantity takeoff, unit-price budget in COP and element-by-element progress with an S-curve dashboard. React, That Open/Three.js, Express, Prisma, PostgreSQL.",
+  "homepage": "https://control-de-obra-sobre-modelo-bim.vercel.app",
+  "stars": 0,
+  "language": "TypeScript",
+  "topics": [
+   "bim",
+   "ifc",
+   "postgresql",
+   "prisma",
+   "quantity-takeoff",
+   "react",
+   "threejs",
+   "typescript"
+  ],
+  "created_at": "2026-11-10T00:21:31Z",
+  "pushed_at": "2026-11-12T07:27:37Z",
+  "query": "ifc",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 9,
+  "flags": [
+   "DEMO",
+   "AEC",
+   "WEB"
+  ],
+  "matched": [
+   "ifc"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:goyodsgn/param-cabinet",
+  "source": "GitHub",
+  "name": "goyodsgn/param-cabinet",
+  "owner": "goyodsgn",
+  "url": "https://github.com/goyodsgn/param-cabinet",
+  "description": "AI-generated parametric CAD (CadQuery) for kitchen cabinets, checked against design rules. By Jeongyeon Kim.",
+  "homepage": "https://jeongyeon.framer.website/project/ai-parametric-cabinet-live",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "cad",
+   "cadquery",
+   "claude",
+   "computational-design",
+   "furniture-design",
+   "llm",
+   "parametric-design",
+   "threejs"
+  ],
+  "created_at": "2026-11-11T11:51:42Z",
+  "pushed_at": "2026-11-12T13:15:13Z",
+  "query": "cad threejs",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 9,
+  "flags": [
+   "DEMO",
+   "WEB",
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:adithyanraj03/dsh-blender-preview",
+  "source": "GitHub",
+  "name": "adithyanraj03/dsh-blender-preview",
+  "owner": "adithyanraj03",
+  "url": "https://github.com/adithyanraj03/dsh-blender-preview",
+  "description": "Scaffold for a DeepSeek Harness Blender preview plugin: one host row, no UI yet, no network calls, no telemetry; depends on dsh-blender@^0.2.4 — boot self-check only, logs the mount command if not installed/mounted (non-mutating); planned feature: .blend to cached local GLB via local Blender; no postinstall; uninstall removes the row.",
+  "homepage": "https://adithyanraj03.github.io/dsh-blender-preview/",
+  "stars": 0,
+  "language": "JavaScript",
+  "topics": [
+   "3d",
+   "blender",
+   "dsh",
+   "dsh-plugin",
+   "preview",
+   "webgl"
+  ],
+  "created_at": "2026-11-12T12:50:46Z",
+  "pushed_at": "2026-11-12T13:49:45Z",
+  "query": "blender plugin",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 9,
+  "flags": [
+   "DEMO",
+   "WEB",
+   "BLENDER"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:ioextend/plaio",
+  "source": "GitHub",
+  "name": "IOExtend/PlaIO",
+  "owner": "IOExtend",
+  "url": "https://github.com/IOExtend/PlaIO",
+  "description": "Reads the container of Archicad files (.pla, .pln, .bimx) without Archicad. Pure managed .NET library and CLI.",
+  "homepage": "https://ioextend.github.io/PlaIO/",
+  "stars": 0,
+  "language": "C#",
+  "topics": [
+   "archicad",
+   "archicad-reader",
+   "bim",
+   "bimx",
+   "cli",
+   "csharp",
+   "dotnet",
+   "file-parser",
+   "pla",
+   "pln"
+  ],
+  "created_at": "2026-11-12T07:38:18Z",
+  "pushed_at": "2026-11-12T09:07:22Z",
+  "query": "archicad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "archicad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:juw12/tolstack",
+  "source": "GitHub",
+  "name": "juw12/tolstack",
+  "owner": "juw12",
+  "url": "https://github.com/juw12/tolstack",
+  "description": "1-D tolerance stack-up from a STEP assembly + 2D PDF drawings: ranked chains, WC/RSS/Cpk/Monte Carlo, Excel report with live formulas. Web app + CLI.",
+  "homepage": "https://juw12.github.io/p/tolstack/",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "cad",
+   "excel",
+   "gd-t",
+   "mechanical-engineering",
+   "opencascade",
+   "python",
+   "step",
+   "streamlit",
+   "tolerance-analysis",
+   "tolerance-stackup"
+  ],
+  "created_at": "2026-11-12T12:13:21Z",
+  "pushed_at": "2026-11-12T12:37:59Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "step",
+   "opencascade"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:khromov/simple-3d-modeling-mcp",
+  "source": "GitHub",
+  "name": "khromov/simple-3d-modeling-mcp",
+  "owner": "khromov",
+  "url": "https://github.com/khromov/simple-3d-modeling-mcp",
+  "description": "MCP server that lets AI assistants create, preview and export 3D models with OpenSCAD — zero setup, BOSL2 included",
+  "homepage": "https://www.npmjs.com/package/@khromov/simple-3d-modeling-mcp",
+  "stars": 0,
+  "language": "TypeScript",
+  "topics": [
+   "3d-modeling",
+   "3d-printing",
+   "bosl2",
+   "cad",
+   "claude",
+   "mcp",
+   "model-context-protocol",
+   "openscad"
+  ],
+  "created_at": "2026-11-12T07:06:01Z",
+  "pushed_at": "2026-11-12T07:27:17Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [
+   "AGENTS.md"
+  ],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:harventop/ingetrazo-board-studio",
+  "source": "GitHub",
+  "name": "harventop/ingetrazo-board-studio",
+  "owner": "harventop",
+  "url": "https://github.com/harventop/ingetrazo-board-studio",
+  "description": "Parametric panel generator for ingetrazo to automate furniture and cabinetry design.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "3dmodelling",
+   "cabinetry",
+   "furniture-design",
+   "ingetrazo",
+   "ingetrazo-extension",
+   "parametric-design",
+   "python3",
+   "woodworking"
+  ],
+  "created_at": "2026-11-12T14:29:39Z",
+  "pushed_at": "2026-11-12T14:40:52Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:farmer-ant/fancy-pencil",
+  "source": "GitHub",
+  "name": "farmer-ant/fancy-Pencil",
+  "owner": "farmer-ant",
+  "url": "https://github.com/farmer-ant/fancy-Pencil",
+  "description": "This is a Drafting program i call Fancy Pencil.  It works very much like Autocad.",
+  "homepage": "https://snapcraft.io/fancypencil",
+  "stars": 0,
+  "language": "Common Lisp",
+  "topics": [],
+  "created_at": "2026-11-11T21:23:22Z",
+  "pushed_at": "2026-11-12T01:35:04Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "autocad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:giiirey/ifc24",
+  "source": "GitHub",
+  "name": "giiirey/Ifc24",
+  "owner": "giiirey",
+  "url": "https://github.com/giiirey/Ifc24",
+  "description": "A desktop application for opening and exploring IFC (Industry Foundation Classes). The app is built with Tauri 2, Rust, and React, and uses IfcOpenShell on the back end to parse IFC models and extract geometry.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Rust",
+  "topics": [
+   "ifc",
+   "ifc-viewer"
+  ],
+  "created_at": "2026-11-12T11:21:50Z",
+  "pushed_at": "2026-11-12T11:23:24Z",
+  "query": "ifc",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "AI"
+  ],
+  "matched": [
+   "ifc",
+   "ifcopenshell"
+  ],
+  "ai_files": [
+   "AGENTS.md"
+  ],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:getnodalia/torno",
+  "source": "GitHub",
+  "name": "getnodalia/torno",
+  "owner": "getnodalia",
+  "url": "https://github.com/getnodalia/torno",
+  "description": "Early-stage parametric 3D CAD application built on SolidCraft in Rust, with constrained sketches, solid modeling, and STEP workflows.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Rust",
+  "topics": [
+   "3d-modeling",
+   "cad",
+   "desktop-application",
+   "nodalia",
+   "parametric-cad",
+   "rust",
+   "solid-modeling",
+   "solidcraft",
+   "step"
+  ],
+  "created_at": "2026-11-10T15:57:13Z",
+  "pushed_at": "2026-11-12T14:25:28Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "AI"
+  ],
+  "matched": [
+   "step"
+  ],
+  "ai_files": [
+   "AGENTS.md",
+   "CLAUDE.md"
+  ],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:itsleighton/su-concrete-yardage",
+  "source": "GitHub",
+  "name": "itsleighton/SU-Concrete-Yardage",
+  "owner": "itsleighton",
+  "url": "https://github.com/itsleighton/SU-Concrete-Yardage",
+  "description": "SketchUp extension that reports solid volume in cubic yards, the unit a ready-mix plant takes an order in",
+  "homepage": "",
+  "stars": 0,
+  "language": "Ruby",
+  "topics": [],
+  "created_at": "2026-11-12T13:32:07Z",
+  "pushed_at": "2026-11-12T13:48:42Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC",
+   "SKETCHUP"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:arn17254/creador-superficies-arn",
+  "source": "GitHub",
+  "name": "Arn17254/creador-superficies-arn",
+  "owner": "Arn17254",
+  "url": "https://github.com/Arn17254/creador-superficies-arn",
+  "description": "Plugin de SketchUp para dibujar directamente sobre superficies del modelo. Desarrollado por A.R.N Constructora S.A.S. (Pasto, Colombia).",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [],
+  "created_at": "2026-11-12T12:49:54Z",
+  "pushed_at": "2026-11-12T12:49:56Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC",
+   "SKETCHUP"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:archerprojects/sketchsmith",
+  "source": "GitHub",
+  "name": "archerprojects/sketchsmith",
+  "owner": "archerprojects",
+  "url": "https://github.com/archerprojects/sketchsmith",
+  "description": "SketchSmith is a light 3D sketching application for Linux, in the spirit of SketchUp's push-and-pull modelling. Draw an idea quickly with inference snapping and typed dimensions, then hand it off to Blender, a slicer, CAD software, or a dimensioned drawing for a builder.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Rust",
+  "topics": [],
+  "created_at": "2026-11-12T11:20:21Z",
+  "pushed_at": "2026-11-12T11:42:01Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC",
+   "CLONE"
+  ],
+  "matched": [
+   "sketchup"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:yingzixu233/doorlab",
+  "source": "GitHub",
+  "name": "yingzixu233/DoorLab",
+  "owner": "yingzixu233",
+  "url": "https://github.com/yingzixu233/DoorLab",
+  "description": "Explore, score, and apply interior door layouts in Autodesk Revit.",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [
+   "architecture",
+   "bim",
+   "optimization",
+   "revit"
+  ],
+  "created_at": "2026-11-12T07:36:33Z",
+  "pushed_at": "2026-11-12T07:44:05Z",
+  "query": "revit",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "revit"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:inno-arq/claude-revit-bridge",
+  "source": "GitHub",
+  "name": "inno-arq/claude-revit-bridge",
+  "owner": "inno-arq",
+  "url": "https://github.com/inno-arq/claude-revit-bridge",
+  "description": "Connect Autodesk Revit to Claude AI with one click",
+  "homepage": "",
+  "stars": 0,
+  "language": "PowerShell",
+  "topics": [],
+  "created_at": "2026-11-12T03:40:35Z",
+  "pushed_at": "2026-11-12T03:46:58Z",
+  "query": "revit",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC",
+   "INTEROP"
+  ],
+  "matched": [
+   "revit"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:foad-aghasi/weldnum",
+  "source": "GitHub",
+  "name": "FOAD-AGHASI/WELDNUM",
+  "owner": "FOAD-AGHASI",
+  "url": "https://github.com/FOAD-AGHASI/WELDNUM",
+  "description": "AutoLISP tool for AutoCAD that automatically numbers welds on piping isometric sheets by flow direction: OLET, BRANCH, PAD, TEE and supports, with batch mode and Excel weld history.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Common Lisp",
+  "topics": [
+   "autocad",
+   "autolisp",
+   "construction",
+   "dwg",
+   "engineering-automation",
+   "isometric",
+   "piping",
+   "piping-engineering",
+   "weld-numbering",
+   "welding"
+  ],
+  "created_at": "2026-11-12T05:44:13Z",
+  "pushed_at": "2026-11-12T06:18:14Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "autocad",
+   "dwg"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:yomikawa-rakuei/mech-design-ai-skills",
+  "source": "GitHub",
+  "name": "Yomikawa-Rakuei/mech-design-ai-skills",
+  "owner": "Yomikawa-Rakuei",
+  "url": "https://github.com/Yomikawa-Rakuei/mech-design-ai-skills",
+  "description": "Five open-source AI skills for mechanical design (text-to-cad, SolidWorks, CAE, AutoCAD, TIA Portal), surveyed and wired into one workflow",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [
+   "ai-agents",
+   "autocad",
+   "cad",
+   "cae",
+   "mcp",
+   "mechanical-design",
+   "solidworks",
+   "tia-portal"
+  ],
+  "created_at": "2026-11-12T05:13:06Z",
+  "pushed_at": "2026-11-12T05:35:33Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "autocad",
+   "solidworks"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:arhamsancheti/cad-blender-unreal-auto-flat",
+  "source": "GitHub",
+  "name": "arhamsancheti/CAD-BLENDER-UNREAL-auto-flat",
+  "owner": "arhamsancheti",
+  "url": "https://github.com/arhamsancheti/CAD-BLENDER-UNREAL-auto-flat",
+  "description": "CAD-BLENDER-UNREAL (Auto Flat) — Automated 2D CAD / DWG / DXF / PDF / DOCX / Image Floor Plan to Clean Quad Editable 3D Architectural Flat for Blender, Unreal Engine 5 & 3ds Max",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "3d-generation",
+   "3ds-max",
+   "architecture",
+   "bim",
+   "blender",
+   "cad",
+   "dwg",
+   "dxf",
+   "floor-plan",
+   "python",
+   "unreal-engine-5"
+  ],
+  "created_at": "2026-11-12T07:36:02Z",
+  "pushed_at": "2026-11-12T08:02:10Z",
+  "query": "bim",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "dxf",
+   "dwg"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:dongjinkui72-create/engineering-assistant",
+  "source": "GitHub",
+  "name": "dongjinkui72-create/engineering-assistant",
+  "owner": "dongjinkui72-create",
+  "url": "https://github.com/dongjinkui72-create/engineering-assistant",
+  "description": "零件图纸 → UG/NX · SolidWorks · CATIA 自动建模 → NC 加工程序（Windows 桌面工具，半成品）",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "automation",
+   "cad",
+   "cam",
+   "catia",
+   "engineering",
+   "gcode",
+   "pyqt6",
+   "python",
+   "siemens-nx",
+   "solidworks"
+  ],
+  "created_at": "2026-11-12T11:52:20Z",
+  "pushed_at": "2026-11-12T11:52:43Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "solidworks"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:muditatrey/onshape-mcp-archive",
+  "source": "GitHub",
+  "name": "MuditAtrey/onshape-mcp-archive",
+  "owner": "MuditAtrey",
+  "url": "https://github.com/MuditAtrey/onshape-mcp-archive",
+  "description": "Model Context Protocol (MCP) server for inspecting, generating, and editing parametric 3D CAD models in Onshape.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "cad",
+   "featurescript",
+   "gemini",
+   "mcp",
+   "onshape"
+  ],
+  "created_at": "2026-11-11T16:06:58Z",
+  "pushed_at": "2026-11-12T08:50:19Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "onshape"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:sezabart/depthbed",
+  "source": "GitHub",
+  "name": "sezabart/depthbed",
+  "owner": "sezabart",
+  "url": "https://github.com/sezabart/depthbed",
+  "description": "A flatbed scanner made from a depth camera: rectified photo + 1:1 DXF outline for CAD.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "3d-scanning",
+   "cad",
+   "depthai",
+   "dxf",
+   "luxonis",
+   "metrology",
+   "oak-d",
+   "opencv",
+   "orthophoto",
+   "python"
+  ],
+  "created_at": "2026-11-12T08:08:34Z",
+  "pushed_at": "2026-11-12T08:08:41Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "dxf"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:dreamsdrny/cad-view",
+  "source": "GitHub",
+  "name": "dreamsdrny/CAD-View",
+  "owner": "dreamsdrny",
+  "url": "https://github.com/dreamsdrny/CAD-View",
+  "description": "CAD-View · C++20 / Qt 6 原生二维 CAD 工作台：DXF 读写、几何编辑、PCB/FPC 工程检查（Python 0.1 原型已归档在 legacy/python）",
+  "homepage": "",
+  "stars": 0,
+  "language": "C++",
+  "topics": [
+   "cad",
+   "cmake",
+   "cpp20",
+   "dxf",
+   "engineering-analysis",
+   "fpc",
+   "pcb",
+   "qt6"
+  ],
+  "created_at": "2026-11-12T05:42:37Z",
+  "pushed_at": "2026-11-12T07:14:46Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "dxf"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:tr163/step-thickness-dxf",
+  "source": "GitHub",
+  "name": "tr163/step-thickness-dxf",
+  "owner": "tr163",
+  "url": "https://github.com/tr163/step-thickness-dxf",
+  "description": "Batch-convert STEP/STP flat parts into thickness-grouped cutting DXFs — drag & drop ready（把 STEP/STP 里的平板件批量压平成切割轮廓 DXF，按板厚自动分组，拖拽即用）",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "cad",
+   "cadquery",
+   "cnc",
+   "dxf",
+   "laser-cutting",
+   "python",
+   "sheet-metal",
+   "step",
+   "stp",
+   "windows"
+  ],
+  "created_at": "2026-11-12T05:09:57Z",
+  "pushed_at": "2026-11-12T05:15:24Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "dxf",
+   "step"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:ezeren76neptune/solidworks-wine",
+  "source": "GitHub",
+  "name": "ezeren76neptune/solidworks-wine",
+  "owner": "ezeren76neptune",
+  "url": "https://github.com/ezeren76neptune/solidworks-wine",
+  "description": "Run 3DEXPERIENCE SOLIDWORKS for Makers (R2026x) natively on Linux under Wine: wrapper, Wine fixes, install scripts and guide",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "3dexperience",
+   "cad",
+   "linux",
+   "solidworks",
+   "wine"
+  ],
+  "created_at": "2026-11-12T03:39:38Z",
+  "pushed_at": "2026-11-12T04:53:09Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "solidworks"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:floresax/stretch-vertices",
+  "source": "GitHub",
+  "name": "floresax/stretch-vertices",
+  "owner": "floresax",
+  "url": "https://github.com/floresax/stretch-vertices",
+  "description": "IngeTrazo extension: select vertices of groups and components with a window and move them (stretch)",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-11-12T09:36:09Z",
+  "pushed_at": "2026-11-12T10:25:35Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:matthew-myers/home-twin",
+  "source": "GitHub",
+  "name": "Matthew-Myers/home-twin",
+  "owner": "Matthew-Myers",
+  "url": "https://github.com/Matthew-Myers/home-twin",
+  "description": "Claude Code plugin: room scan + walkthrough videos -> Blender floorplan, room models and lit renders",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-11-12T14:15:42Z",
+  "pushed_at": "2026-11-12T14:33:22Z",
+  "query": "blender plugin",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "BLENDER",
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
+  "id": "gh:devdipe/anymodel-blender-addon",
+  "source": "GitHub",
+  "name": "devdipe/AnyModel-Blender-Addon",
+  "owner": "devdipe",
+  "url": "https://github.com/devdipe/AnyModel-Blender-Addon",
+  "description": "Blender add-on for building AnyModel avatars and exporting/editing .avanim actions for Minecraft. Dev builds; Minecraft JAR is distributed separately on CurseForge.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-11-12T10:23:10Z",
+  "pushed_at": "2026-11-12T10:32:52Z",
+  "query": "blender addon",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "BLENDER"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-12T15:06:24Z"
+ },
+ {
   "id": "gh:dsalesarchitect/arch3d",
   "source": "GitHub",
   "name": "dsalesarchitect/arch3d",
@@ -2579,7 +3493,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 9,
+  "score": 8,
   "flags": [
    "DEMO",
    "AEC",
@@ -2663,7 +3577,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "DEMO",
    "AEC"
@@ -2907,7 +3821,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "DEMO",
    "AEC"
@@ -3211,7 +4125,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3322,7 +4236,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC",
    "INTEROP"
@@ -3356,7 +4270,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3497,7 +4411,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "AEC",
    "SKETCHUP"
@@ -3533,7 +4447,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "AEC",
    "CLONE"
@@ -3636,7 +4550,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "WEB"
@@ -3668,7 +4582,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC",
    "SKETCHUP"
@@ -3696,7 +4610,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC",
    "SKETCHUP"
@@ -3759,7 +4673,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3796,7 +4710,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "WEB"
   ],
@@ -3832,7 +4746,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -13513,987 +14427,5 @@
    ".claude"
   ],
   "found_at": "2026-11-04T06:10:43Z"
- },
- {
-  "id": "gh:snake393/polyforge-3d",
-  "source": "GitHub",
-  "name": "snake393/polyforge-3d",
-  "owner": "snake393",
-  "url": "https://github.com/snake393/polyforge-3d",
-  "description": "The free all-in-one 3D creation suite for Windows — model, sculpt, animate, render and edit video in a single app. · polyforge 3d · 3d modeling software · 3d sculpting software · 3d animation software · 3d rendering software · vfx software · video editing software · compositing software · motion tracking software · rigging software",
-  "homepage": "",
-  "stars": 0,
-  "language": "",
-  "topics": [
-   "blender-3d",
-   "blender-addon",
-   "blender-alternative",
-   "blender-animation",
-   "blender-artist",
-   "blender-compositing",
-   "blender-for-windows",
-   "blender-modeling",
-   "blender-motion-tracking",
-   "blender-pipeline",
-   "blender-plugins",
-   "blender-rendering",
-   "blender-rigging",
-   "blender-sculpting",
-   "blender-simulation",
-   "blender-studio",
-   "blender-tutorial",
-   "blender-vfx",
-   "blender-video-editing",
-   "blender-workflow"
-  ],
-  "created_at": "2026-11-03T19:48:33Z",
-  "pushed_at": "2026-11-03T19:49:02Z",
-  "query": "topic:blender-addon",
-  "always_publish": false,
-  "eco_min": 3,
-  "relevant": true,
-  "score": 5,
-  "flags": [
-   "CLONE",
-   "BLENDER"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-04T06:10:43Z"
- },
- {
-  "id": "gh:4fusionlab/planara",
-  "source": "GitHub",
-  "name": "4FusionLab/Planara",
-  "owner": "4FusionLab",
-  "url": "https://github.com/4FusionLab/Planara",
-  "description": "Planned Fusion 360 surface-flattening add-in to unfold solid-body faces into 2D layouts. Early development; not available for download.",
-  "homepage": "",
-  "stars": 1,
-  "language": "",
-  "topics": [
-   "3d-to-2d",
-   "autodesk-fusion",
-   "cad",
-   "fusion-360",
-   "fusion360-addin",
-   "surface-flattening",
-   "surface-unfolding",
-   "unfolding"
-  ],
-  "created_at": "2026-11-01T09:30:00Z",
-  "pushed_at": "2026-11-04T05:36:16Z",
-  "query": "topic:cad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AEC"
-  ],
-  "matched": [
-   "fusion 360"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-04T06:10:43Z"
- },
- {
-  "id": "gh:rexspex/agent-tool-openscad",
-  "source": "GitHub",
-  "name": "RexSpex/agent-tool-openscad",
-  "owner": "RexSpex",
-  "url": "https://github.com/RexSpex/agent-tool-openscad",
-  "description": "OpenSCAD desktop and MCP in Docker. Local agent setup, parametric design, previews, and STL exports.",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [
-   "ai-agents",
-   "cad",
-   "docker",
-   "mcp",
-   "openscad"
-  ],
-  "created_at": "2026-11-03T16:12:24Z",
-  "pushed_at": "2026-11-03T16:35:53Z",
-  "query": "topic:cad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AI"
-  ],
-  "matched": [],
-  "ai_files": [
-   "AGENTS.md"
-  ],
-  "found_at": "2026-11-04T06:10:43Z"
- },
- {
-  "id": "gh:portalstudio3d/deep-paint-v1.3.1-for-ingetrazo",
-  "source": "GitHub",
-  "name": "portalstudio3D/Deep-Paint-v1.3.1-For-IngeTrazo",
-  "owner": "portalstudio3D",
-  "url": "https://github.com/portalstudio3D/Deep-Paint-v1.3.1-For-IngeTrazo",
-  "description": "Deep Paint, the productivity extension that allows applying materials, textures, and colors directly to faces inside groups and components without opening each container.",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-11-03T22:53:46Z",
-  "pushed_at": "2026-11-03T22:54:50Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-04T06:10:43Z"
- },
- {
-  "id": "gh:gregcarreno3d-dev/quadforge-vivaldi",
-  "source": "GitHub",
-  "name": "gregcarreno3d-dev/quadforge-vivaldi",
-  "owner": "gregcarreno3d-dev",
-  "url": "https://github.com/gregcarreno3d-dev/quadforge-vivaldi",
-  "description": "QuadForge: Blender add-on and FORGE C++ engine for quad and triangle remeshing.",
-  "homepage": "",
-  "stars": 0,
-  "language": "C++",
-  "topics": [
-   "3d-modeling",
-   "blender",
-   "blender-addons",
-   "cpp",
-   "python",
-   "quad-remesh",
-   "remesh",
-   "retopology"
-  ],
-  "created_at": "2026-11-01T00:32:06Z",
-  "pushed_at": "2026-11-04T02:10:48Z",
-  "query": "blender add-on",
-  "always_publish": false,
-  "eco_min": 3,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "BLENDER"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-04T06:10:43Z"
- },
- {
-  "id": "cb:chiphead/cutlist",
-  "source": "Codeberg",
-  "name": "chiphead/cutlist",
-  "owner": "chiphead",
-  "url": "https://codeberg.org/chiphead/cutlist",
-  "description": "CutList plugin for Trimble SketchUp",
-  "homepage": "",
-  "stars": 0,
-  "language": "Ruby",
-  "topics": [],
-  "created_at": "2026-11-04T01:31:16+01:00",
-  "pushed_at": "2026-11-04T01:31:26+01:00",
-  "query": "sketchup",
-  "always_publish": false,
-  "eco_min": 3,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AEC",
-   "SKETCHUP"
-  ],
-  "matched": [
-   "sketchup"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-04T06:10:43Z"
- },
- {
-  "id": "gh:bas-automation-services/gusset",
-  "source": "GitHub",
-  "name": "Bas-Automation-Services/gusset",
-  "owner": "Bas-Automation-Services",
-  "url": "https://github.com/Bas-Automation-Services/gusset",
-  "description": "Open sheet metal kernel in Rust, built on OpenGeometry",
-  "homepage": "https://bas-automation-services.github.io/gusset/",
-  "stars": 0,
-  "language": "Rust",
-  "topics": [
-   "autodesk-inventor",
-   "bend-allowance",
-   "brep",
-   "cad",
-   "cad-kernel",
-   "computational-geometry",
-   "dxf",
-   "flat-pattern",
-   "geometry-kernel",
-   "k-factor",
-   "manufacturing",
-   "mechanical-engineering",
-   "parametric-cad",
-   "rust",
-   "sheet-metal",
-   "step",
-   "svg",
-   "unfolding",
-   "wasm",
-   "webassembly"
-  ],
-  "created_at": "2026-11-01T18:10:10Z",
-  "pushed_at": "2026-11-02T13:43:57Z",
-  "query": "topic:cad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 8,
-  "flags": [
-   "DEMO",
-   "AEC",
-   "WEB"
-  ],
-  "matched": [
-   "dxf",
-   "step",
-   "brep"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-03T19:28:52Z"
- },
- {
-  "id": "gh:lexvdpoel/volura",
-  "source": "GitHub",
-  "name": "Lexvdpoel/Volura",
-  "owner": "Lexvdpoel",
-  "url": "https://github.com/Lexvdpoel/Volura",
-  "description": "Easy 3D design for 3D printing, laser cutting and CNC - SketchUp-style push/pull, multicolour 3MF, SVG/DXF. Windows and Linux.",
-  "homepage": "https://volura.dev",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-11-03T08:45:54Z",
-  "pushed_at": "2026-11-03T15:55:03Z",
-  "query": "sketchup",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 7,
-  "flags": [
-   "DEMO",
-   "AEC",
-   "CLONE"
-  ],
-  "matched": [
-   "sketchup",
-   "dxf"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-03T19:28:52Z"
- },
- {
-  "id": "gh:2ez4gcx/construction-autocad-mcp",
-  "source": "GitHub",
-  "name": "2ez4gcx/construction-autocad-mcp",
-  "owner": "2ez4gcx",
-  "url": "https://github.com/2ez4gcx/construction-autocad-mcp",
-  "description": "Construction AutoCAD MCP: let Claude and other AI assistants draw Vietnamese construction sets in AutoCAD - plans from images, architecture (KT), structure (KC) with a TCVN calculation, interior (NT), live Excel quantities, sheets and PDF. Claude Desktop extension (.mcpb) + .NET bridge for AutoCAD 2021-2024.",
-  "homepage": "",
-  "stars": 0,
-  "language": "JavaScript",
-  "topics": [
-   "ai-tools",
-   "architecture",
-   "autocad",
-   "autocad-plugin",
-   "bim",
-   "claude",
-   "claude-code",
-   "claude-desktop",
-   "construction",
-   "dotnet",
-   "interior-design",
-   "mcp",
-   "mcp-server",
-   "mcpb",
-   "model-context-protocol",
-   "nodejs",
-   "quantity-takeoff",
-   "structural-engineering"
-  ],
-  "created_at": "2026-11-03T04:34:23Z",
-  "pushed_at": "2026-11-03T08:43:35Z",
-  "query": "autocad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 7,
-  "flags": [
-   "AEC",
-   "INTEROP",
-   "AI"
-  ],
-  "matched": [
-   "autocad"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-03T19:28:52Z"
- },
- {
-  "id": "gh:arcthanhbinhtran-ai/ihl",
-  "source": "GitHub",
-  "name": "arcthanhbinhtran-ai/ihl",
-  "owner": "arcthanhbinhtran-ai",
-  "url": "https://github.com/arcthanhbinhtran-ai/ihl",
-  "description": "IHL — free AutoCAD plugin: batch PDF printing by drawing frame or layout tab. In PDF hàng loạt cho AutoCAD.",
-  "homepage": "https://arcthanhbinhtran-ai.github.io/m5studio/chi-tiet.html?id=ihl",
-  "stars": 0,
-  "language": "",
-  "topics": [
-   "autocad",
-   "autocad-plugin",
-   "batch-plot",
-   "cad",
-   "pdf",
-   "urban-planning"
-  ],
-  "created_at": "2026-11-02T04:28:45Z",
-  "pushed_at": "2026-11-03T08:27:51Z",
-  "query": "autocad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 7,
-  "flags": [
-   "DEMO",
-   "AEC"
-  ],
-  "matched": [
-   "autocad"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-03T19:28:52Z"
- },
- {
-  "id": "gh:arcthanhbinhtran-ai/alo",
-  "source": "GitHub",
-  "name": "arcthanhbinhtran-ai/alo",
-  "owner": "arcthanhbinhtran-ai",
-  "url": "https://github.com/arcthanhbinhtran-ai/alo",
-  "description": "ALO — free AutoCAD plugin: batch layouts, drawing sets, title block fields, sheet sets (.dst), whole-set PDF. Layout, bộ bản vẽ, sheet set cho AutoCAD.",
-  "homepage": "https://arcthanhbinhtran-ai.github.io/m5studio/chi-tiet.html?id=alo",
-  "stars": 0,
-  "language": "",
-  "topics": [
-   "autocad",
-   "autocad-plugin",
-   "cad",
-   "layout",
-   "pdf",
-   "sheet-set"
-  ],
-  "created_at": "2026-11-02T03:02:33Z",
-  "pushed_at": "2026-11-03T08:27:49Z",
-  "query": "autocad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 7,
-  "flags": [
-   "DEMO",
-   "AEC"
-  ],
-  "matched": [
-   "autocad"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-03T19:28:52Z"
- },
- {
-  "id": "gh:proshkinm/houscape",
-  "source": "GitHub",
-  "name": "ProshkinM/Houscape",
-  "owner": "ProshkinM",
-  "url": "https://github.com/ProshkinM/Houscape",
-  "description": "Interactive 3D home and visual floor-plan editor for Home Assistant",
-  "homepage": "https://proshkinm.github.io/Houscape/",
-  "stars": 0,
-  "language": "JavaScript",
-  "topics": [
-   "floorplan",
-   "hacs",
-   "home-assistant",
-   "lovelace",
-   "smart-home",
-   "threejs"
-  ],
-  "created_at": "2026-11-03T11:36:38Z",
-  "pushed_at": "2026-11-03T13:52:26Z",
-  "query": "\"floor plan\" editor",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 7,
-  "flags": [
-   "DEMO",
-   "WEB"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T19:28:52Z"
- },
- {
-  "id": "gh:leotorrealba/morphe",
-  "source": "GitHub",
-  "name": "leotorrealba/morphe",
-  "owner": "leotorrealba",
-  "url": "https://github.com/leotorrealba/morphe",
-  "description": "OpenSCAD-compatible parametric CAD with a built-in AI agent (Rust + Tauri)",
-  "homepage": "http://kratostech.net",
-  "stars": 0,
-  "language": "Rust",
-  "topics": [
-   "3d-printing",
-   "ai",
-   "cad",
-   "manifold",
-   "openscad",
-   "rust",
-   "tauri"
-  ],
-  "created_at": "2026-11-03T11:47:04Z",
-  "pushed_at": "2026-11-03T18:56:20Z",
-  "query": "\"parametric cad\"",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 7,
-  "flags": [
-   "DEMO",
-   "AEC"
-  ],
-  "matched": [
-   "manifold"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-03T19:28:52Z"
- },
- {
-  "id": "gh:strvsn/ulsa-evo-3d-models",
-  "source": "GitHub",
-  "name": "strvsn/ulsa-evo-3d-models",
-  "owner": "strvsn",
-  "url": "https://github.com/strvsn/ulsa-evo-3d-models",
-  "description": "Simplified ULSA EVO exterior STEP model for accessory design and visualization. Reference-use license; sensor reproduction manufacturing is not licensed.",
-  "homepage": "https://ulsa-evo.strvsn.net/",
-  "stars": 0,
-  "language": "",
-  "topics": [
-   "3d-model",
-   "anemometer",
-   "cad",
-   "reference-model",
-   "step",
-   "ulsa-evo"
-  ],
-  "created_at": "2026-11-03T14:25:15Z",
-  "pushed_at": "2026-11-03T14:50:20Z",
-  "query": "topic:cad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 7,
-  "flags": [
-   "DEMO",
-   "AEC"
-  ],
-  "matched": [
-   "step"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-03T19:28:52Z"
- },
- {
-  "id": "gh:akash8585/interior-studio-handover-resources",
-  "source": "GitHub",
-  "name": "Akash8585/interior-studio-handover-resources",
-  "owner": "Akash8585",
-  "url": "https://github.com/Akash8585/interior-studio-handover-resources",
-  "description": "Sample quantity data, CAD handover checklist and project brief template from Offload To Us.",
-  "homepage": "https://offloadtous.com/guides/teak-2bhk-quantity-takeoff-methodology",
-  "stars": 0,
-  "language": "Python",
-  "topics": [
-   "cad",
-   "interior-design",
-   "quantity-takeoff",
-   "templates"
-  ],
-  "created_at": "2026-11-03T17:40:55Z",
-  "pushed_at": "2026-11-03T17:41:02Z",
-  "query": "topic:cad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 6,
-  "flags": [
-   "DEMO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T19:28:52Z"
- },
- {
-  "id": "gh:coachpo/pi-rack",
-  "source": "GitHub",
-  "name": "coachpo/pi-rack",
-  "owner": "coachpo",
-  "url": "https://github.com/coachpo/pi-rack",
-  "description": "Parametric R09 SBC rack, magnetic/nonmagnetic covers, and Orange Pi 5 Max thermal plates",
-  "homepage": "https://coachpo.github.io/pi-rack/",
-  "stars": 0,
-  "language": "HTML",
-  "topics": [
-   "3d-printing",
-   "cad",
-   "cadquery",
-   "cnc",
-   "open-source-hardware",
-   "orange-pi",
-   "orange-pi-5",
-   "raspberry-pi",
-   "raspberry-pi-5",
-   "sbc-rack",
-   "single-board-computer"
-  ],
-  "created_at": "2026-11-03T15:32:55Z",
-  "pushed_at": "2026-11-03T15:45:41Z",
-  "query": "topic:cad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 6,
-  "flags": [
-   "DEMO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T19:28:52Z"
- },
- {
-  "id": "gl:david049355/sketchup-desktop",
-  "source": "GitLab",
-  "name": "david049355/sketchup-desktop",
-  "owner": "david049355",
-  "url": "https://gitlab.com/david049355/sketchup-desktop",
-  "description": "Local Windows and macOS helper for Sketchup project paths, preset and export caches, and export folders.\n\nSetup & download: https://telegra.ph/axldxzx-08-10",
-  "homepage": "",
-  "stars": 0,
-  "language": "",
-  "topics": [
-   "download-sketchup",
-   "download-trimble-sketchup",
-   "free-sketchup",
-   "free-trimble-sketchup",
-   "installer-sketchup",
-   "pc-sketchup",
-   "setup-sketchup",
-   "sketchup",
-   "sketchup-download",
-   "sketchup-free",
-   "sketchup-installer",
-   "sketchup-pc",
-   "sketchup-setup",
-   "sketchup-windows",
-   "trimble-sketchup",
-   "trimble-sketchup-download",
-   "trimble-sketchup-free",
-   "trimble-sketchup-windows",
-   "windows-sketchup",
-   "windows-trimble-sketchup"
-  ],
-  "created_at": "2026-11-03T10:53:52.422Z",
-  "pushed_at": "2026-11-03T10:53:52.323Z",
-  "query": "sketchup",
-  "always_publish": false,
-  "eco_min": 3,
-  "relevant": true,
-  "score": 6,
-  "flags": [
-   "AEC",
-   "SKETCHUP"
-  ],
-  "matched": [
-   "sketchup"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-03T19:28:52Z"
- },
- {
-  "id": "gl:zthomas9847/sketchup-desktop",
-  "source": "GitLab",
-  "name": "zthomas9847/sketchup-desktop",
-  "owner": "zthomas9847",
-  "url": "https://gitlab.com/zthomas9847/sketchup-desktop",
-  "description": "Local Windows and macOS helper for Sketchup project paths, preset and export caches, and export folders.\n\nSetup & download: https://telegra.ph/axldxzx-08-10",
-  "homepage": "",
-  "stars": 0,
-  "language": "",
-  "topics": [
-   "download-sketchup",
-   "download-trimble-sketchup",
-   "free-sketchup",
-   "free-trimble-sketchup",
-   "installer-sketchup",
-   "pc-sketchup",
-   "setup-sketchup",
-   "sketchup",
-   "sketchup-download",
-   "sketchup-free",
-   "sketchup-installer",
-   "sketchup-pc",
-   "sketchup-setup",
-   "sketchup-windows",
-   "trimble-sketchup",
-   "trimble-sketchup-download",
-   "trimble-sketchup-free",
-   "trimble-sketchup-windows",
-   "windows-sketchup",
-   "windows-trimble-sketchup"
-  ],
-  "created_at": "2026-11-03T10:42:41.172Z",
-  "pushed_at": "2026-11-03T10:42:40.957Z",
-  "query": "sketchup",
-  "always_publish": false,
-  "eco_min": 3,
-  "relevant": true,
-  "score": 6,
-  "flags": [
-   "AEC",
-   "SKETCHUP"
-  ],
-  "matched": [
-   "sketchup"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-03T19:28:52Z"
- },
- {
-  "id": "gh:tclin2311/site-model-auto",
-  "source": "GitHub",
-  "name": "TCLIN2311/site-model-auto",
-  "owner": "TCLIN2311",
-  "url": "https://github.com/TCLIN2311/site-model-auto",
-  "description": "用經緯度自動產生台灣基地周邊 3D 鄰房白模＋地形（SketchUp / DXF / OBJ）",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [
-   "3d-model",
-   "architecture",
-   "claude-code-skill",
-   "gis",
-   "sketchup",
-   "taiwan"
-  ],
-  "created_at": "2026-11-03T09:28:11Z",
-  "pushed_at": "2026-11-03T10:10:08Z",
-  "query": "sketchup",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 5,
-  "flags": [
-   "AEC",
-   "AI"
-  ],
-  "matched": [
-   "sketchup",
-   "dxf"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-03T19:28:52Z"
- },
- {
-  "id": "gh:petarstoev02/archicad-mcp",
-  "source": "GitHub",
-  "name": "PetarStoev02/archicad-mcp",
-  "owner": "PetarStoev02",
-  "url": "https://github.com/PetarStoev02/archicad-mcp",
-  "description": "Demo MCP server that lets Claude, Codex and other AI agents drive a running Archicad (25+) via its JSON API and the Tapir add-on",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [
-   "archicad",
-   "bim",
-   "mcp",
-   "model-context-protocol"
-  ],
-  "created_at": "2026-11-03T07:11:36Z",
-  "pushed_at": "2026-11-03T07:11:41Z",
-  "query": "archicad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 5,
-  "flags": [
-   "AEC",
-   "AI"
-  ],
-  "matched": [
-   "archicad"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-03T19:28:52Z"
- },
- {
-  "id": "gh:nomad-bri/dsh-product-model-compare",
-  "source": "GitHub",
-  "name": "NOMAD-bri/dsh-product-model-compare",
-  "owner": "NOMAD-bri",
-  "url": "https://github.com/NOMAD-bri/dsh-product-model-compare",
-  "description": "Local STEP/STL/OBJ 3D workbench plugin for DeepSeek Harness: single or dual model viewing, pose dimensions, face alignment, part isolation and temporary measurements. No library, no uploads.",
-  "homepage": "",
-  "stars": 0,
-  "language": "JavaScript",
-  "topics": [
-   "3d-viewer",
-   "cad",
-   "dsh",
-   "dsh-plugin",
-   "measurement",
-   "opencascade",
-   "step",
-   "threejs"
-  ],
-  "created_at": "2026-11-03T08:22:32Z",
-  "pushed_at": "2026-11-03T08:29:53Z",
-  "query": "cad threejs",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 5,
-  "flags": [
-   "AEC",
-   "WEB"
-  ],
-  "matched": [
-   "step",
-   "opencascade"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-03T19:28:52Z"
- },
- {
-  "id": "gh:kamish76/to-fusion-skill-sets",
-  "source": "GitHub",
-  "name": "Kamish76/To-Fusion-Skill-Sets",
-  "owner": "Kamish76",
-  "url": "https://github.com/Kamish76/To-Fusion-Skill-Sets",
-  "description": "Autonomous Autodesk Fusion 360 parametric CAD skills & rulesets for AI agents (Antigravity, Claude Code, Cursor)",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [
-   "ai-agents",
-   "antigravity",
-   "cad",
-   "claude-code",
-   "fusion-360",
-   "mcp",
-   "parametric-cad",
-   "skills"
-  ],
-  "created_at": "2026-11-03T12:32:27Z",
-  "pushed_at": "2026-11-03T18:08:43Z",
-  "query": "\"parametric cad\"",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 5,
-  "flags": [
-   "AEC",
-   "AI"
-  ],
-  "matched": [
-   "fusion 360"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-03T19:28:52Z"
- },
- {
-  "id": "gh:ogollas-lab/luxprint",
-  "source": "GitHub",
-  "name": "Ogollas-lab/LuxPrint",
-  "owner": "Ogollas-lab",
-  "url": "https://github.com/Ogollas-lab/LuxPrint",
-  "description": "LuxPrint is a browser-based, zero-install parametric CAD studio for designing custom, watertight, 3D-printable lamp shades and lanterns.",
-  "homepage": "luxprint-studio-pyplhoyrr-steve-2a21.vercel.app",
-  "stars": 0,
-  "language": "HTML",
-  "topics": [],
-  "created_at": "2026-11-03T09:40:07Z",
-  "pushed_at": "2026-11-03T10:02:32Z",
-  "query": "\"parametric cad\"",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 5,
-  "flags": [
-   "DEMO",
-   "WEB"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T19:28:52Z"
- },
- {
-  "id": "gh:lilmill2000/magnusim-cad",
-  "source": "GitHub",
-  "name": "Lilmill2000/Magnusim-CAD",
-  "owner": "Lilmill2000",
-  "url": "https://github.com/Lilmill2000/Magnusim-CAD",
-  "description": "Free CAD app for Windows: parametric sketches and solids, STEP import and export, and an optional AI Assistant. The CAD edition of Magnusim.",
-  "homepage": "",
-  "stars": 0,
-  "language": "TypeScript",
-  "topics": [
-   "cad",
-   "electron",
-   "opencascade",
-   "parametric-cad",
-   "step",
-   "webassembly",
-   "windows"
-  ],
-  "created_at": "2026-11-03T15:02:18Z",
-  "pushed_at": "2026-11-03T15:02:30Z",
-  "query": "topic:cad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 5,
-  "flags": [
-   "AEC",
-   "WEB"
-  ],
-  "matched": [
-   "step",
-   "opencascade"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-03T19:28:52Z"
- },
- {
-  "id": "gh:darioila/myhouse",
-  "source": "GitHub",
-  "name": "darioila/myHouse",
-  "owner": "darioila",
-  "url": "https://github.com/darioila/myHouse",
-  "description": "architectural plugin for Ingetrazo",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-11-03T18:20:09Z",
-  "pushed_at": "2026-11-03T18:40:08Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 5,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-03T19:28:52Z"
- },
- {
-  "id": "gh:juliannafagundes/meu-escritorio-jf",
-  "source": "GitHub",
-  "name": "juliannafagundes/meu-escritorio-JF",
-  "owner": "juliannafagundes",
-  "url": "https://github.com/juliannafagundes/meu-escritorio-JF",
-  "description": "Atualizações do plugin JF - Meu Escritório (SketchUp)",
-  "homepage": "",
-  "stars": 0,
-  "language": "",
-  "topics": [],
-  "created_at": "2026-11-03T13:10:20Z",
-  "pushed_at": "2026-11-03T13:23:09Z",
-  "query": "sketchup",
-  "always_publish": false,
-  "eco_min": 3,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AEC",
-   "SKETCHUP"
-  ],
-  "matched": [
-   "sketchup"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-03T19:28:52Z"
- },
- {
-  "id": "gh:purebusiness/archicad-latest-version-2026",
-  "source": "GitHub",
-  "name": "PureBusiness/Archicad-Latest-Version-2026",
-  "owner": "PureBusiness",
-  "url": "https://github.com/PureBusiness/Archicad-Latest-Version-2026",
-  "description": "⭐️ Archicad Archi Cad | License 2026 | Version 2026 | BIM Cad Tools Mastery | Offline Installer Instant ⭐️",
-  "homepage": "",
-  "stars": 1,
-  "language": "",
-  "topics": [
-   "archicad",
-   "archicad-2026",
-   "archicad-28-2026",
-   "archicad-29-2-1",
-   "archicad-api",
-   "archicad-download",
-   "archicad-download-bim-software-windows",
-   "archicad-lizenz",
-   "architectural-design",
-   "bimcloud",
-   "cornell-box",
-   "engineering-desktop",
-   "graphisoft-archicad-install-setup-windows-2026",
-   "ifc-validation",
-   "ifc4",
-   "pim",
-   "revit",
-   "rhino-plugin",
-   "tekla"
-  ],
-  "created_at": "2026-11-03T16:53:22Z",
-  "pushed_at": "2026-11-03T16:54:14Z",
-  "query": "revit",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AEC"
-  ],
-  "matched": [
-   "revit",
-   "archicad",
-   "rhino",
-   "ifc"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-03T19:28:52Z"
  }
 ]
