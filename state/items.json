@@ -1,5 +1,581 @@
 [
  {
+  "id": "gh:georgy-hook/xyka-pro-atlas",
+  "source": "GitHub",
+  "name": "Georgy-hook/xyka-pro-atlas",
+  "owner": "Georgy-hook",
+  "url": "https://github.com/Georgy-hook/xyka-pro-atlas",
+  "description": "Explore the XKAH Pro / XYKA PRO in 3D: 660 selectable parts, a removable battery, two editable circuit boards and 13 teardown stages. An independent atlas in English, Russian and Simplified Chinese.",
+  "homepage": "https://georgy-hook.github.io/xyka-pro-atlas/",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "3d-viewer",
+   "cad",
+   "freecad",
+   "gltf",
+   "kicad",
+   "reverse-engineering",
+   "teardown",
+   "webgl"
+  ],
+  "created_at": "2026-11-18T16:45:24Z",
+  "pushed_at": "2026-11-18T19:11:39Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 9,
+  "flags": [
+   "DEMO",
+   "AEC",
+   "WEB"
+  ],
+  "matched": [
+   "freecad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-18T20:27:01Z"
+ },
+ {
+  "id": "gh:ddxplayz/aerovision",
+  "source": "GitHub",
+  "name": "DDXPlayz/aerovision",
+  "owner": "DDXPlayz",
+  "url": "https://github.com/DDXPlayz/aerovision",
+  "description": "Drop a CAD export in the browser and see a STEM Racing car's airflow and an aerodynamic assessment of its shape. Measures real geometry; an empirical mapping, not a CFD solver — and says so.",
+  "homepage": "https://tools.anantamracing.com/aerovision",
+  "stars": 0,
+  "language": "TypeScript",
+  "topics": [
+   "aerodynamics",
+   "react",
+   "stem-racing",
+   "threejs",
+   "typescript",
+   "webgl"
+  ],
+  "created_at": "2026-11-18T15:00:30Z",
+  "pushed_at": "2026-11-18T15:00:39Z",
+  "query": "cad threejs",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "WEB"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-18T20:27:01Z"
+ },
+ {
+  "id": "gh:ddxplayz/techverify",
+  "source": "GitHub",
+  "name": "DDXPlayz/techverify",
+  "owner": "DDXPlayz",
+  "url": "https://github.com/DDXPlayz/techverify",
+  "description": "Upload a CAD export and get a full STEM Racing regulation compliance report in-browser. Deterministic geometry — anything it cannot prove is reported as needing manual verification, never guessed.",
+  "homepage": "https://tools.anantamracing.com/techverify",
+  "stars": 0,
+  "language": "TypeScript",
+  "topics": [
+   "cad",
+   "geometry",
+   "react",
+   "stem-racing",
+   "threejs",
+   "typescript"
+  ],
+  "created_at": "2026-11-18T14:54:12Z",
+  "pushed_at": "2026-11-18T14:54:22Z",
+  "query": "cad threejs",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "WEB"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-18T20:27:01Z"
+ },
+ {
+  "id": "gh:shaunprice/kerfkite",
+  "source": "GitHub",
+  "name": "ShaunPrice/KerfKite",
+  "owner": "ShaunPrice",
+  "url": "https://github.com/ShaunPrice/KerfKite",
+  "description": "KerfKite Studio — open-source CAD/CAM for CNC routers, lasers and drag knives.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "cad",
+   "cam",
+   "cnc",
+   "drag-knife",
+   "gcode",
+   "laser-cutting",
+   "raspberry-pi"
+  ],
+  "created_at": "2026-11-18T11:21:59Z",
+  "pushed_at": "2026-11-18T14:22:47Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "CLONE",
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [
+   "AGENTS.md"
+  ],
+  "found_at": "2026-11-18T20:27:01Z"
+ },
+ {
+  "id": "gh:kavyagupta03july-svg/why-doesn-t-autocad-have-a-full-ai-design-assistant-yet--blog",
+  "source": "GitHub",
+  "name": "kavyagupta03july-svg/Why-Doesn-t-AutoCAD-Have-a-Full-AI-Design-Assistant-Yet--Blog",
+  "owner": "kavyagupta03july-svg",
+  "url": "https://github.com/kavyagupta03july-svg/Why-Doesn-t-AutoCAD-Have-a-Full-AI-Design-Assistant-Yet--Blog",
+  "description": "An in-depth blog post examining why AutoCAD lacks a fully autonomous AI design assistant—covering legacy DWG file constraints, precision engineering requirements, and the future of generative CAD workflows.",
+  "homepage": "https://why-doesn-t-auto-cad-have-a-full-ai.vercel.app",
+  "stars": 0,
+  "language": "TypeScript",
+  "topics": [],
+  "created_at": "2026-11-18T15:54:33Z",
+  "pushed_at": "2026-11-18T16:01:22Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "autocad",
+   "dwg"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-18T20:27:01Z"
+ },
+ {
+  "id": "gh:shah-vansh/interioriq",
+  "source": "GitHub",
+  "name": "Shah-Vansh/interioriq",
+  "owner": "Shah-Vansh",
+  "url": "https://github.com/Shah-Vansh/interioriq",
+  "description": "Local, zero-cost platform for turnkey interior projects — CRM, room survey with OCR, rule-based layouts, 3D editor, CAD drawings, BOQ & quotations, procurement, execution and handover.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "3d-editor",
+   "alembic",
+   "boq",
+   "cad",
+   "celery",
+   "crm",
+   "dxf",
+   "fastapi",
+   "interior-design",
+   "nextjs",
+   "ocr",
+   "playwright",
+   "project-management",
+   "python",
+   "react",
+   "sqlalchemy",
+   "tailwindcss",
+   "threejs",
+   "typescript"
+  ],
+  "created_at": "2026-11-18T11:02:40Z",
+  "pushed_at": "2026-11-18T11:09:14Z",
+  "query": "cad threejs",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "WEB"
+  ],
+  "matched": [
+   "dxf"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-18T20:27:01Z"
+ },
+ {
+  "id": "gh:protojoint/protojoint-mcp",
+  "source": "GitHub",
+  "name": "protojoint/protojoint-mcp",
+  "owner": "protojoint",
+  "url": "https://github.com/protojoint/protojoint-mcp",
+  "description": "Connect AI apps to ProtoJoint, a parametric CAD in the browser, over MCP. Configuration and documentation only; ProtoJoint is closed source.",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [
+   "cad",
+   "gemini-cli-extension",
+   "mcp",
+   "mcp-server",
+   "mjcf",
+   "parametric-cad",
+   "robotics",
+   "ros2",
+   "urdf"
+  ],
+  "created_at": "2026-11-18T14:21:26Z",
+  "pushed_at": "2026-11-18T14:21:44Z",
+  "query": "\"parametric cad\"",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "WEB",
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [
+   "GEMINI.md"
+  ],
+  "found_at": "2026-11-18T20:27:01Z"
+ },
+ {
+  "id": "gh:xintentcy/webgl-3d-single-file",
+  "source": "GitHub",
+  "name": "xintentcy/webgl-3d-single-file",
+  "owner": "xintentcy",
+  "url": "https://github.com/xintentcy/webgl-3d-single-file",
+  "description": "单文件 WebGL2 三维构成演示页制造技能：零依赖手写渲染器、CAD 内联、部件标注与拾取、拆解视图、无头 Chrome 分层验收",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "3d",
+   "agent-skill",
+   "cad",
+   "digital-twin",
+   "headless-chrome",
+   "industrial",
+   "single-file",
+   "step",
+   "webgl",
+   "webgl2"
+  ],
+  "created_at": "2026-11-18T16:03:01Z",
+  "pushed_at": "2026-11-18T16:06:06Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "WEB"
+  ],
+  "matched": [
+   "step"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-18T20:27:01Z"
+ },
+ {
+  "id": "gh:bulesky996/blender-addon-quick-retopology",
+  "source": "GitHub",
+  "name": "bulesky996/blender-addon-quick-retopology",
+  "owner": "bulesky996",
+  "url": "https://github.com/bulesky996/blender-addon-quick-retopology",
+  "description": "Blender add-on for AI 3D models (ComfyUI / Tripo / Meshy) & high-poly meshes: read & resize real-world dimensions, auto-align pivot, and one-click decimation / quad retopology.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "3d-modeling",
+   "blender",
+   "blender-addon",
+   "comfyui",
+   "instant-meshes",
+   "retopology"
+  ],
+  "created_at": "2026-11-18T07:41:53Z",
+  "pushed_at": "2026-11-18T08:43:57Z",
+  "query": "blender addon",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "BLENDER"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-18T20:27:01Z"
+ },
+ {
+  "id": "gh:swagatikad/freecad-orvorin",
+  "source": "GitHub",
+  "name": "SwagatikaD/freecad-orvorin",
+  "owner": "SwagatikaD",
+  "url": "https://github.com/SwagatikaD/freecad-orvorin",
+  "description": "Freecad Orvorin provides a parametric modeling workbench for structured FreeCAD design workflows.",
+  "homepage": "",
+  "stars": 0,
+  "language": "HTML",
+  "topics": [
+   "3d",
+   "3d-modeling",
+   "3d-printing",
+   "3d-visualization",
+   "architecture",
+   "autocad",
+   "cad",
+   "coin",
+   "computer-aided-design",
+   "digital-design",
+   "drawing",
+   "dwg",
+   "dxf",
+   "engineering",
+   "geometry",
+   "interior-design",
+   "mechanical-engineering",
+   "modeling",
+   "sketchup",
+   "visualization"
+  ],
+  "created_at": "2026-11-18T19:59:19Z",
+  "pushed_at": "2026-11-18T20:01:19Z",
+  "query": "sketchup",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "sketchup",
+   "autocad",
+   "freecad",
+   "dxf",
+   "dwg"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-18T20:27:01Z"
+ },
+ {
+  "id": "gh:ashraf-al-zayat/z-point",
+  "source": "GitHub",
+  "name": "Ashraf-Al-ZaYat/Z-PoiNt",
+  "owner": "Ashraf-Al-ZaYat",
+  "url": "https://github.com/Ashraf-Al-ZaYat/Z-PoiNt",
+  "description": "Z-PoiNt – Revit add-in for annotation & BIM automation (Revit 2022–2027)",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [
+   "bim",
+   "revit",
+   "revit-2024",
+   "revit-2025",
+   "revit-addin",
+   "revit-addins",
+   "revit-addins-codebase",
+   "revit-api",
+   "revit-mep",
+   "revit-plugin",
+   "revitapi"
+  ],
+  "created_at": "2026-11-18T19:22:45Z",
+  "pushed_at": "2026-11-18T19:22:48Z",
+  "query": "revit",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "revit"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-18T20:27:01Z"
+ },
+ {
+  "id": "gh:mengzhuoer/geo-gis-operator",
+  "source": "GitHub",
+  "name": "mengzhuoer/geo-gis-operator",
+  "owner": "mengzhuoer",
+  "url": "https://github.com/mengzhuoer/geo-gis-operator",
+  "description": "测绘/GIS 智能体:直接操作 QGIS、ArcGIS Pro、AutoCAD、Google Earth Engine,内置测绘与遥感知识库",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "agent",
+   "arcgis",
+   "autocad",
+   "geospatial",
+   "gis",
+   "google-earth-engine",
+   "mcp",
+   "minimax-code",
+   "qgis",
+   "remote-sensing",
+   "surveying"
+  ],
+  "created_at": "2026-11-18T17:12:24Z",
+  "pushed_at": "2026-11-18T17:14:11Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "autocad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-18T20:27:01Z"
+ },
+ {
+  "id": "gh:vietcad-com/archicad-ai-productivity",
+  "source": "GitHub",
+  "name": "vietcad-com/archicad-ai-productivity",
+  "owner": "vietcad-com",
+  "url": "https://github.com/vietcad-com/archicad-ai-productivity",
+  "description": "Ask an AI to fix door fire ratings and price walls in Archicad. MCP server over the Tapir add-on. Nemetschek Design AI Productivity Challenge 2027.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "ai",
+   "archicad",
+   "bim",
+   "claude",
+   "graphisoft",
+   "mcp",
+   "model-context-protocol",
+   "nemetschek",
+   "tapir"
+  ],
+  "created_at": "2026-11-18T10:18:01Z",
+  "pushed_at": "2026-11-18T12:47:14Z",
+  "query": "archicad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "archicad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-18T20:27:01Z"
+ },
+ {
+  "id": "gh:ackaraca/arcbuilder",
+  "source": "GitHub",
+  "name": "ACKaraca/ArcBuilder",
+  "owner": "ACKaraca",
+  "url": "https://github.com/ACKaraca/ArcBuilder",
+  "description": "Arc workspace: every repository of the Arc suite pinned as a git submodule.",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [
+   "arc-suite",
+   "bim",
+   "cad",
+   "rust"
+  ],
+  "created_at": "2026-11-17T13:59:41Z",
+  "pushed_at": "2026-11-18T20:10:38Z",
+  "query": "bim",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AI"
+  ],
+  "matched": [],
+  "ai_files": [
+   "AGENTS.md",
+   "CLAUDE.md"
+  ],
+  "found_at": "2026-11-18T20:27:01Z"
+ },
+ {
+  "id": "gh:radalvarez/ingetrazo-historial-camara",
+  "source": "GitHub",
+  "name": "radalvarez/ingetrazo-historial-camara",
+  "owner": "radalvarez",
+  "url": "https://github.com/radalvarez/ingetrazo-historial-camara",
+  "description": "Extensión para IngeTrazo que guarda el historial de posiciones de cámara y permite navegar atrás y adelante con barra de herramientas y atajos de teclado (Alt+Izquierda / Alt+Derecha).",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-11-18T16:54:07Z",
+  "pushed_at": "2026-11-18T16:59:45Z",
+  "query": "ingetrazo",
+  "always_publish": true,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "INGETRAZO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-18T20:27:01Z"
+ },
+ {
+  "id": "gh:ivanou-dzmitry/construction-builder",
+  "source": "GitHub",
+  "name": "Ivanou-Dzmitry/construction-builder",
+  "owner": "Ivanou-Dzmitry",
+  "url": "https://github.com/Ivanou-Dzmitry/construction-builder",
+  "description": "A Blender 5.2+ extension that builds the frame of a building under construction",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-11-18T14:47:15Z",
+  "pushed_at": "2026-11-18T18:39:16Z",
+  "query": "blender extension",
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 4,
+  "flags": [
+   "BLENDER"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-18T20:27:01Z"
+ },
+ {
   "id": "gh:rmgladius/workspace-storage-cloud-vitrine",
   "source": "GitHub",
   "name": "rmgladius/workspace-storage-cloud-vitrine",
@@ -2369,7 +2945,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 11,
+  "score": 10,
   "flags": [
    "DEMO",
    "AEC",
@@ -2454,7 +3030,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 9,
+  "score": 8,
   "flags": [
    "DEMO",
    "WEB",
@@ -2491,7 +3067,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 9,
+  "score": 8,
   "flags": [
    "AEC",
    "CLONE",
@@ -2539,7 +3115,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 9,
+  "score": 8,
   "flags": [
    "DEMO",
    "WEB",
@@ -2581,7 +3157,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "DEMO",
    "AEC"
@@ -2648,7 +3224,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "AEC",
    "INTEROP"
@@ -2683,7 +3259,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "DEMO"
   ],
@@ -2719,7 +3295,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "INTEROP",
    "AI"
@@ -2758,7 +3334,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "DEMO",
    "AEC"
@@ -2786,7 +3362,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "DEMO",
    "AEC"
@@ -2827,7 +3403,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "AI"
@@ -2891,7 +3467,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "INTEROP",
@@ -2921,7 +3497,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "DEMO",
    "AEC"
@@ -2961,7 +3537,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "WEB"
@@ -3000,7 +3576,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "INTEROP"
   ],
@@ -3032,7 +3608,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "AI"
@@ -3071,7 +3647,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "INTEROP"
   ],
@@ -3114,7 +3690,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "AI"
@@ -3175,7 +3751,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC",
    "SKETCHUP"
@@ -3203,7 +3779,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC",
    "SKETCHUP"
@@ -3240,7 +3816,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3277,7 +3853,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AI"
   ],
@@ -3308,7 +3884,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3345,7 +3921,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3383,7 +3959,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -3437,7 +4013,7 @@
   "always_publish": true,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "INGETRAZO"
   ],
@@ -3483,7 +4059,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC",
    "BLENDER"
@@ -3511,7 +4087,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 4,
+  "score": 3,
   "flags": [
    "BLENDER"
   ],
@@ -3541,7 +4117,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 4,
+  "score": 3,
   "flags": [
    "BLENDER"
   ],
@@ -13866,575 +14442,5 @@
    "CLAUDE.md"
   ],
   "found_at": "2026-11-11T06:06:53Z"
- },
- {
-  "id": "gh:ultracat/ingetrazo-workshop-icons",
-  "source": "GitHub",
-  "name": "ultracat/ingetrazo-workshop-icons",
-  "owner": "ultracat",
-  "url": "https://github.com/ultracat/ingetrazo-workshop-icons",
-  "description": "Workshop Color: an AI-generated colour icon theme (123 icons, 40 cursors) for IngeTrazo's Custom Icons extension. GPL-3.0.",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-11-11T02:33:44Z",
-  "pushed_at": "2026-11-11T02:37:46Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 5,
-  "flags": [
-   "INGETRAZO",
-   "AI"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-11T06:06:53Z"
- },
- {
-  "id": "gh:ariyanaid64/sketchup-cloud-plugin",
-  "source": "GitHub",
-  "name": "ariyanaid64/sketchup-cloud-plugin",
-  "owner": "ariyanaid64",
-  "url": "https://github.com/ariyanaid64/sketchup-cloud-plugin",
-  "description": "Cloud-based SketchUp 2022 plugin - katalog model & props, generator drawer/cabinet semi-otomatis, floor plan master, penyimpanan Google Drive",
-  "homepage": "",
-  "stars": 0,
-  "language": "",
-  "topics": [],
-  "created_at": "2026-11-10T20:23:54Z",
-  "pushed_at": "2026-11-11T03:07:52Z",
-  "query": "sketchup",
-  "always_publish": false,
-  "eco_min": 3,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AEC",
-   "SKETCHUP"
-  ],
-  "matched": [
-   "sketchup"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-11T06:06:53Z"
- },
- {
-  "id": "gh:speedcad/version_bridge_for_revit",
-  "source": "GitHub",
-  "name": "SpeedCAD/Version_Bridge_for_Revit",
-  "owner": "SpeedCAD",
-  "url": "https://github.com/SpeedCAD/Version_Bridge_for_Revit",
-  "description": "Save Revit files to earlier versions and open files from newer versions, from Revit's own Open and Save As. Revit 2023-2027.",
-  "homepage": "",
-  "stars": 0,
-  "language": "",
-  "topics": [],
-  "created_at": "2026-11-11T01:52:22Z",
-  "pushed_at": "2026-11-11T03:00:19Z",
-  "query": "revit",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AEC",
-   "INTEROP"
-  ],
-  "matched": [
-   "revit"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-11T06:06:53Z"
- },
- {
-  "id": "gh:julia-wolf68421124/revit",
-  "source": "GitHub",
-  "name": "julia-wolf68421124/revit",
-  "owner": "julia-wolf68421124",
-  "url": "https://github.com/julia-wolf68421124/revit",
-  "description": "Autodesk Revit notes for Windows. A desktop program page with its own preview.",
-  "homepage": "",
-  "stars": 0,
-  "language": "",
-  "topics": [
-   "autodesk-revit-mcp",
-   "autodesk-revit-pc",
-   "revit",
-   "revit-2024",
-   "revit-free",
-   "revit-mcp-server",
-   "revit-mep",
-   "revit-plugin",
-   "revit-secondary-development",
-   "revit-windows"
-  ],
-  "created_at": "2026-11-10T20:17:33Z",
-  "pushed_at": "2026-11-10T20:20:44Z",
-  "query": "revit",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AEC"
-  ],
-  "matched": [
-   "revit"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-11T06:06:53Z"
- },
- {
-  "id": "gh:zaycsev/zoomzoom",
-  "source": "GitHub",
-  "name": "zaycsev/ZoomZoom",
-  "owner": "zaycsev",
-  "url": "https://github.com/zaycsev/ZoomZoom",
-  "description": "Надстройка для AutoCAD и Civil 3D: масштабирование чертежа с сохранением вида листов, разделение по листам, сборка чертежей в один, перенос объектов вместе с видовыми экранами. AutoCAD 2015 и новее.",
-  "homepage": "",
-  "stars": 0,
-  "language": "C#",
-  "topics": [
-   "autocad",
-   "autocad-plugin",
-   "civil-3d",
-   "csharp",
-   "dotnet",
-   "dwg",
-   "plugin",
-   "rescale",
-   "viewports"
-  ],
-  "created_at": "2026-11-10T21:15:40Z",
-  "pushed_at": "2026-11-10T22:31:19Z",
-  "query": "autocad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AEC"
-  ],
-  "matched": [
-   "autocad",
-   "dwg"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-11T06:06:53Z"
- },
- {
-  "id": "gh:dialoug/openautopath",
-  "source": "GitHub",
-  "name": "dialoug/OpenAutoPath",
-  "owner": "dialoug",
-  "url": "https://github.com/dialoug/OpenAutoPath",
-  "description": "Modular C++20 CAD/CAM application with Qt, OCCT, feature recognition, toolpath planning and stock simulation.",
-  "homepage": "",
-  "stars": 0,
-  "language": "C++",
-  "topics": [
-   "cad",
-   "cam",
-   "cnc",
-   "cpp20",
-   "feature-recognition",
-   "gcode",
-   "machining",
-   "opencamlib",
-   "opencascade",
-   "qt",
-   "stock-simulation",
-   "toolpath"
-  ],
-  "created_at": "2026-11-09T17:30:00Z",
-  "pushed_at": "2026-11-11T03:48:28Z",
-  "query": "topic:cad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AEC"
-  ],
-  "matched": [
-   "opencascade",
-   "occt"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-11T06:06:53Z"
- },
- {
-  "id": "gh:urbanfogcatalog52/catia-cad",
-  "source": "GitHub",
-  "name": "urbanfogcatalog52/catia-cad",
-  "owner": "urbanfogcatalog52",
-  "url": "https://github.com/urbanfogcatalog52/catia-cad",
-  "description": "Catia Cad 2026 pre-configured environment for professional desktop software utility configuration, ready for automated deployment pipeline.",
-  "homepage": "",
-  "stars": 300,
-  "language": "",
-  "topics": [
-   "automation",
-   "cad-drawings",
-   "catia",
-   "catia-v5",
-   "catiav5",
-   "desktop",
-   "developer-tools",
-   "guide-setup-catia-cad",
-   "how-to-install-catia-cad",
-   "how-to-setup-catia-cad",
-   "open-source",
-   "pycatia",
-   "python",
-   "scripts",
-   "software-engineering",
-   "system",
-   "utility",
-   "windows-app",
-   "windows-cad"
-  ],
-  "created_at": "2026-11-10T16:07:14Z",
-  "pushed_at": "2026-11-10T16:07:21Z",
-  "query": "cad",
-  "rising": true,
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "RISING"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-11T06:06:53Z"
- },
- {
-  "id": "gh:arthurarquitetoamb/extension-ingetrazo-emissive-lights",
-  "source": "GitHub",
-  "name": "arthurarquitetoamb/extension-ingetrazo-emissive-lights",
-  "owner": "arthurarquitetoamb",
-  "url": "https://github.com/arthurarquitetoamb/extension-ingetrazo-emissive-lights",
-  "description": "Emissive light materials for IngeTrazo — paint a face and it glows",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-11-11T01:51:01Z",
-  "pushed_at": "2026-11-11T02:35:56Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-11T06:06:53Z"
- },
- {
-  "id": "gh:cekuhnen/blender-nurbs",
-  "source": "GitHub",
-  "name": "cekuhnen/blender-nurbs",
-  "owner": "cekuhnen",
-  "url": "https://github.com/cekuhnen/blender-nurbs",
-  "description": "NURBS surface modeling add-on for Blender on NVIDIA's USD BRep kernel",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-11-11T02:56:27Z",
-  "pushed_at": "2026-11-11T03:57:30Z",
-  "query": "blender add-on",
-  "always_publish": false,
-  "eco_min": 3,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AEC",
-   "BLENDER"
-  ],
-  "matched": [
-   "brep"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-11T06:06:53Z"
- },
- {
-  "id": "gh:permitzip/mutinybim",
-  "source": "GitHub",
-  "name": "permitzip/mutinybim",
-  "owner": "permitzip",
-  "url": "https://github.com/permitzip/mutinybim",
-  "description": "Open-source building model engine. One shared kernel, trade add-ons, and a script-first tool server so people and AI agents can edit the same model together.",
-  "homepage": "https://mutinybim.com",
-  "stars": 47,
-  "language": "TypeScript",
-  "topics": [
-   "aec",
-   "architecture",
-   "bim",
-   "engineering",
-   "ifc",
-   "mcp",
-   "mep",
-   "typescript"
-  ],
-  "created_at": "2026-11-09T18:33:36Z",
-  "pushed_at": "2026-11-10T16:49:25Z",
-  "query": "ifc",
-  "rising": true,
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 11,
-  "flags": [
-   "DEMO",
-   "AEC",
-   "AI",
-   "RISING"
-  ],
-  "matched": [
-   "ifc"
-  ],
-  "ai_files": [
-   "AGENTS.md"
-  ],
-  "found_at": "2026-11-10T19:41:14Z"
- },
- {
-  "id": "gh:suny-mec-meic-lab/ga-layout-optimizer",
-  "source": "GitHub",
-  "name": "SUNY-MEC-MEIC-Lab/ga-layout-optimizer",
-  "owner": "SUNY-MEC-MEIC-Lab",
-  "url": "https://github.com/SUNY-MEC-MEIC-Lab/ga-layout-optimizer",
-  "description": "Drawing-in, smaller-layout-out: function-preserving building & plant layout optimization (Claude Code plugin + MCP server, deterministic solver)",
-  "homepage": "http://www.meic-lab.com/ga-layout-optimizer/",
-  "stars": 0,
-  "language": "Python",
-  "topics": [
-   "bim",
-   "building-design",
-   "claude-code",
-   "facility-layout",
-   "ifc",
-   "layout-optimization",
-   "mcp",
-   "plant-layout",
-   "simulated-annealing",
-   "three-js"
-  ],
-  "created_at": "2026-11-10T08:32:19Z",
-  "pushed_at": "2026-11-10T08:32:25Z",
-  "query": "ifc",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 8,
-  "flags": [
-   "DEMO",
-   "AEC",
-   "AI"
-  ],
-  "matched": [
-   "ifc"
-  ],
-  "ai_files": [
-   "AGENTS.md"
-  ],
-  "found_at": "2026-11-10T19:41:14Z"
- },
- {
-  "id": "gh:atharvaaalok/geometryview",
-  "source": "GitHub",
-  "name": "atharvaaalok/geometryview",
-  "owner": "atharvaaalok",
-  "url": "https://github.com/atharvaaalok/geometryview",
-  "description": "Fast, beautiful STEP and STL viewer: a Mac app, a browser viewer, the iPhone, and tools for AI apps (MCP).",
-  "homepage": "https://atharvaaalok.github.io/geometryview/",
-  "stars": 1,
-  "language": "C++",
-  "topics": [
-   "3d-viewer",
-   "cad",
-   "claude",
-   "mcp",
-   "metal",
-   "model-context-protocol",
-   "opencascade",
-   "step",
-   "stl",
-   "wasm",
-   "webgpu"
-  ],
-  "created_at": "2026-11-10T00:57:24Z",
-  "pushed_at": "2026-11-10T18:49:15Z",
-  "query": "topic:cad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 8,
-  "flags": [
-   "DEMO",
-   "AEC",
-   "WEB"
-  ],
-  "matched": [
-   "step",
-   "opencascade"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-10T19:41:14Z"
- },
- {
-  "id": "gh:ernixdotio/roim-framework",
-  "source": "GitHub",
-  "name": "ernixdotio/roim-framework",
-  "owner": "ernixdotio",
-  "url": "https://github.com/ernixdotio/roim-framework",
-  "description": "Robotics Information Modelling (RoIM): open framework for robot-ready BIM. IFC + OpenUSD spec, R0-R4 levels, IDS checks, NVIDIA Isaac Sim workflow. DOI 10.5281/zenodo.24099902",
-  "homepage": "https://doi.org/10.5281/zenodo.24099902",
-  "stars": 0,
-  "language": "Python",
-  "topics": [
-   "bim",
-   "buildingsmart",
-   "construction-robotics",
-   "digital-twin",
-   "ifc",
-   "isaac-sim",
-   "openusd",
-   "revit",
-   "robotics",
-   "roim"
-  ],
-  "created_at": "2026-11-10T07:03:18Z",
-  "pushed_at": "2026-11-10T07:41:48Z",
-  "query": "revit",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 7,
-  "flags": [
-   "DEMO",
-   "AEC"
-  ],
-  "matched": [
-   "revit",
-   "ifc"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-10T19:41:14Z"
- },
- {
-  "id": "gh:0smallcat0/mechanical-design-demos",
-  "source": "GitHub",
-  "name": "0Smallcat0/mechanical-design-demos",
-  "owner": "0Smallcat0",
-  "url": "https://github.com/0Smallcat0/mechanical-design-demos",
-  "description": "Mechanical design portfolio that runs in the browser: a CD-11 cycloidal reducer you can take apart and an eight-legged pick-up robot + EV3 simulation, each with a product film. 機械設計作品集：可拆解的擺線減速機、八足取物機器人模擬與產品片，免安裝。",
-  "homepage": "https://0smallcat0.github.io/mechanical-design-demos/",
-  "stars": 0,
-  "language": "HTML",
-  "topics": [
-   "3d-visualization",
-   "arduino",
-   "blender",
-   "cad",
-   "cycloidal-drive",
-   "mechanical-design",
-   "portfolio",
-   "product-visualization",
-   "robotics",
-   "threejs",
-   "webgl"
-  ],
-  "created_at": "2026-11-10T02:24:04Z",
-  "pushed_at": "2026-11-10T19:00:16Z",
-  "query": "cad threejs",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 7,
-  "flags": [
-   "DEMO",
-   "WEB"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-10T19:41:14Z"
- },
- {
-  "id": "gh:choiengneering/web-step-aligner",
-  "source": "GitHub",
-  "name": "CHOIENGNEERING/web-step-aligner",
-  "owner": "CHOIENGNEERING",
-  "url": "https://github.com/CHOIENGNEERING/web-step-aligner",
-  "description": "A lightweight web tool to auto-align STEP files using PCA.",
-  "homepage": "https://github.com/CHOIENGINEERING",
-  "stars": 1,
-  "language": "Python",
-  "topics": [
-   "cad",
-   "caesar-cipher",
-   "cnc",
-   "dash",
-   "finite-element-analysis",
-   "mechanical-engineering",
-   "opencascade",
-   "python",
-   "step-file"
-  ],
-  "created_at": "2026-11-09T20:13:42Z",
-  "pushed_at": "2026-11-10T15:19:55Z",
-  "query": "topic:cad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 7,
-  "flags": [
-   "DEMO",
-   "AEC"
-  ],
-  "matched": [
-   "step",
-   "opencascade"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-10T19:41:14Z"
- },
- {
-  "id": "gh:itsleighton/sketchup-mcp-for-codex-and-claude",
-  "source": "GitHub",
-  "name": "itsleighton/Sketchup-MCP-for-Codex-and-Claude",
-  "owner": "itsleighton",
-  "url": "https://github.com/itsleighton/Sketchup-MCP-for-Codex-and-Claude",
-  "description": "This creates an MCP connection for both Claude and Codex inside your instance of Sketchup as well as an extension for sketchup indicating connectivity.",
-  "homepage": "",
-  "stars": 0,
-  "language": "Ruby",
-  "topics": [],
-  "created_at": "2026-11-10T15:03:27Z",
-  "pushed_at": "2026-11-10T18:16:48Z",
-  "query": "sketchup",
-  "always_publish": false,
-  "eco_min": 3,
-  "relevant": true,
-  "score": 5,
-  "flags": [
-   "AEC",
-   "SKETCHUP",
-   "AI"
-  ],
-  "matched": [
-   "sketchup"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-10T19:41:14Z"
  }
 ]
