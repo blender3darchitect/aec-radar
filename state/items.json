@@ -1,5 +1,1148 @@
 [
  {
+  "id": "gh:mrriaj/cad-3d-engineering-suite-autodesk-2026-autocad-revit-venolen",
+  "source": "GitHub",
+  "name": "mrriaj/cad-3d-engineering-suite-autodesk-2026-autocad-revit-venolen",
+  "owner": "mrriaj",
+  "url": "https://github.com/mrriaj/cad-3d-engineering-suite-autodesk-2026-autocad-revit-venolen",
+  "description": "Precision CAD engine for 3D engineering workflows - built around Autodesk toolsets.",
+  "homepage": "",
+  "stars": 227,
+  "language": "HTML",
+  "topics": [
+   "2026",
+   "3ds",
+   "autocad",
+   "blender-addons",
+   "cad-2026",
+   "cad-cam",
+   "cinema-4d",
+   "max",
+   "maya",
+   "redshift",
+   "revit"
+  ],
+  "created_at": "2026-11-22T19:58:41Z",
+  "pushed_at": "2026-11-23T00:42:32Z",
+  "query": "revit",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 10,
+  "flags": [
+   "AEC",
+   "BLENDER",
+   "RISING"
+  ],
+  "matched": [
+   "revit",
+   "autocad"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:sergey-ivanovdev92o9/autodesk-2026-universal-patcher",
+  "source": "GitHub",
+  "name": "sergey-ivanovdev92o9/autodesk-2026-universal-patcher",
+  "owner": "sergey-ivanovdev92o9",
+  "url": "https://github.com/sergey-ivanovdev92o9/autodesk-2026-universal-patcher",
+  "description": "Autodesk 2026 Universal NLM Patcher — AutoCAD, Revit, 3ds Max, Maya & Inventor (Windows x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+  "homepage": "https://sergey-ivanovdev92o9.github.io/autodesk-2026-universal-patcher/",
+  "stars": 140,
+  "language": "C#",
+  "topics": [
+   "3ds-max-2026",
+   "autocad-2026",
+   "autodesk-2026-universal-patcher",
+   "automation",
+   "cinema-4d-2026",
+   "cli-utility",
+   "configuration",
+   "csharp",
+   "desktop-app",
+   "dotnet",
+   "portable",
+   "revit-2026",
+   "solidworks",
+   "solidworks-2026",
+   "system-utilities",
+   "windows-11",
+   "winforms",
+   "wpf"
+  ],
+  "created_at": "2026-11-23T06:49:26Z",
+  "pushed_at": "2026-11-23T06:50:04Z",
+  "query": "revit",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 9,
+  "flags": [
+   "DEMO",
+   "AEC",
+   "RISING"
+  ],
+  "matched": [
+   "revit",
+   "autocad",
+   "solidworks"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:ahmedm0007/aquadrop-rescue-capsule",
+  "source": "GitHub",
+  "name": "ahmedm0007/aquadrop-rescue-capsule",
+  "owner": "ahmedm0007",
+  "url": "https://github.com/ahmedm0007/aquadrop-rescue-capsule",
+  "description": "Drone-deployed lifebuoy capsule for water rescue: SOLIDWORKS CAD, FEA, electronics and interactive 3D demos",
+  "homepage": "https://ahmedm0007.github.io/aquadrop-rescue-capsule/",
+  "stars": 0,
+  "language": "HTML",
+  "topics": [
+   "3d-printing",
+   "dji",
+   "drone",
+   "esp32",
+   "fea",
+   "lora",
+   "mechanical-engineering",
+   "solidworks",
+   "threejs",
+   "water-rescue"
+  ],
+  "created_at": "2026-11-22T20:49:21Z",
+  "pushed_at": "2026-11-22T20:49:50Z",
+  "query": "cad threejs",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 9,
+  "flags": [
+   "DEMO",
+   "AEC",
+   "WEB"
+  ],
+  "matched": [
+   "solidworks"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:shadow8722/cad-3d-engineering-suite-maxon-cinema-4d-2026-barin",
+  "source": "GitHub",
+  "name": "shadow8722/cad-3d-engineering-suite-maxon-cinema-4d-2026-barin",
+  "owner": "shadow8722",
+  "url": "https://github.com/shadow8722/cad-3d-engineering-suite-maxon-cinema-4d-2026-barin",
+  "description": "Professional 3D modeling and CAD environment for Cinema 4D workflows.",
+  "homepage": "",
+  "stars": 227,
+  "language": "HTML",
+  "topics": [
+   "2026",
+   "blender-addons",
+   "bridge",
+   "cad-2026",
+   "cad-cam",
+   "cinema",
+   "cinema-4d",
+   "gpu",
+   "maxon",
+   "redshift",
+   "renderer",
+   "windows-10",
+   "windows-11"
+  ],
+  "created_at": "2026-11-22T18:47:08Z",
+  "pushed_at": "2026-11-23T00:00:33Z",
+  "query": "cad",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 9,
+  "flags": [
+   "INTEROP",
+   "BLENDER",
+   "RISING"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:brandonlewis/projectcommand-releases",
+  "source": "GitHub",
+  "name": "BrandonLewis/projectcommand-releases",
+  "owner": "BrandonLewis",
+  "url": "https://github.com/BrandonLewis/projectcommand-releases",
+  "description": "ProjectCommand: IFC-native project management for heavy civil. Desktop downloads for Windows and macOS.",
+  "homepage": "https://projectcommand.ai",
+  "stars": 0,
+  "language": "",
+  "topics": [
+   "4d-bim",
+   "bim",
+   "construction",
+   "desktop-app",
+   "heavy-civil",
+   "ifc",
+   "openbim",
+   "project-management"
+  ],
+  "created_at": "2026-11-21T04:01:56Z",
+  "pushed_at": "2026-11-22T01:07:40Z",
+  "query": "ifc",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "ifc"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:nooterra/nooterra-kernel",
+  "source": "GitHub",
+  "name": "nooterra/nooterra-kernel",
+  "owner": "nooterra",
+  "url": "https://github.com/nooterra/nooterra-kernel",
+  "description": "Zero-trust no_std proof kernel for Nooterra .ntcert hardware certificates",
+  "homepage": "https://nooterra.ai",
+  "stars": 0,
+  "language": "Rust",
+  "topics": [
+   "cad",
+   "formal-verification",
+   "multiphysics",
+   "no-std",
+   "rust",
+   "webassembly"
+  ],
+  "created_at": "2026-11-23T06:46:15Z",
+  "pushed_at": "2026-11-23T06:50:09Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "WEB"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:rotemazriel/myjewl-showcase",
+  "source": "GitHub",
+  "name": "RotemAzriel/MyJewl-Showcase",
+  "owner": "RotemAzriel",
+  "url": "https://github.com/RotemAzriel/MyJewl-Showcase",
+  "description": "Typed ring specifications to validated geometry: Python service, JSON Schema and constraints, plus the latest RhinoArtisan MCP builder.",
+  "homepage": "https://rotem-azriel-portfolio.idan1623.chatgpt.site/",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "cad",
+   "geometry-processing",
+   "jewelry-design",
+   "json-schema",
+   "mcp",
+   "python",
+   "rhino"
+  ],
+  "created_at": "2026-11-23T01:00:28Z",
+  "pushed_at": "2026-11-23T01:00:37Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "rhino"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:turkisiengineering/turkisi-cad-hub",
+  "source": "GitHub",
+  "name": "TurkisiEngineering/turkisi-cad-hub",
+  "owner": "TurkisiEngineering",
+  "url": "https://github.com/TurkisiEngineering/turkisi-cad-hub",
+  "description": "Türkişi Engineering agentic CAD topluluğu — soru, proje, lig, canlı yayın. 💬 Discussions sekmesinde.",
+  "homepage": "https://www.youtube.com/channel/UCj06nxan1j_9dfTbJUVrRVQ",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "agentic-cad",
+   "build123d",
+   "cad",
+   "community",
+   "mcp",
+   "siemens-nx",
+   "solidworks",
+   "topluluk",
+   "turkish"
+  ],
+  "created_at": "2026-11-22T20:55:48Z",
+  "pushed_at": "2026-11-22T21:27:03Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "solidworks"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:langnick415-byte/cad-3d-engineering-suite-solidworks-2026-sp1-ssq-katarin",
+  "source": "GitHub",
+  "name": "langnick415-byte/cad-3d-engineering-suite-solidworks-2026-sp1-ssq-katarin",
+  "owner": "langnick415-byte",
+  "url": "https://github.com/langnick415-byte/cad-3d-engineering-suite-solidworks-2026-sp1-ssq-katarin",
+  "description": "Professional 3D CAD engineering suite for parametric design and modeling workflows.",
+  "homepage": "",
+  "stars": 225,
+  "language": "HTML",
+  "topics": [
+   "2026",
+   "blender-addons",
+   "cad-2026",
+   "cad-cam",
+   "cad-config",
+   "cad-local",
+   "cad-server",
+   "cad-solidworks",
+   "cad-sp1",
+   "cad-ssq",
+   "cinema-4d",
+   "config",
+   "local",
+   "redshift",
+   "server",
+   "solidworks",
+   "sp1",
+   "ssq"
+  ],
+  "created_at": "2026-11-22T20:01:16Z",
+  "pushed_at": "2026-11-23T01:16:07Z",
+  "query": "cad",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": 3,
+  "relevant": true,
+  "score": 8,
+  "flags": [
+   "AEC",
+   "BLENDER",
+   "RISING"
+  ],
+  "matched": [
+   "solidworks"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:manaswinivinukonda-cmd/ansys-2026-fajalen",
+  "source": "GitHub",
+  "name": "manaswinivinukonda-cmd/ansys-2026-fajalen",
+  "owner": "manaswinivinukonda-cmd",
+  "url": "https://github.com/manaswinivinukonda-cmd/ansys-2026-fajalen",
+  "description": "Engineering simulation workflows organized through a focused Ansys workspace.",
+  "homepage": "",
+  "stars": 225,
+  "language": "HTML",
+  "topics": [
+   "2026",
+   "2d-cad",
+   "ansys",
+   "ansys-setup",
+   "architecture",
+   "bim",
+   "cad",
+   "desktop-app",
+   "drafting",
+   "engineering",
+   "mechanical-engineering",
+   "modeling",
+   "parametric-cad",
+   "productivity",
+   "software",
+   "software-engineering",
+   "windows",
+   "windows-10",
+   "windows-11",
+   "windows-app"
+  ],
+  "created_at": "2026-11-22T19:12:18Z",
+  "pushed_at": "2026-11-23T00:35:47Z",
+  "query": "bim",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "RISING"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:25mcmt30/matlab-r2026a-tadarin",
+  "source": "GitHub",
+  "name": "25mcmt30/matlab-r2026a-tadarin",
+  "owner": "25mcmt30",
+  "url": "https://github.com/25mcmt30/matlab-r2026a-tadarin",
+  "description": "Engineered MATLAB R2026A build - streamlined configuration, focused technical workflows.",
+  "homepage": "",
+  "stars": 223,
+  "language": "HTML",
+  "topics": [
+   "2d-cad",
+   "architecture",
+   "bim",
+   "cad",
+   "desktop-app",
+   "drafting",
+   "engineering",
+   "how-to-install-matlab-r2026a",
+   "matlab",
+   "matlab-r2026a",
+   "matlab-r2026a-windows",
+   "mechanical-engineering",
+   "modeling",
+   "parametric-cad",
+   "software",
+   "software-engineering",
+   "windows",
+   "windows-10",
+   "windows-11",
+   "windows-app"
+  ],
+  "created_at": "2026-11-22T19:18:08Z",
+  "pushed_at": "2026-11-23T00:30:49Z",
+  "query": "bim",
+  "rising": true,
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "RISING"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:peter-gabriel/omnium-home-3d",
+  "source": "GitHub",
+  "name": "peter-gabriel/omnium-home-3d",
+  "owner": "peter-gabriel",
+  "url": "https://github.com/peter-gabriel/omnium-home-3d",
+  "description": "Home Assistant card: your home in 3D for a wall tablet, with touch rotate/zoom, live lights, sky and weather, a floor plan editor, area sync, actions and music",
+  "homepage": "",
+  "stars": 0,
+  "language": "TypeScript",
+  "topics": [
+   "3d",
+   "custom-card",
+   "floor-plan",
+   "hacs",
+   "hacs-dashboard",
+   "home-assistant",
+   "lovelace",
+   "omnium",
+   "threejs",
+   "wall-tablet"
+  ],
+  "created_at": "2026-11-23T05:30:35Z",
+  "pushed_at": "2026-11-23T05:57:28Z",
+  "query": "\"floor plan\" editor",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "WEB",
+   "INTEROP"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:subspacesystems/drydock",
+  "source": "GitHub",
+  "name": "subspacesystems/drydock",
+  "owner": "subspacesystems",
+  "url": "https://github.com/subspacesystems/drydock",
+  "description": "Simple but powerful 3D modeling for architects and makers",
+  "homepage": "https://subspacesystems.com/products/drydock/",
+  "stars": 0,
+  "language": "Rust",
+  "topics": [
+   "3d-modeling",
+   "3d-printing",
+   "3mf",
+   "architecture",
+   "cad",
+   "rust",
+   "stl",
+   "woodworking"
+  ],
+  "created_at": "2026-11-20T04:49:23Z",
+  "pushed_at": "2026-11-23T04:17:15Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "DEMO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:caccia78/fabbrico",
+  "source": "GitHub",
+  "name": "caccia78/fabbrico",
+  "owner": "caccia78",
+  "url": "https://github.com/caccia78/fabbrico",
+  "description": "Open-source 3D design for FDM printing: you lay out the shapes, AI does the hard parts.",
+  "homepage": "https://caccia78.github.io/fabbrico/",
+  "stars": 0,
+  "language": "TypeScript",
+  "topics": [
+   "3d-printing",
+   "cad",
+   "claude",
+   "fdm",
+   "mcp"
+  ],
+  "created_at": "2026-11-22T22:27:14Z",
+  "pushed_at": "2026-11-22T22:33:26Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 7,
+  "flags": [
+   "DEMO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:ben-s-code92s2/autodesk-2026-universal-patcher-portable",
+  "source": "GitHub",
+  "name": "ben-s-code92s2/autodesk-2026-universal-patcher-portable",
+  "owner": "ben-s-code92s2",
+  "url": "https://github.com/ben-s-code92s2/autodesk-2026-universal-patcher-portable",
+  "description": "Autodesk 2026 Universal NLM Patcher — AutoCAD, Revit, 3ds Max, Maya & Inventor (Windows x64) (Portable Suite): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+  "homepage": "https://ben-s-code92s2.github.io/autodesk-2026-universal-patcher-portable/",
+  "stars": 0,
+  "language": "Jupyter Notebook",
+  "topics": [
+   "3ds-max-2026",
+   "autocad-2026",
+   "autodesk-2026-universal-patcher-por",
+   "automation",
+   "cinema-4d-2026",
+   "cli-utility",
+   "configuration",
+   "csharp",
+   "desktop-app",
+   "dotnet",
+   "portable",
+   "revit-2026",
+   "solidworks",
+   "solidworks-2026",
+   "system-utilities",
+   "windows-11",
+   "winforms",
+   "wpf"
+  ],
+  "created_at": "2026-11-23T07:22:08Z",
+  "pushed_at": "2026-11-23T07:22:47Z",
+  "query": "revit",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "revit",
+   "autocad",
+   "solidworks"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:maxking-hq04x5/autodesk-2026-universal-patcher-2026",
+  "source": "GitHub",
+  "name": "maxking-hq04x5/autodesk-2026-universal-patcher-2026",
+  "owner": "maxking-hq04x5",
+  "url": "https://github.com/maxking-hq04x5/autodesk-2026-universal-patcher-2026",
+  "description": "Autodesk 2026 Universal NLM Patcher — AutoCAD, Revit, 3ds Max, Maya & Inventor (Windows x64) (2026 Edition): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+  "homepage": "https://maxking-hq04x5.github.io/autodesk-2026-universal-patcher-2026/",
+  "stars": 0,
+  "language": "Jupyter Notebook",
+  "topics": [
+   "3ds-max-2026",
+   "autocad-2026",
+   "autodesk-2026-universal-patcher-202",
+   "automation",
+   "cinema-4d-2026",
+   "cli-utility",
+   "configuration",
+   "csharp",
+   "desktop-app",
+   "dotnet",
+   "portable",
+   "revit-2026",
+   "solidworks",
+   "solidworks-2026",
+   "system-utilities",
+   "windows-11",
+   "winforms",
+   "wpf"
+  ],
+  "created_at": "2026-11-23T07:12:29Z",
+  "pushed_at": "2026-11-23T07:13:11Z",
+  "query": "revit",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "revit",
+   "autocad",
+   "solidworks"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:ryan-lopez-ops2091w4/autodesk-2026-universal-patcher-x64",
+  "source": "GitHub",
+  "name": "ryan-lopez-ops2091w4/autodesk-2026-universal-patcher-x64",
+  "owner": "ryan-lopez-ops2091w4",
+  "url": "https://github.com/ryan-lopez-ops2091w4/autodesk-2026-universal-patcher-x64",
+  "description": "Autodesk 2026 Universal NLM Patcher — AutoCAD, Revit, 3ds Max, Maya & Inventor (Windows x64) (Windows x64 Build): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+  "homepage": "https://ryan-lopez-ops2091w4.github.io/autodesk-2026-universal-patcher-x64/",
+  "stars": 0,
+  "language": "C#",
+  "topics": [
+   "3ds-max-2026",
+   "autocad-2026",
+   "autodesk-2026-universal-patcher-x64",
+   "automation",
+   "cinema-4d-2026",
+   "cli-utility",
+   "configuration",
+   "csharp",
+   "desktop-app",
+   "dotnet",
+   "portable",
+   "revit-2026",
+   "solidworks",
+   "solidworks-2026",
+   "system-utilities",
+   "windows-11",
+   "winforms",
+   "wpf"
+  ],
+  "created_at": "2026-11-23T07:00:39Z",
+  "pushed_at": "2026-11-23T07:01:18Z",
+  "query": "revit",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "revit",
+   "autocad",
+   "solidworks"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:cadsmith/dwgio",
+  "source": "GitHub",
+  "name": "cadsmith/dwgio",
+  "owner": "cadsmith",
+  "url": "https://github.com/cadsmith/dwgio",
+  "description": "C++23 library that reads and writes AutoCAD DWG files from R14 to R2018",
+  "homepage": "",
+  "stars": 0,
+  "language": "C++",
+  "topics": [
+   "autocad",
+   "cad",
+   "cpp23",
+   "dwg"
+  ],
+  "created_at": "2026-11-22T19:22:32Z",
+  "pushed_at": "2026-11-23T02:11:43Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "AI"
+  ],
+  "matched": [
+   "autocad",
+   "dwg"
+  ],
+  "ai_files": [
+   "AGENTS.md"
+  ],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:cauliflowermossgrape/moldgen",
+  "source": "GitHub",
+  "name": "cauliflowermossgrape/moldgen",
+  "owner": "cauliflowermossgrape",
+  "url": "https://github.com/cauliflowermossgrape/moldgen",
+  "description": "Turn 3D models into 3D-printable or CNC molds for carbon fiber work — forged carbon compression moulds, prepreg laminating tools and vacuum-bagging layup tools. Local web app: upload STL/3MF/OBJ/STEP, check undercuts and demolding, download watertight mold halves.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "3d-printing",
+   "cad",
+   "carbon-fiber",
+   "carbon-fibre",
+   "cnc",
+   "composites",
+   "compression-molding",
+   "forged-carbon",
+   "laminating",
+   "manifold3d",
+   "mold",
+   "mold-design",
+   "mold-making",
+   "mould",
+   "prepreg",
+   "python",
+   "step",
+   "stl",
+   "trimesh",
+   "vacuum-bagging"
+  ],
+  "created_at": "2026-11-22T23:16:08Z",
+  "pushed_at": "2026-11-22T23:16:32Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 6,
+  "flags": [
+   "AEC",
+   "AI"
+  ],
+  "matched": [
+   "step"
+  ],
+  "ai_files": [
+   ".claude",
+   "CLAUDE.md"
+  ],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:samveyil/bimplugins.avalonedit",
+  "source": "GitHub",
+  "name": "Samveyil/BIMPlugins.AvalonEdit",
+  "owner": "Samveyil",
+  "url": "https://github.com/Samveyil/BIMPlugins.AvalonEdit",
+  "description": "AvalonEdit for Revit add-ins under an assembly name of its own",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "avalonedit",
+   "code-editor",
+   "nuget",
+   "revit",
+   "revit-addin",
+   "revit-api",
+   "wpf"
+  ],
+  "created_at": "2026-11-23T07:07:14Z",
+  "pushed_at": "2026-11-23T07:10:50Z",
+  "query": "revit",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "revit"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:kirillkapinos1-art/dwg-spec-exporter",
+  "source": "GitHub",
+  "name": "kirillkapinos1-art/dwg-spec-exporter",
+  "owner": "kirillkapinos1-art",
+  "url": "https://github.com/kirillkapinos1-art/dwg-spec-exporter",
+  "description": "AutoCAD DXF/DWG drawing auditor, block BOM & layer length extractor, and Excel (.xlsx) / PDF exporter",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "created_at": "2026-11-23T05:34:14Z",
+  "pushed_at": "2026-11-23T05:39:18Z",
+  "query": "autocad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC",
+   "INTEROP"
+  ],
+  "matched": [
+   "autocad",
+   "dxf",
+   "dwg"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:brainminewebsolutions/lotus-root-next.js",
+  "source": "GitHub",
+  "name": "Brainminewebsolutions/Lotus-root-next.js",
+  "owner": "Brainminewebsolutions",
+  "url": "https://github.com/Brainminewebsolutions/Lotus-root-next.js",
+  "description": "UK-based BIM, digital engineering, and AI software solutions for the construction and AEC industry. Offices in London and India.",
+  "homepage": "https://prod-lrt.vercel.app",
+  "stars": 0,
+  "language": "TypeScript",
+  "topics": [],
+  "created_at": "2026-11-20T06:40:12Z",
+  "pushed_at": "2026-11-23T06:58:01Z",
+  "query": "bim",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "DEMO"
+  ],
+  "matched": [],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:nguyentantu0706-source/ifc-graph-anomaly-detection",
+  "source": "GitHub",
+  "name": "nguyentantu0706-source/ifc-graph-anomaly-detection",
+  "owner": "nguyentantu0706-source",
+  "url": "https://github.com/nguyentantu0706-source/ifc-graph-anomaly-detection",
+  "description": "Relational graph neural network for semantic anomaly detection in IFC BIM models",
+  "homepage": "",
+  "stars": 0,
+  "language": "HTML",
+  "topics": [
+   "aec",
+   "anomaly-detection",
+   "bim",
+   "graph-neural-network",
+   "ifc",
+   "knowledge-graph",
+   "openbim",
+   "pytorch"
+  ],
+  "created_at": "2026-11-23T04:59:42Z",
+  "pushed_at": "2026-11-23T04:59:48Z",
+  "query": "bim",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "ifc"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:nguyentantu0706-source/ifc-semantic-classifier",
+  "source": "GitHub",
+  "name": "nguyentantu0706-source/ifc-semantic-classifier",
+  "owner": "nguyentantu0706-source",
+  "url": "https://github.com/nguyentantu0706-source/ifc-semantic-classifier",
+  "description": "Geometry-first BIM semantic classification and IFC auditing with PointNet and IfcOpenShell",
+  "homepage": "",
+  "stars": 0,
+  "language": "HTML",
+  "topics": [
+   "bim",
+   "computer-vision",
+   "deep-learning",
+   "ifc",
+   "openconstruction",
+   "point-cloud",
+   "pointnet",
+   "semantic-classification"
+  ],
+  "created_at": "2026-11-23T04:37:59Z",
+  "pushed_at": "2026-11-23T04:40:35Z",
+  "query": "bim",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "ifc",
+   "ifcopenshell"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:vmishra06-cdk/osdagbridge",
+  "source": "GitHub",
+  "name": "vmishra06-cdk/OsdagBridge",
+  "owner": "vmishra06-cdk",
+  "url": "https://github.com/vmishra06-cdk/OsdagBridge",
+  "description": "Comprehensive implementation of OsdagBridge screening tasks for FOSSEE Winter Internship 2026: Parametric 3D CAD modeling of bridge substructure & IFC export, 2D interactive CAD parameter editing, transverse member result plotting, refactored LaTeX report generator with UR/BOM charts, and automated testing suite.",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [],
+  "created_at": "2026-11-23T04:14:26Z",
+  "pushed_at": "2026-11-23T04:14:29Z",
+  "query": "ifc",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC",
+   "INTEROP"
+  ],
+  "matched": [
+   "ifc"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:creationtv/bmp2dxf",
+  "source": "GitHub",
+  "name": "CreationTV/bmp2dxf",
+  "owner": "CreationTV",
+  "url": "https://github.com/CreationTV/bmp2dxf",
+  "description": "位图转 DXF 矢量图工具 · Bitmap to DXF vectorizer with centerline/outline tracing, adjustable precision, offline Web UI and CLI.",
+  "homepage": "",
+  "stars": 0,
+  "language": "",
+  "topics": [
+   "bitmap-to-vector",
+   "cad",
+   "centerline",
+   "cnc",
+   "dxf",
+   "image-tracing",
+   "laser-cutting",
+   "python",
+   "skeleton",
+   "vectorization"
+  ],
+  "created_at": "2026-11-23T07:15:03Z",
+  "pushed_at": "2026-11-23T07:15:05Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "dxf"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:shresth-keshari/cad-corpus-deid",
+  "source": "GitHub",
+  "name": "shresth-keshari/cad-corpus-deid",
+  "owner": "shresth-keshari",
+  "url": "https://github.com/shresth-keshari/cad-corpus-deid",
+  "description": "De-identify engineering corpora (CAD, PDF drawings, OLE, archives): consistent shape-preserving pseudonyms, in-place PDF editing, files stay valid. Built at Builders Buildathon 2026.",
+  "homepage": "",
+  "stars": 0,
+  "language": "Python",
+  "topics": [
+   "anonymization",
+   "cad",
+   "data-privacy",
+   "de-identification",
+   "document-processing",
+   "gliner",
+   "hackathon",
+   "llm",
+   "named-entity-recognition",
+   "ocr",
+   "ole",
+   "pdf",
+   "pii",
+   "pii-detection",
+   "privacy",
+   "pseudonymization",
+   "pymupdf",
+   "python",
+   "solidworks",
+   "spacy"
+  ],
+  "created_at": "2026-11-23T04:30:00Z",
+  "pushed_at": "2026-11-23T04:30:22Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "solidworks"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:irrobot/quadcopter-materials-practice",
+  "source": "GitHub",
+  "name": "IRROBOT/quadcopter-materials-practice",
+  "owner": "IRROBOT",
+  "url": "https://github.com/IRROBOT/quadcopter-materials-practice",
+  "description": "An editable quadcopter practice model and a nine-step guide to part materials, face finishes, and appearance export.",
+  "homepage": "https://reactor3d.xyz/en/tutorials/change-part-materials",
+  "stars": 0,
+  "language": "",
+  "topics": [
+   "3d-modeling",
+   "cad",
+   "quadcopter"
+  ],
+  "created_at": "2026-11-23T03:38:49Z",
+  "pushed_at": "2026-11-23T03:40:55Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "DEMO",
+   "AEC"
+  ],
+  "matched": [
+   "step"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
+  "id": "gh:emodarklord/jig-solidworks-mcp",
+  "source": "GitHub",
+  "name": "emodarklord/jig-solidworks-mcp",
+  "owner": "emodarklord",
+  "url": "https://github.com/emodarklord/jig-solidworks-mcp",
+  "description": "Jig: an MCP server that lets AI assistants drive SOLIDWORKS through its COM API. One build for SOLIDWORKS 2021+, every license type.",
+  "homepage": "",
+  "stars": 0,
+  "language": "C#",
+  "topics": [
+   "cad",
+   "csharp",
+   "mcp",
+   "mcp-server",
+   "model-context-protocol",
+   "solidworks"
+  ],
+  "created_at": "2026-11-23T02:59:53Z",
+  "pushed_at": "2026-11-23T03:00:05Z",
+  "query": "topic:cad",
+  "always_publish": false,
+  "eco_min": null,
+  "relevant": true,
+  "score": 5,
+  "flags": [
+   "AEC"
+  ],
+  "matched": [
+   "solidworks"
+  ],
+  "ai_files": [],
+  "found_at": "2026-11-23T07:28:38Z"
+ },
+ {
   "id": "gh:grillergeek/story-stick",
   "source": "GitHub",
   "name": "GrillerGeek/story-stick",
@@ -3832,7 +4975,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "AEC",
    "RISING"
@@ -3866,7 +5009,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "DEMO",
    "AEC"
@@ -3903,7 +5046,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "DEMO",
    "AI"
@@ -3940,7 +5083,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "DEMO",
    "AI"
@@ -3976,7 +5119,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "AEC",
    "INTEROP"
@@ -4011,7 +5154,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "DEMO"
   ],
@@ -4036,7 +5179,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "CLONE",
@@ -4068,7 +5211,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC",
    "SKETCHUP"
@@ -4096,7 +5239,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC",
    "SKETCHUP"
@@ -4132,7 +5275,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -4166,7 +5309,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -4202,7 +5345,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -4240,7 +5383,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -4275,7 +5418,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -4310,7 +5453,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -4344,7 +5487,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -4377,7 +5520,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 5,
+  "score": 4,
   "flags": [
    "AEC"
   ],
@@ -4407,7 +5550,7 @@
   "always_publish": false,
   "eco_min": 3,
   "relevant": true,
-  "score": 4,
+  "score": 3,
   "flags": [
    "BLENDER"
   ],
@@ -4566,7 +5709,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 8,
+  "score": 7,
   "flags": [
    "DEMO",
    "AEC"
@@ -4672,7 +5815,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 7,
+  "score": 6,
   "flags": [
    "AEC",
    "CLONE",
@@ -4836,7 +5979,7 @@
   "always_publish": false,
   "eco_min": null,
   "relevant": true,
-  "score": 6,
+  "score": 5,
   "flags": [
    "AEC",
    "INTEROP",
@@ -13603,997 +14746,5 @@
   ],
   "ai_files": [],
   "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:goldwinambrose/sketchup-ai-bridge",
-  "source": "GitHub",
-  "name": "goldwinambrose/sketchup-ai-bridge",
-  "owner": "goldwinambrose",
-  "url": "https://github.com/goldwinambrose/sketchup-ai-bridge",
-  "description": "Experimental local MCP bridge for SketchUp desktop, ChatGPT and Claude.",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-11-15T12:12:47Z",
-  "pushed_at": "2026-11-15T14:18:13Z",
-  "query": "sketchup",
-  "always_publish": false,
-  "eco_min": 3,
-  "relevant": true,
-  "score": 6,
-  "flags": [
-   "AEC",
-   "INTEROP",
-   "SKETCHUP"
-  ],
-  "matched": [
-   "sketchup"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:frank-estine/inventaur-rhino3d-to-solidedge",
-  "source": "GitHub",
-  "name": "Frank-estine/inventaur-rhino3d-to-solidedge",
-  "owner": "Frank-estine",
-  "url": "https://github.com/Frank-estine/inventaur-rhino3d-to-solidedge",
-  "description": "Inventaur Inc. — Rhino3D to Solid Edge deterministic CAD automation workflow and offline bootstrap.",
-  "homepage": "https://inventaur.in",
-  "stars": 0,
-  "language": "Python",
-  "topics": [
-   "rhino3",
-   "rhino3d",
-   "rhino3dm",
-   "solidedge",
-   "solidedge-addin"
-  ],
-  "created_at": "2026-11-15T10:43:19Z",
-  "pushed_at": "2026-11-15T15:14:44Z",
-  "query": "rhino3d",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 6,
-  "flags": [
-   "DEMO",
-   "AEC",
-   "AI"
-  ],
-  "matched": [
-   "rhino3d"
-  ],
-  "ai_files": [
-   "AGENTS.md"
-  ],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:w0rxbend/monitor-stand-extenstions",
-  "source": "GitHub",
-  "name": "w0rxbend/monitor-stand-extenstions",
-  "owner": "w0rxbend",
-  "url": "https://github.com/w0rxbend/monitor-stand-extenstions",
-  "description": "A clamp for the monitor-stand column and a wide shelf for three cameras on 1/4-inch screws.",
-  "homepage": "https://w0rxbend.github.io/monitor-stand-extenstions/",
-  "stars": 0,
-  "language": "Python",
-  "topics": [
-   "3d-printing",
-   "build123d",
-   "cad",
-   "camera-mount",
-   "monitor-stand",
-   "parametric-design",
-   "petg",
-   "tpu"
-  ],
-  "created_at": "2026-11-14T23:16:42Z",
-  "pushed_at": "2026-11-15T18:39:26Z",
-  "query": "topic:cad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 6,
-  "flags": [
-   "DEMO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:tharje/solidcraft-plugins",
-  "source": "GitHub",
-  "name": "tharje/solidcraft-plugins",
-  "owner": "tharje",
-  "url": "https://github.com/tharje/solidcraft-plugins",
-  "description": "Community plugins for SolidCraft CAD in one place: search, tags and a download button for each. Updated daily from GitHub.",
-  "homepage": "https://tharje.github.io/solidcraft-plugins/",
-  "stars": 1,
-  "language": "Python",
-  "topics": [
-   "3d-print",
-   "3d-printing",
-   "awesome-list",
-   "cad",
-   "community",
-   "directory",
-   "github-pages",
-   "maker",
-   "open-source",
-   "parametric-cad",
-   "plugin-directory",
-   "plugin-registry",
-   "plugins",
-   "solidcraft",
-   "solidcraft-plugins",
-   "static-site"
-  ],
-  "created_at": "2026-11-15T10:42:58Z",
-  "pushed_at": "2026-11-15T17:37:53Z",
-  "query": "topic:cad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 6,
-  "flags": [
-   "DEMO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:alexsk-sys/revit-mcp-bridge-public",
-  "source": "GitHub",
-  "name": "AlexSk-sys/revit-mcp-bridge-public",
-  "owner": "AlexSk-sys",
-  "url": "https://github.com/AlexSk-sys/revit-mcp-bridge-public",
-  "description": "JSON-RPC bridge that lets MCP agents drive a live Autodesk Revit session (C#/.NET, Revit 2019).",
-  "homepage": "",
-  "stars": 0,
-  "language": "C#",
-  "topics": [],
-  "created_at": "2026-11-15T12:20:18Z",
-  "pushed_at": "2026-11-15T12:20:24Z",
-  "query": "revit",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 5,
-  "flags": [
-   "AEC",
-   "INTEROP",
-   "AI"
-  ],
-  "matched": [
-   "revit"
-  ],
-  "ai_files": [
-   "CLAUDE.md"
-  ],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:gsuryaias/claude-autocad-field-guide",
-  "source": "GitHub",
-  "name": "gsuryaias/claude-autocad-field-guide",
-  "owner": "gsuryaias",
-  "url": "https://github.com/gsuryaias/claude-autocad-field-guide",
-  "description": "A beginner-to-advanced field guide to Claude (AI) and AutoCAD for irrigation engineers in Andhra Pradesh",
-  "homepage": "https://gsuryaias.github.io/claude-autocad-field-guide/",
-  "stars": 0,
-  "language": "HTML",
-  "topics": [],
-  "created_at": "2026-11-15T08:03:45Z",
-  "pushed_at": "2026-11-15T08:03:51Z",
-  "query": "autocad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 5,
-  "flags": [
-   "DEMO",
-   "AEC"
-  ],
-  "matched": [
-   "autocad"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:elyh29/talos",
-  "source": "GitHub",
-  "name": "Elyh29/talos",
-  "owner": "Elyh29",
-  "url": "https://github.com/Elyh29/talos",
-  "description": "Standard screws with their holes in Blender, in one click,",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [
-   "blender",
-   "blender-addon",
-   "cad",
-   "fasteners",
-   "screws"
-  ],
-  "created_at": "2026-11-15T08:43:50Z",
-  "pushed_at": "2026-11-15T08:47:30Z",
-  "query": "topic:cad",
-  "always_publish": false,
-  "eco_min": 3,
-  "relevant": true,
-  "score": 5,
-  "flags": [
-   "BLENDER"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:pjgate/ts-releases",
-  "source": "GitHub",
-  "name": "pjgate/ts-releases",
-  "owner": "pjgate",
-  "url": "https://github.com/pjgate/ts-releases",
-  "description": "TS SketchUp plugins - releases (.rbz) only",
-  "homepage": "",
-  "stars": 0,
-  "language": "",
-  "topics": [],
-  "created_at": "2026-11-15T09:10:08Z",
-  "pushed_at": "2026-11-15T16:46:36Z",
-  "query": "sketchup",
-  "always_publish": false,
-  "eco_min": 3,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AEC",
-   "SKETCHUP"
-  ],
-  "matched": [
-   "sketchup"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:filippoaldrigo/revit-drive-connector",
-  "source": "GitHub",
-  "name": "FilippoAldrigo/revit-drive-connector",
-  "owner": "FilippoAldrigo",
-  "url": "https://github.com/FilippoAldrigo/revit-drive-connector",
-  "description": "Google Drive Connector for Autodesk Revit - Multi-user cloud worksharing",
-  "homepage": "",
-  "stars": 0,
-  "language": "",
-  "topics": [],
-  "created_at": "2026-11-15T18:38:48Z",
-  "pushed_at": "2026-11-15T18:46:27Z",
-  "query": "revit",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AEC",
-   "INTEROP"
-  ],
-  "matched": [
-   "revit"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:badsmc/freecad-dynamiccommand",
-  "source": "GitHub",
-  "name": "Badsmc/FreeCad-DynamicCommand",
-  "owner": "Badsmc",
-  "url": "https://github.com/Badsmc/FreeCad-DynamicCommand",
-  "description": "AutoCAD-style Dynamic Command Input for FreeCAD.",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-11-15T14:00:30Z",
-  "pushed_at": "2026-11-15T15:46:59Z",
-  "query": "autocad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AEC",
-   "CLONE"
-  ],
-  "matched": [
-   "autocad",
-   "freecad"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:adiversetech/autocad-2026-standalone-desktop-edition",
-  "source": "GitHub",
-  "name": "Adiversetech/autocad-2026-standalone-desktop-edition",
-  "owner": "Adiversetech",
-  "url": "https://github.com/Adiversetech/autocad-2026-standalone-desktop-edition",
-  "description": "AutoCad 2026 standalone desktop edition with complete pre-configured setup and full feature set",
-  "homepage": "",
-  "stars": 0,
-  "language": "TypeScript",
-  "topics": [
-   "autocad",
-   "automation",
-   "cad-automation",
-   "desktop",
-   "developer-tools",
-   "fsharp-interactive",
-   "open-source",
-   "python",
-   "scripts",
-   "software-engineering",
-   "system",
-   "utility",
-   "windows-app"
-  ],
-  "created_at": "2026-11-15T15:00:54Z",
-  "pushed_at": "2026-11-15T15:02:07Z",
-  "query": "autocad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AEC"
-  ],
-  "matched": [
-   "autocad"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:lipokzoltan1990-ux/datasmith-archicad30-mac",
-  "source": "GitHub",
-  "name": "lipokzoltan1990-ux/datasmith-archicad30-mac",
-  "owner": "lipokzoltan1990-ux",
-  "url": "https://github.com/lipokzoltan1990-ux/datasmith-archicad30-mac",
-  "description": "Build scripts: Epic's Datasmith Exporter (Twinmotion / Unreal Direct Link) for Archicad 30 on Apple Silicon. Scripts only, no Epic or Graphisoft code.",
-  "homepage": "",
-  "stars": 0,
-  "language": "Shell",
-  "topics": [],
-  "created_at": "2026-11-15T08:29:52Z",
-  "pushed_at": "2026-11-15T08:30:32Z",
-  "query": "archicad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AEC",
-   "INTEROP"
-  ],
-  "matched": [
-   "archicad"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:coderong9/gh2-cn-reference",
-  "source": "GitHub",
-  "name": "codeRong9/gh2-cn-reference",
-  "owner": "codeRong9",
-  "url": "https://github.com/codeRong9/gh2-cn-reference",
-  "description": "Grasshopper 2 中文学习与速查站：1410 个原生组件中文速查 + 171 篇核心组件精讲 + 画布识别台",
-  "homepage": "",
-  "stars": 1,
-  "language": "TypeScript",
-  "topics": [
-   "chinese",
-   "computational-design",
-   "documentation",
-   "grasshopper",
-   "grasshopper2",
-   "parametric-design",
-   "react",
-   "rhino",
-   "rhino3d",
-   "vite"
-  ],
-  "created_at": "2026-11-15T00:50:29Z",
-  "pushed_at": "2026-11-15T10:54:08Z",
-  "query": "rhino3d",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AEC"
-  ],
-  "matched": [
-   "rhino",
-   "rhino3d",
-   "grasshopper"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:mikelos151/orthosculptcad",
-  "source": "GitHub",
-  "name": "mikelos151/OrthoSculptCAD",
-  "owner": "mikelos151",
-  "url": "https://github.com/mikelos151/OrthoSculptCAD",
-  "description": "Open-source technical CAD suite for lower-limb prosthetics socket rectification and alignment",
-  "homepage": "",
-  "stars": 0,
-  "language": "TypeScript",
-  "topics": [
-   "biomechanics",
-   "cad",
-   "local-first",
-   "open-source",
-   "prosthetics",
-   "rust",
-   "threejs",
-   "typescript",
-   "webworkers"
-  ],
-  "created_at": "2026-11-15T07:59:44Z",
-  "pushed_at": "2026-11-15T13:33:27Z",
-  "query": "cad threejs",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "WEB"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:foadsf/canoncad",
-  "source": "GitHub",
-  "name": "Foadsf/CanonCAD",
-  "owner": "Foadsf",
-  "url": "https://github.com/Foadsf/CanonCAD",
-  "description": "STEP-native (ISO 10303-21) parametric CAD/CAE/MBD kernel (OCCT + SolveSpace) and pure native Avalonia/Skia desktop Studio",
-  "homepage": "",
-  "stars": 0,
-  "language": "C#",
-  "topics": [
-   "avalonia",
-   "cad",
-   "floss",
-   "iso-10303-21",
-   "mbd",
-   "opencascade",
-   "parametric-cad",
-   "solvespace",
-   "step"
-  ],
-  "created_at": "2026-11-15T10:57:36Z",
-  "pushed_at": "2026-11-15T15:21:24Z",
-  "query": "\"parametric cad\"",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AEC"
-  ],
-  "matched": [
-   "step",
-   "opencascade",
-   "occt"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:tharje/opengrid-solidcraft",
-  "source": "GitHub",
-  "name": "tharje/opengrid-solidcraft",
-  "owner": "tharje",
-  "url": "https://github.com/tharje/opengrid-solidcraft",
-  "description": "openGrid wall and desk boards for SolidCraft CAD: Full or Lite, screw holes, cut corners, as editable features",
-  "homepage": "",
-  "stars": 0,
-  "language": "Rust",
-  "topics": [
-   "3d-print",
-   "3d-printing",
-   "cad",
-   "maker",
-   "opengrid",
-   "opengrid-board",
-   "organization",
-   "parametric",
-   "parametric-cad",
-   "pegboard",
-   "plugin",
-   "rust",
-   "solidcraft",
-   "solidcraft-plugin",
-   "solidcraft-plugins",
-   "storage",
-   "wall-mount",
-   "wall-organizer",
-   "wasm",
-   "webassembly"
-  ],
-  "created_at": "2026-11-15T17:36:53Z",
-  "pushed_at": "2026-11-15T17:37:04Z",
-  "query": "topic:cad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "WEB"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:pietini69/photondiagram",
-  "source": "GitHub",
-  "name": "pietini69/photondiagram",
-  "owner": "pietini69",
-  "url": "https://github.com/pietini69/photondiagram",
-  "description": "PhotonDiagram – Modern, high-performance technical diagramming, electrical schematics, floor plans, and CAD drawing tool with full .vsdx, .vdx, .vsd, .vssx, .svg, .dxf, and LightBurn .lbrn2 support.",
-  "homepage": "",
-  "stars": 0,
-  "language": "Rust",
-  "topics": [
-   "cad",
-   "dxf",
-   "egui",
-   "electrical-engineering",
-   "floorplan",
-   "lightburn",
-   "rust",
-   "schematic",
-   "visio",
-   "vsdx"
-  ],
-  "created_at": "2026-11-15T04:46:14Z",
-  "pushed_at": "2026-11-15T15:39:19Z",
-  "query": "topic:cad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AEC"
-  ],
-  "matched": [
-   "dxf"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:zmf678/solidworks-mcp-pro",
-  "source": "GitHub",
-  "name": "zmf678/solidworks-mcp-pro",
-  "owner": "zmf678",
-  "url": "https://github.com/zmf678/solidworks-mcp-pro",
-  "description": "Engineering-hardened fork of hjbaard/SolidWorks-MCP: CI, lint, typing, tests, docs and modular architecture.",
-  "homepage": "",
-  "stars": 1,
-  "language": "Python",
-  "topics": [
-   "cad",
-   "ci",
-   "engineering",
-   "mcp",
-   "modular",
-   "python",
-   "solidworks",
-   "testing"
-  ],
-  "created_at": "2026-11-15T13:15:27Z",
-  "pushed_at": "2026-11-15T14:58:40Z",
-  "query": "topic:cad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AEC"
-  ],
-  "matched": [
-   "solidworks"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:moondragon-md/ingetrazo-same_mat",
-  "source": "GitHub",
-  "name": "MoonDragon-MD/IngeTrazo-same_mat",
-  "owner": "MoonDragon-MD",
-  "url": "https://github.com/MoonDragon-MD/IngeTrazo-same_mat",
-  "description": "IngeTrazo Extension - Selects faces with the same material, allowing you to color them or apply a different material; it also automatically applies the material to the back face. Languages: ENG + ITA",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-11-15T11:24:30Z",
-  "pushed_at": "2026-11-15T12:10:33Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:arthurarquitetoamb/extension-ingetrazo-surface-instancer",
-  "source": "GitHub",
-  "name": "arthurarquitetoamb/extension-ingetrazo-surface-instancer",
-  "owner": "arthurarquitetoamb",
-  "url": "https://github.com/arthurarquitetoamb/extension-ingetrazo-surface-instancer",
-  "description": "Surface Instancer - Copy group onto selected faces",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-11-15T07:44:59Z",
-  "pushed_at": "2026-11-15T07:52:57Z",
-  "query": "ingetrazo",
-  "always_publish": true,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "INGETRAZO"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:evarynstudio/ref2blender",
-  "source": "GitHub",
-  "name": "evarynstudio/ref2blender",
-  "owner": "evarynstudio",
-  "url": "https://github.com/evarynstudio/ref2blender",
-  "description": "Blender add-on + MCP server: your AI assistant builds game-ready 3D models from reference images and exports them for Unity, Unreal and Godot",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [
-   "3d-modeling",
-   "blender",
-   "blender-addon",
-   "gamedev",
-   "godot",
-   "mcp",
-   "unity",
-   "unreal-engine"
-  ],
-  "created_at": "2026-11-15T10:42:21Z",
-  "pushed_at": "2026-11-15T12:05:07Z",
-  "query": "blender add-on",
-  "always_publish": false,
-  "eco_min": 3,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "BLENDER"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:gimzou/house-render-plugin",
-  "source": "GitHub",
-  "name": "Gimzou/house-render-plugin",
-  "owner": "Gimzou",
-  "url": "https://github.com/Gimzou/house-render-plugin",
-  "description": "Claude Code plugin: floor plans to Blender previews and photoreal renders",
-  "homepage": "",
-  "stars": 0,
-  "language": "Python",
-  "topics": [],
-  "created_at": "2026-11-15T15:17:17Z",
-  "pushed_at": "2026-11-15T15:20:56Z",
-  "query": "blender plugin",
-  "always_publish": false,
-  "eco_min": 3,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "BLENDER",
-   "AI"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-15T18:48:00Z"
- },
- {
-  "id": "gh:merecete/katiecad",
-  "source": "GitHub",
-  "name": "Merecete/KatieCAD",
-  "owner": "Merecete",
-  "url": "https://github.com/Merecete/KatieCAD",
-  "description": "Electrical CAD for switchgear and building installation. Draw schematics, wire devices, and generate the device list, terminal plan and cable plan automatically. Full 2D drafting, simple 3D, DXF/DWG. Python/Tkinter, free and Open Source",
-  "homepage": "",
-  "stars": 25,
-  "language": "Python",
-  "topics": [
-   "cad",
-   "cad-2d",
-   "cad-3d",
-   "cad-automation",
-   "cad-design",
-   "cad-modeling",
-   "cad-viewer",
-   "dxf",
-   "electrical",
-   "electrical-engineering",
-   "python",
-   "python3",
-   "technical-documents",
-   "technical-drawing",
-   "tkinter",
-   "tkinter-graphic-interface",
-   "tkinter-gui",
-   "tkinter-python"
-  ],
-  "created_at": "2026-10-19T18:46:48Z",
-  "pushed_at": "2026-11-13T15:32:49Z",
-  "query": "cad",
-  "rising": true,
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 9,
-  "flags": [
-   "AEC",
-   "CLONE",
-   "RISING"
-  ],
-  "matched": [
-   "dxf",
-   "dwg"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-15T06:21:52Z"
- },
- {
-  "id": "gh:raulromero-dev/phygital-studio",
-  "source": "GitHub",
-  "name": "raulromero-dev/phygital-studio",
-  "owner": "raulromero-dev",
-  "url": "https://github.com/raulromero-dev/phygital-studio",
-  "description": "Find electronic parts, visualize fit, and plan real connections. Includes the Phygital agent skill.",
-  "homepage": "https://phygitalstudio.app",
-  "stars": 0,
-  "language": "JavaScript",
-  "topics": [
-   "agent-skill",
-   "blender",
-   "cad",
-   "codex-skill",
-   "electronics",
-   "esp32",
-   "hardware"
-  ],
-  "created_at": "2026-11-15T00:37:03Z",
-  "pushed_at": "2026-11-15T05:25:15Z",
-  "query": "topic:cad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 7,
-  "flags": [
-   "DEMO",
-   "AI"
-  ],
-  "matched": [],
-  "ai_files": [
-   "AGENTS.md"
-  ],
-  "found_at": "2026-11-15T06:21:52Z"
- },
- {
-  "id": "gh:brcoderai/cad-viewer",
-  "source": "GitHub",
-  "name": "BRCoderAI/cad-viewer",
-  "owner": "BRCoderAI",
-  "url": "https://github.com/BRCoderAI/cad-viewer",
-  "description": "",
-  "homepage": "https://brcoderai.github.io/cad-viewer/",
-  "stars": 0,
-  "language": "TypeScript",
-  "topics": [
-   "brep",
-   "cad",
-   "cad-viewer",
-   "gltf",
-   "iges",
-   "occt",
-   "step",
-   "stl",
-   "threejs",
-   "webassembly"
-  ],
-  "created_at": "2026-11-14T21:59:42Z",
-  "pushed_at": "2026-11-15T04:16:02Z",
-  "query": "cad threejs",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 6,
-  "flags": [
-   "DEMO",
-   "AEC",
-   "WEB"
-  ],
-  "matched": [
-   "step",
-   "brep",
-   "occt"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-15T06:21:52Z"
- },
- {
-  "id": "gh:djmcnewgent/dabblecad",
-  "source": "GitHub",
-  "name": "DJMcNewgent/DabbleCAD",
-  "owner": "DJMcNewgent",
-  "url": "https://github.com/DJMcNewgent/DabbleCAD",
-  "description": "An offline, open-source alternative to Tinkercad for 3D design and 3D printing, plus laser projects and depth maps. Runs locally; no account needed.",
-  "homepage": "",
-  "stars": 0,
-  "language": "JavaScript",
-  "topics": [
-   "3d-modeling",
-   "3d-printing",
-   "cad",
-   "electron",
-   "laser",
-   "offline",
-   "stl"
-  ],
-  "created_at": "2026-11-15T00:04:23Z",
-  "pushed_at": "2026-11-15T01:15:04Z",
-  "query": "topic:cad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 5,
-  "flags": [
-   "CLONE"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-15T06:21:52Z"
- },
- {
-  "id": "gh:precisioncrab/fusion-rhino3d-navigation",
-  "source": "GitHub",
-  "name": "precisioncrab/Fusion-rhino3d-navigation",
-  "owner": "precisioncrab",
-  "url": "https://github.com/precisioncrab/Fusion-rhino3d-navigation",
-  "description": "Rhino-style mouse navigation in Autodesk Fusion on a 3Dconnexion CadMouse: wheel click opens the marking menu (3DxWare profile script, Windows)",
-  "homepage": "",
-  "stars": 0,
-  "language": "PowerShell",
-  "topics": [
-   "3dconnexion",
-   "autodesk-fusion",
-   "cadmouse",
-   "fusion360",
-   "powershell",
-   "rhino3d"
-  ],
-  "created_at": "2026-11-14T23:27:02Z",
-  "pushed_at": "2026-11-14T23:37:16Z",
-  "query": "rhino3d",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "AEC",
-   "CLONE"
-  ],
-  "matched": [
-   "rhino",
-   "rhino3d"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-15T06:21:52Z"
- },
- {
-  "id": "gh:kongbaige010/dsh-cad-panel",
-  "source": "GitHub",
-  "name": "Kongbaige010/dsh-cad-panel",
-  "owner": "Kongbaige010",
-  "url": "https://github.com/Kongbaige010/dsh-cad-panel",
-  "description": "Third-party DSH plugin: text-to-cad live viewer in the right sidebar + offline rotatable model previews",
-  "homepage": "",
-  "stars": 0,
-  "language": "JavaScript",
-  "topics": [
-   "cad",
-   "dsh",
-   "dsh-plugin",
-   "text-to-cad",
-   "threejs"
-  ],
-  "created_at": "2026-11-15T00:39:06Z",
-  "pushed_at": "2026-11-15T01:41:42Z",
-  "query": "cad threejs",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "WEB"
-  ],
-  "matched": [],
-  "ai_files": [],
-  "found_at": "2026-11-15T06:21:52Z"
- },
- {
-  "id": "gh:irrobot/stl-editing-practice",
-  "source": "GitHub",
-  "name": "IRROBOT/stl-editing-practice",
-  "owner": "IRROBOT",
-  "url": "https://github.com/IRROBOT/stl-editing-practice",
-  "description": "Practice models and a step-by-step STL editing exercise: fill a hole, move and resize it, and preserve the plate dimensions.",
-  "homepage": "https://reactor3d.xyz/en/tutorials/how-to-edit-stl-files",
-  "stars": 1,
-  "language": "",
-  "topics": [
-   "3d-printing",
-   "cad",
-   "mesh-editing",
-   "stl",
-   "tutorial"
-  ],
-  "created_at": "2026-11-15T02:23:19Z",
-  "pushed_at": "2026-11-15T02:27:16Z",
-  "query": "topic:cad",
-  "always_publish": false,
-  "eco_min": null,
-  "relevant": true,
-  "score": 4,
-  "flags": [
-   "DEMO",
-   "AEC"
-  ],
-  "matched": [
-   "step"
-  ],
-  "ai_files": [],
-  "found_at": "2026-11-15T06:21:52Z"
  }
 ]
